@@ -1,6 +1,7 @@
 # Catalog Update Log
 
 ## 2026-07-16
+* **Creation**: Installed [`gh`](/skills/development/gh.md) from paulnsorensen/skillz-that-grillz — GitHub PRs/issues/CI/releases via `gh` CLI (no commit/push).
 * **Update**: Refreshed [`playbooks/agent-selection.md`](/playbooks/agent-selection.md) — full domain routing (frontend, GCP, security, testing, writing), fixed browser agent naming, kept narrowest-capability rule.
 * **Update**: Refreshed `humanizer` from blader/humanizer (material upstream growth).
 * **Update**: Refreshed all 31 Claude SEO skills from AgriciDaniel/claude-seo (25 via skills CLI; 6 extensions synced from `extensions/*/skills`).

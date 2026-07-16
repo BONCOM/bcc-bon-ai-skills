@@ -15,6 +15,7 @@ Never invent an unavailable agent or model name. Choose only from the agent and 
 - Narrow repository lookup (one file, one symbol, one command) -> direct Glob, rg, and Read tools
 - Broad codebase exploration -> `explore`
 - Command-heavy work (git, builds, long shell) -> `shell`
+- GitHub PRs, issues, CI status, releases, `gh` ops -> `gh` (not for commit/push — use commit rules)
 - Browser flows and UI verification -> browser MCP / tools available in-session (e.g. `cursor-ide-browser`); do not assume a `browser-use` agent exists
 - One failed PR check -> `ci-investigator`
 - Explicit local change review -> `bugbot` (only when the user asks)

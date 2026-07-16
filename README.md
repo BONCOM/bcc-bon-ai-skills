@@ -10,7 +10,7 @@ timestamp: 2026-07-16T00:00:00Z
 
 This repository is an **[Open Knowledge Format (OKF) v0.1](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)** knowledge bundle.
 
-**86 unique installed skills** (40 development + 31 SEO + 1 writing + 14 Superpowers), plus 23 deferred tools.
+**87 unique installed skills** (41 development + 31 SEO + 1 writing + 14 Superpowers), plus 23 deferred tools.
 
 ## Start here
 

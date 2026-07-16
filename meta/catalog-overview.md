@@ -6,11 +6,11 @@ tags: [overview, catalog]
 timestamp: 2026-07-16T00:00:00Z
 okf_bundle: boncom-ai-skills
 counts:
-  development: 40
+  development: 41
   seo: 31
   writing: 1
   superpowers: 14
-  total_unique: 86
+  total_unique: 87
   deferred: 23
 ---
 
@@ -20,11 +20,11 @@ This repository is an **Open Knowledge Format (OKF) v0.1** knowledge bundle for 
 
 | Category | Unique skills |
 |----------|---------------|
-| Development | 40 |
+| Development | 41 |
 | SEO | 31 |
 | Writing | 1 |
 | Superpowers | 14 |
-| **Total unique** | **86** |
+| **Total unique** | **87** |
 | Deferred (not installed) | 23 |
 
 # How to navigate

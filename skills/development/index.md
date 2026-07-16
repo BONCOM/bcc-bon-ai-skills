@@ -8,6 +8,7 @@
 * [stripe-webhooks](./stripe-webhooks.md) - Stripe payment, subscription, and invoice webhook setup belongs here: signature verification with the raw body, common event types, and framework examples. Pair
 * [observability-and-instrumentation](./observability-and-instrumentation.md) - Production endpoints, jobs, queues, retries, and service integrations need this skill when current telemetry cannot explain failures. It defines operational que
 * [ci-cd-and-automation](./ci-cd-and-automation.md) - Choose this for CI pipelines, quality gates, test jobs, and deployment workflows. It orders static checks, tests, builds, and releases so failures are caught ea
+* [gh](./gh.md) - GitHub operations via the `gh` CLI — PRs, issues, CI checks, releases, workflow runs, code search, repo and label management (no commit/push)
 * [performance-optimization](./performance-optimization.md) - Measured slowness, regressions, Core Web Vitals failures, slow database access, and explicit latency budgets are its trigger. The workflow requires a baseline a
 * [python-testing-patterns](./python-testing-patterns.md) - Python test work with pytest is the focus here, including fixtures, parametrization, mocks, async code, database tests, and integration coverage. The skill help
 * [playwright-best-practices](./playwright-best-practices.md) - Playwright test design and maintenance are covered in depth: reliable locators, fixtures, page objects, authentication, API mocking, visual checks, CI, accessib
