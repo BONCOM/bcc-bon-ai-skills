@@ -53,8 +53,22 @@
 * [google-cloud-waf-operational-excellence](./google-cloud-waf-operational-excellence.md) - Operational reviews of a Google Cloud workload belong here. The skill covers readiness criteria, release practice, monitoring, incident handling, and continuous
 * [google-cloud-solution-architecture](./google-cloud-solution-architecture.md) - Complex Google Cloud workloads that span products need this broader architecture process for requirement discovery, design choices, validation, and a packaged r
 
+# Documents
+
+* [pdf](./pdf.md) - Create, read, merge, split, form-fill, OCR, or otherwise manipulate PDF files
+* [docx](./docx.md) - Create, read, edit, or manipulate Word (.docx) documents
+* [pptx](./pptx.md) - Create, read, edit, or combine PowerPoint (.pptx) decks
+* [xlsx](./xlsx.md) - Create, read, edit, or clean spreadsheet files when the deliverable is a spreadsheet
+
+# Workflow and discovery
+
+* [find-skills](./find-skills.md) - Discover and install skills from skills.sh when the user asks whether a skill exists for a task
+* [handoff](./handoff.md) - Compact the current conversation into a temp-directory handoff doc for a fresh agent or session (manual invoke)
+* [caveman](./caveman.md) - Ultra-compressed reply style to cut narration tokens while keeping technical facts exact
+
 # Skill development
 
 * [claude-api](./claude-api.md) - Claude and Anthropic SDK work should start with this reference, including model IDs, pricing, streaming, tool use, caching, tokens, and migrations. It routes to
 * [mcp-builder](./mcp-builder.md) - Building or redesigning MCP servers (Python FastMCP or Node/TypeScript SDK) belongs here: research → tool design → implementation → evaluation. It is the MCP co
 * [skill-creator](./skill-creator.md) - Skill authoring and evaluation in Claude Code are the purpose of this plugin. It can create or revise a skill, design realistic trigger and output evaluations,
+* [code-simplifier](./code-simplifier.md) - Claude Code agent that simplifies recently modified code for clarity while preserving behavior

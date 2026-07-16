@@ -12,7 +12,7 @@ okf_version: "0.1"
 
 # Knowledge
 
-* [Installed skills](./skills/) - 87 unique skills across development, SEO, writing, Superpowers
+* [Installed skills](./skills/) - 95 unique skills across development, SEO, writing, Superpowers
 * [Deferred tools](./deferred/) - 23 reviewed, not installed
 * [Meta](./meta/) - Overview and design references
 * [Playbooks](./playbooks/) - Routing and maintenance

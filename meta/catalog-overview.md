@@ -6,11 +6,11 @@ tags: [overview, catalog]
 timestamp: 2026-07-16T00:00:00Z
 okf_bundle: boncom-ai-skills
 counts:
-  development: 41
+  development: 49
   seo: 31
   writing: 1
   superpowers: 14
-  total_unique: 87
+  total_unique: 95
   deferred: 23
 ---
 
@@ -20,11 +20,11 @@ This repository is an **Open Knowledge Format (OKF) v0.1** knowledge bundle for 
 
 | Category | Unique skills |
 |----------|---------------|
-| Development | 41 |
+| Development | 49 |
 | SEO | 31 |
 | Writing | 1 |
 | Superpowers | 14 |
-| **Total unique** | **87** |
+| **Total unique** | **95** |
 | Deferred (not installed) | 23 |
 
 # How to navigate
@@ -39,7 +39,7 @@ This repository is an **Open Knowledge Format (OKF) v0.1** knowledge bundle for 
 
 - Normal skills: `~/.claude/skills/` (Cursor reads this Claude compatibility path).
 - Superpowers: separate Cursor and Claude Code plugin cache paths; 14 names counted once.
-- Skill Creator: Claude Code plugin only.
+- Skill Creator and code-simplifier: Claude Code plugins only.
 
 # Out of scope
 

@@ -35,6 +35,16 @@ Prefer the specialist. Use a broad skill only when the task spans disciplines or
 - Multi-discipline SEO or unclear routing -> `seo`
 - Humanize AI-sounding prose -> `humanizer`
 
+### Documents and session workflow
+
+- PDF files -> `pdf`
+- Word `.docx` -> `docx`
+- PowerPoint `.pptx` / decks -> `pptx`
+- Spreadsheets (`.xlsx` / `.csv` as deliverable) -> `xlsx`
+- Discover/install a skill from skills.sh -> `find-skills` (still run trust review before adopting)
+- End-of-session / cross-agent resume doc -> `handoff` (manual `/handoff`)
+- Ultra-brief caveman replies -> `caveman` (opt-in; say "normal mode" to exit)
+
 ### Auth and payments
 
 - Better Auth setup / scaffold -> `better-auth-best-practices` or `create-auth`
@@ -70,6 +80,7 @@ Prefer the specialist. Use a broad skill only when the task spans disciplines or
 - Claude / Anthropic SDK -> `claude-api`
 - Building an MCP server -> `mcp-builder`
 - Authoring a skill (Claude Code plugin) -> `skill-creator`
+- Simplify recently written code without behavior change (Claude Code) -> `code-simplifier`
 
 ### Frontend
 

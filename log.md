@@ -1,6 +1,7 @@
 # Catalog Update Log
 
 ## 2026-07-16
+* **Creation**: Installed workflow/docs pack — [`find-skills`](/skills/development/find-skills.md) (vercel-labs/skills), [`handoff`](/skills/development/handoff.md) (mattpocock/skills), Anthropic document skills [`pdf`](/skills/development/pdf.md) / [`docx`](/skills/development/docx.md) / [`pptx`](/skills/development/pptx.md) / [`xlsx`](/skills/development/xlsx.md), [`caveman`](/skills/development/caveman.md) (JuliusBrussee/caveman), and Claude Code plugin [`code-simplifier`](/skills/development/code-simplifier.md). Skipped community `code-simplifier` clones with Gen Trust Fail. Catalog now 95 unique skills (49 development).
 * **Creation**: Installed [`gh`](/skills/development/gh.md) from paulnsorensen/skillz-that-grillz — GitHub PRs/issues/CI/releases via `gh` CLI (no commit/push).
 * **Update**: Refreshed [`playbooks/agent-selection.md`](/playbooks/agent-selection.md) — full domain routing (frontend, GCP, security, testing, writing), fixed browser agent naming, kept narrowest-capability rule.
 * **Update**: Refreshed `humanizer` from blader/humanizer (material upstream growth).
