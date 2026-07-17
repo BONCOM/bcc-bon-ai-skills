@@ -17,7 +17,7 @@ timestamp: 2026-07-16T20:47:50-06:00
 [![OKF](https://img.shields.io/badge/OKF-v0.1-059669?style=for-the-badge)](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)
 [![Catalog](https://img.shields.io/badge/catalog-private-6b7280?style=for-the-badge)](https://github.com/BONCOM/boncom-ai-skills)
 
-**Maintained by [Rishi Ramesh](https://github.com/rramesh)**
+**Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
 `Last updated: 2026-07-16 20:47:50 MDT`
 
@@ -352,7 +352,7 @@ python3 scripts/build_okf_catalog.py
 
 **Rishi Ramesh** — catalog design, trust review, installs, and routing for Boncom.
 
-- GitHub: [@rramesh](https://github.com/rramesh)
+- GitHub: [@rrishi0309](https://github.com/rrishi0309)
 - Org repo: [BONCOM/boncom-ai-skills](https://github.com/BONCOM/boncom-ai-skills)
 
 ---
