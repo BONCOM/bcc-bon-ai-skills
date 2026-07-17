@@ -1,10 +1,10 @@
 ---
 type: Agent Skill
 title: docx
-description: "Create, read, edit, or manipulate Word (.docx) documents — professional formatting, tracked changes, comments, templates, find-and-replace, and image insertion."
+description: "Create, read, edit, or manipulate Word (.docx, .dotx) documents — professional formatting, tracked changes, comments, templates, find-and-replace, and image insertion."
 resource: "https://github.com/anthropics/skills/blob/main/skills/docx/SKILL.md"
 tags: [development, installed, documents]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-17T00:00:00Z
 category: development
 group: Documents
 license: Proprietary
@@ -15,7 +15,7 @@ Word document create/edit/analyze workflow from Anthropic's document skills pack
 
 # When to use
 
-Any `.docx` / Word deliverable: reports, memos, letters, templates, tracked changes, comments, or reorganization of existing Word files. Not for PDFs, spreadsheets, or Google Docs.
+Any `.docx` / `.dotx` Word deliverable: reports, memos, letters, templates, tracked changes, comments, or reorganization of existing Word files. Not for PDFs, spreadsheets, or Google Docs.
 
 # Installed at
 
@@ -31,7 +31,7 @@ Proprietary (Anthropic document skill terms in `LICENSE.txt`). Use governed by y
 
 # Trust notes
 
-Official Anthropic document skill. Bundles `scripts/` (including office/LibreOffice helpers and comment/accept-changes utilities) that run locally on user documents. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Low Risk. May invoke `pandoc` or soffice conversion when the workflow requires it.
+Official Anthropic document skill. Bundles `scripts/` (including office/LibreOffice helpers and comment/accept-changes utilities) that run locally on user documents. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Low Risk. May invoke `pandoc` or soffice conversion when the workflow requires it. 2026-07-17 upstream refresh rewrote the create/edit guidance around `docx-js` gotchas (page size, tables, TOC headings) and added `.dotx` template support.
 
 # Install / update
 

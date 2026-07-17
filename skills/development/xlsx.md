@@ -4,7 +4,7 @@ title: xlsx
 description: "Create, read, edit, or clean spreadsheet files (.xlsx, .xlsm, .csv, .tsv) — formulas, formatting, charts, and tabular cleanup when the deliverable is a spreadsheet."
 resource: "https://github.com/anthropics/skills/blob/main/skills/xlsx/SKILL.md"
 tags: [development, installed, documents]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-17T00:00:00Z
 category: development
 group: Documents
 license: Proprietary
@@ -31,7 +31,7 @@ Proprietary (Anthropic document skill terms in `LICENSE.txt`). Use governed by y
 
 # Trust notes
 
-Official Anthropic document skill. Bundles `scripts/` (recalc and office helpers) that run locally against workbook files. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Low Risk. Formula recalculation helpers may invoke spreadsheet tooling; keep untrusted files sandboxed.
+Official Anthropic document skill. Bundles `scripts/` (recalc and office helpers) that run locally against workbook files. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Low Risk. Formula recalculation helpers may invoke spreadsheet tooling; keep untrusted files sandboxed. Refreshed 2026-07-17 alongside the shared docx/pptx/xlsx office/ helper rewrite (no scope change for xlsx).
 
 # Install / update
 

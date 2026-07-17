@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-07-16T20:47:50-06:00
+timestamp: 2026-07-16T20:56:03-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-07-16T20:47:50-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-07-16 20:47:50 MDT`
+`Last updated: 2026-07-16 20:56:03 MDT`
 
 </div>
 
@@ -60,7 +60,7 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-06-12 | 2026-07-06 |
 | [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-06-30 | 2026-07-17 |
 | [`google/skills`](https://github.com/google/skills) | 10 | 2026-07-16 | 2026-07-17 |
-| [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-07-01 | 2026-07-16 |
+| [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-07-17 | 2026-07-17 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-07-11 | 2026-07-11 |
 | [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-07-11 | 2026-07-16 |
 | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) | 3 | 2026-04-14 | 2026-07-07 |
@@ -117,11 +117,11 @@ Google Cloud product skills for common Boncom cloud work.
 </details>
 
 <details>
-<summary><a href="https://github.com/anthropics/skills"><strong>anthropics/skills</strong></a> · <strong>7</strong> skills · skills updated <code>2026-07-01</code> · repo <code>2026-07-16</code></summary>
+<summary><a href="https://github.com/anthropics/skills"><strong>anthropics/skills</strong></a> · <strong>7</strong> skills · skills updated <code>2026-07-17</code> · repo <code>2026-07-17</code></summary>
 
 Official Anthropic skills for Claude/API work, UI design, MCP servers, and office documents.
 
-**Covers:** claude-api, frontend-design, mcp-builder, pdf, docx, pptx, xlsx
+**Covers:** claude-api, frontend-design, mcp-builder, pdf, docx (+ .dotx templates), pptx (+ .potx templates), xlsx
 
 **Installed:** `claude-api`, `docx`, `frontend-design`, `mcp-builder`, `pdf`, `pptx`, `xlsx`
 

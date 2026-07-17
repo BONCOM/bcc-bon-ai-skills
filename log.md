@@ -1,5 +1,8 @@
 # Catalog Update Log
 
+## 2026-07-17
+* **Update**: Refreshed [`docx`](/skills/development/docx.md), [`pptx`](/skills/development/pptx.md), and [`xlsx`](/skills/development/xlsx.md) from anthropics/skills commit `fa0fa64b` ("Update docx, pptx, and xlsx skills #1447") — docx-js authoring rewritten around concrete gotchas (page size, table widths/shading, TOC headings, list bullets), `.dotx`/`.potx` template support added to docx/pptx, shared `office/` helper scripts (pack/unpack/validate) refreshed across all three. Reinstalled via `skills@1.5.18` and verified local `SKILL.md` byte-matches upstream. Not present in the Cursor-native skills cache (`~/.cursor/skills-cursor/`), so no separate Cursor sync was needed.
+
 ## 2026-07-16
 * **Creation**: Installed workflow/docs pack — [`find-skills`](/skills/development/find-skills.md) (vercel-labs/skills), [`handoff`](/skills/development/handoff.md) (mattpocock/skills), Anthropic document skills [`pdf`](/skills/development/pdf.md) / [`docx`](/skills/development/docx.md) / [`pptx`](/skills/development/pptx.md) / [`xlsx`](/skills/development/xlsx.md), [`caveman`](/skills/development/caveman.md) (JuliusBrussee/caveman), and Claude Code plugin [`code-simplifier`](/skills/development/code-simplifier.md). Skipped community `code-simplifier` clones with Gen Trust Fail. Catalog now 95 unique skills (49 development).
 * **Creation**: Installed [`gh`](/skills/development/gh.md) from paulnsorensen/skillz-that-grillz — GitHub PRs/issues/CI/releases via `gh` CLI (no commit/push).
