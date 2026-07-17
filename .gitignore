@@ -2,3 +2,5 @@
 .env
 .env.*
 *.pem
+.skill-upstream-dates.json
+.skill-repo-dates.json
