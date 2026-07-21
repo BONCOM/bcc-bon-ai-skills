@@ -4,7 +4,7 @@ title: playwright-best-practices
 description: "Playwright test design and maintenance are covered in depth: reliable locators, fixtures, page objects, authentication, API mocking, visual checks, CI, accessibility, security, performance, and hard-to-test browser behavior. Its reference set is broad enough to route a specific test problem without "
 resource: "https://github.com/currents-dev/playwright-best-practices-skill/blob/main/SKILL.md"
 tags: [development, installed, development-quality]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-21T00:00:00Z
 category: development
 group: Development quality
 license: MIT

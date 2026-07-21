@@ -57,9 +57,9 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 
 | Repository | Skills | Last skill update | Repo activity |
 |---|---:|---|---|
-| [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-06-12 | 2026-07-06 |
+| [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-07-20 | 2026-07-20 |
 | [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-06-30 | 2026-07-17 |
-| [`google/skills`](https://github.com/google/skills) | 10 | 2026-07-16 | 2026-07-17 |
+| [`google/skills`](https://github.com/google/skills) | 10 | 2026-07-21 | 2026-07-21 |
 | [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-07-17 | 2026-07-17 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-07-11 | 2026-07-11 |
 | [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-07-11 | 2026-07-16 |
@@ -70,21 +70,21 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-04-28 | 2026-07-15 |
 | [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-01-31 | 2026-06-23 |
 | [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-06-29 | 2026-06-29 |
-| [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-03-13 | 2026-03-13 |
+| [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-07-21 | 2026-07-21 |
 | [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-06-25 | 2026-07-16 |
 | [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-06-22 | 2026-07-01 |
 | [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-07-03 | 2026-07-03 |
 | [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-07-08 | 2026-07-16 |
 | [`mcollina/skills`](https://github.com/mcollina/skills) | 1 | 2026-03-13 | 2026-07-16 |
 | [`microsoft/playwright-cli`](https://github.com/microsoft/playwright-cli) | 1 | 2026-07-09 | 2026-07-15 |
-| [`paulnsorensen/skillz-that-grillz`](https://github.com/paulnsorensen/skillz-that-grillz) | 1 | 2026-05-27 | 2026-07-16 |
+| [`paulnsorensen/skillz-that-grillz`](https://github.com/paulnsorensen/skillz-that-grillz) | 1 | 2026-07-17 | 2026-07-17 |
 | [`vercel-labs/skills`](https://github.com/vercel-labs/skills) | 1 | 2026-07-10 | 2026-07-16 |
 | [`wshobson/agents`](https://github.com/wshobson/agents) | 1 | 2026-05-22 | 2026-07-16 |
 
 ### Skill inventory
 
 <details>
-<summary><a href="https://github.com/AgriciDaniel/claude-seo"><strong>AgriciDaniel/claude-seo</strong></a> · <strong>31</strong> skills · skills updated <code>2026-06-12</code> · repo <code>2026-07-06</code></summary>
+<summary><a href="https://github.com/AgriciDaniel/claude-seo"><strong>AgriciDaniel/claude-seo</strong></a> · <strong>31</strong> skills · skills updated <code>2026-07-20</code> · repo <code>2026-07-20</code></summary>
 
 Claude SEO suite for audits, content, technical SEO, local/maps, schema, sitemaps, AI-search (GEO), and vendor extensions.
 
@@ -106,7 +106,7 @@ End-to-end agentic engineering process: design → plan → TDD → implement �
 </details>
 
 <details>
-<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-07-16</code> · repo <code>2026-07-17</code></summary>
+<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-07-21</code> · repo <code>2026-07-21</code></summary>
 
 Google Cloud product skills for common Boncom cloud work.
 
@@ -227,7 +227,7 @@ Rewrite AI-sounding prose so it reads naturally.
 </details>
 
 <details>
-<summary><a href="https://github.com/currents-dev/playwright-best-practices-skill"><strong>currents-dev/playwright-best-practices-skill</strong></a> · <strong>1</strong> skill · skills updated <code>2026-03-13</code> · repo <code>2026-03-13</code></summary>
+<summary><a href="https://github.com/currents-dev/playwright-best-practices-skill"><strong>currents-dev/playwright-best-practices-skill</strong></a> · <strong>1</strong> skill · skills updated <code>2026-07-21</code> · repo <code>2026-07-21</code></summary>
 
 Deep Playwright test design and maintenance.
 
@@ -304,11 +304,11 @@ Shell-driven browser automation via Playwright CLI.
 </details>
 
 <details>
-<summary><a href="https://github.com/paulnsorensen/skillz-that-grillz"><strong>paulnsorensen/skillz-that-grillz</strong></a> · <strong>1</strong> skill · skills updated <code>2026-05-27</code> · repo <code>2026-07-16</code></summary>
+<summary><a href="https://github.com/paulnsorensen/skillz-that-grillz"><strong>paulnsorensen/skillz-that-grillz</strong></a> · <strong>1</strong> skill · skills updated <code>2026-07-17</code> · repo <code>2026-07-17</code></summary>
 
 Day-to-day GitHub work through the gh CLI.
 
-**Covers:** PRs, issues, CI, releases, search (no commit/push)
+**Covers:** PR inspection/review/merge, issues, CI, releases, search (no commit/push/PR creation — repo retired its bundled commit and pr-stack skills)
 
 **Installed:** `gh`
 

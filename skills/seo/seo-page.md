@@ -4,7 +4,7 @@ title: seo-page
 description: "One URL is the unit of work for this analysis. It checks title and heading structure, content depth, canonicals and robots directives, social metadata, schema, images, internal links, and page-level performance without turning the request into a site crawl."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-page/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-20T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

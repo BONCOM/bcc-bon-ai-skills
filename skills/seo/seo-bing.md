@@ -4,7 +4,7 @@ title: seo-bing
 description: "Bing Webmaster link data, Microsoft Copilot citation eligibility, and IndexNow submission to participating search engines are this extension's focus. It deliberately does not describe IndexNow as a Google indexing mechanism."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/extensions/bing-webmaster/skills/seo-bing/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-20T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

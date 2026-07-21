@@ -4,7 +4,7 @@ title: seo-competitor-pages
 description: "Comparison, alternatives, and category-roundup pages get a dedicated workflow here. It structures feature comparisons, verdict criteria, conversion paths, and supporting schema while requiring claims to be grounded in current competitor evidence."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-competitor-pages/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-20T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

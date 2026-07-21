@@ -4,7 +4,7 @@ title: seo
 description: "Start here when an SEO request spans several disciplines or the right specialist is unclear. The skill detects the business type, routes work to installed specialists, and combines technical, content, schema, image, local, AI-search, and performance findings."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-20T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

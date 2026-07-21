@@ -4,7 +4,7 @@ title: seo-plan
 description: "SEO strategy for a new or existing site is different from an issue audit, and this skill handles that planning work. It captures goals and constraints, reviews competitors, designs information architecture and internal links, and turns industry templates into a phased roadmap."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-plan/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-20T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

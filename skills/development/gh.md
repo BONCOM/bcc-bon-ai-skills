@@ -1,21 +1,21 @@
 ---
 type: Agent Skill
 title: gh
-description: "GitHub operations via the gh CLI — PRs, issues, CI checks, releases, workflow runs, code search, repo and label management. Does not commit or push."
+description: "GitHub operations via the gh CLI — PR inspection/review/merge, issues, CI checks, releases, workflow runs, code search, repo and label management. Does not commit, stage, push, or create PRs (retired the bundled commit and pr-stack skills)."
 resource: "https://github.com/paulnsorensen/skillz-that-grillz/blob/main/skills/gh/SKILL.md"
 tags: [development, installed, github]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-21T00:00:00Z
 category: development
 group: Development quality
 license: MIT
 available_in: Cursor and Claude Code
 ---
 
-Day-to-day GitHub work through the `gh` CLI: pull requests, issues, CI/workflow status, releases, repo/label management, and code search. Uses `gh --jq` / `--template` and `--body-file` for PR/issue bodies. Treats local `git` as read-only (status/diff/log); does not stage, commit, or push.
+Day-to-day GitHub work through the `gh` CLI: PR inspection/review/merge, issues, CI/workflow status, releases, repo/label management, and code search. Uses `gh --jq` / `--template` and `--body-file` for PR/issue bodies. Treats local `git` as read-only (status/diff/log); does not stage, commit, push, or create PRs — the repo retired its bundled `commit` and `pr-stack` skills in favor of an external `/plate` workflow.
 
 # When to use
 
-Use when creating or managing PRs, checking CI, working issues/releases, or other `gh` tasks. Prefer existing Cursor commit/PR user rules for commits and pushes. Prefer Superpowers review skills for code-quality review.
+Use when reviewing/merging PRs, checking CI, working issues/releases, or other `gh` tasks. Prefer existing Cursor commit/PR user rules (or `/plate`) for commits, pushes, and PR creation. Prefer Superpowers review skills for code-quality review.
 
 # Installed at
 

@@ -1,21 +1,21 @@
 ---
 type: Agent Skill
 title: google-cloud-solution-architecture
-description: "Complex Google Cloud workloads that span products need this broader architecture process for requirement discovery, design choices, validation, and a packaged recommendation. A request about one service should go to a narrower product skill."
+description: "Complex, multi-product Google Cloud workloads need this interactive requirement-discovery and architecture process to reach a packaged design recommendation. Route single-service or narrowly-scoped requests to a product-specific or google-cloud-recipe-* skill instead."
 resource: "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-solution-architecture/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-21T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
 available_in: Cursor and Claude Code
 ---
 
-Complex Google Cloud workloads that span products need this broader architecture process for requirement discovery, design choices, validation, and a packaged recommendation. A request about one service should go to a narrower product skill.
+Complex, multi-product Google Cloud workloads need this interactive requirement-discovery and architecture process to reach a packaged design recommendation. Route single-service or narrowly-scoped requests to a product-specific or google-cloud-recipe-* skill instead.
 
 # When to use
 
-Complex Google Cloud workloads that span products need this broader architecture process for requirement discovery, design choices, validation, and a packaged recommendation. A request about one service should go to a narrower product skill.
+Complex, multi-product Google Cloud workloads need this interactive requirement-discovery and architecture process to reach a packaged design recommendation. Route single-service or narrowly-scoped requests to a product-specific or google-cloud-recipe-* skill instead.
 
 # Installed at
 
