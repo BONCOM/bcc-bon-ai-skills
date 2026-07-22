@@ -27,6 +27,7 @@
 # Frontend and UI
 
 * [frontend-design](./frontend-design.md) - New interfaces that need a visual direction, and existing ones that feel generic, are the target. The skill grounds typography, palette, layout, motion, and cop
+* [frontend-design-review](./frontend-design-review.md) - PR/design reviews, accessibility audits, and design-system compliance checks for existing UI, or creating distinctive new interfaces — three-pillar quality fram
 * [vercel-react-best-practices](./vercel-react-best-practices.md) - React and Next.js work should consult these rules when render cost, bundle size, data fetching, or server/client boundaries matter. The 70 installed rules prior
 * [vercel-composition-patterns](./vercel-composition-patterns.md) - Boolean-prop sprawl or an inflexible component API is the signal for this skill. It favors explicit variants, compound components, context interfaces, lifted st
 * [vue](./vue.md) - Vue 3.5 single-file components, Composition API code, `<script setup>` macros, reactivity, watchers, composables, and built-in components such as Teleport or Su

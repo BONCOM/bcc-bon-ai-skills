@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-07-22T09:00:00-06:00
+timestamp: 2026-07-22T14:00:00-06:00
 ---
 
 <div align="center">
@@ -12,14 +12,14 @@ timestamp: 2026-07-22T09:00:00-06:00
 
 **Trusted Cursor & Claude agent skills for Boncom** — cataloged, reviewed, and ready to route.
 
-[![Skills](https://img.shields.io/badge/skills-95-111827?style=for-the-badge)](#skill-inventory)
-[![Repos](https://img.shields.io/badge/repos-23-2563eb?style=for-the-badge)](#source-repositories)
+[![Skills](https://img.shields.io/badge/skills-96-111827?style=for-the-badge)](#skill-inventory)
+[![Repos](https://img.shields.io/badge/repos-24-2563eb?style=for-the-badge)](#source-repositories)
 [![OKF](https://img.shields.io/badge/OKF-v0.1-059669?style=for-the-badge)](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)
 [![Catalog](https://img.shields.io/badge/catalog-private-6b7280?style=for-the-badge)](https://github.com/BONCOM/boncom-ai-skills)
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-07-22 09:00:00 MDT`
+`Last updated: 2026-07-22 14:00:00 MDT`
 
 </div>
 
@@ -31,13 +31,13 @@ Agents get better when they load the **narrowest skill** for the job — not a p
 
 | | Count |
 |---|---:|
-| Development | 49 |
+| Development | 50 |
 | SEO | 31 |
 | Writing | 1 |
 | Superpowers | 14 |
-| **Total unique** | **95** |
+| **Total unique** | **96** |
 | Deferred (reviewed, not installed) | 23 |
-| Source repositories | 23 |
+| Source repositories | 24 |
 
 ## Quick start
 
@@ -77,6 +77,7 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-07-08 | 2026-07-16 |
 | [`mcollina/skills`](https://github.com/mcollina/skills) | 1 | 2026-03-13 | 2026-07-16 |
 | [`microsoft/playwright-cli`](https://github.com/microsoft/playwright-cli) | 1 | 2026-07-09 | 2026-07-15 |
+| [`microsoft/skills`](https://github.com/microsoft/skills) | 1 | 2026-07-22 | 2026-07-22 |
 | [`paulnsorensen/skillz-that-grillz`](https://github.com/paulnsorensen/skillz-that-grillz) | 1 | 2026-07-17 | 2026-07-17 |
 | [`vercel-labs/skills`](https://github.com/vercel-labs/skills) | 1 | 2026-07-10 | 2026-07-16 |
 | [`wshobson/agents`](https://github.com/wshobson/agents) | 1 | 2026-05-22 | 2026-07-16 |
@@ -300,6 +301,17 @@ Shell-driven browser automation via Playwright CLI.
 **Covers:** navigate, snapshot, forms, screenshots, test generation
 
 **Installed:** `playwright-cli`
+
+</details>
+
+<details>
+<summary><a href="https://github.com/microsoft/skills"><strong>microsoft/skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-07-22</code> · repo <code>2026-07-22</code></summary>
+
+Microsoft's coding-agent skill collection — mostly Azure SDK skills outside this catalog's GCP/Vercel/Supabase-centric scope; one general-purpose frontend skill adopted.
+
+**Covers:** frontend design/PR review (three-pillar quality framework, accessibility, design-system compliance)
+
+**Installed:** `frontend-design-review`
 
 </details>
 
