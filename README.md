@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-07-21T09:00:00-06:00
+timestamp: 2026-07-22T09:00:00-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-07-21T09:00:00-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-07-21 09:00:00 MDT`
+`Last updated: 2026-07-22 09:00:00 MDT`
 
 </div>
 
@@ -69,7 +69,7 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`supabase/agent-skills`](https://github.com/supabase/agent-skills) | 2 | 2026-07-10 | 2026-07-14 |
 | [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-04-28 | 2026-07-15 |
 | [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-01-31 | 2026-06-23 |
-| [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-06-29 | 2026-06-29 |
+| [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-07-22 | 2026-07-22 |
 | [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-07-21 | 2026-07-21 |
 | [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-06-25 | 2026-07-16 |
 | [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-06-22 | 2026-07-01 |
@@ -216,7 +216,7 @@ Vue 3 / Composition API guidance.
 </details>
 
 <details>
-<summary><a href="https://github.com/blader/humanizer"><strong>blader/humanizer</strong></a> · <strong>1</strong> skill · skills updated <code>2026-06-29</code> · repo <code>2026-06-29</code></summary>
+<summary><a href="https://github.com/blader/humanizer"><strong>blader/humanizer</strong></a> · <strong>1</strong> skill · skills updated <code>2026-07-22</code> · repo <code>2026-07-22</code></summary>
 
 Rewrite AI-sounding prose so it reads naturally.
 

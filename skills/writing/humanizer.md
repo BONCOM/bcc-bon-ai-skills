@@ -1,17 +1,17 @@
 ---
 type: Agent Skill
 title: humanizer
-description: "Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sound more natural and human-written (humanizer v2.8.2)."
+description: "Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sound more natural and human-written (humanizer v2.9.1)."
 resource: "https://github.com/blader/humanizer/blob/main/SKILL.md"
 tags: [writing, installed]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-22T00:00:00Z
 category: writing
 license: MIT
 available_in: Cursor and Claude Code
-upstream_version: "2.8.2"
+upstream_version: "2.9.1"
 ---
 
-Rewrites machine-sounding prose without changing meaning or intended technical voice. Based on Wikipedia’s “Signs of AI writing” guide (WikiProject AI Cleanup). Covers inflated symbolism, promotional tone, vague attribution, em-dash overuse, rule-of-three patterns, AI vocabulary, filler, and related tells; ends with a “what still sounds generated?” self-check.
+Rewrites machine-sounding prose without changing meaning or intended technical voice. Based on Wikipedia’s “Signs of AI writing” guide (WikiProject AI Cleanup). Covers inflated symbolism, promotional tone, vague attribution, em-dash overuse, rule-of-three patterns, AI vocabulary, filler, and related tells; ends with a “what still sounds generated?” self-check. v2.9.0 added an explicit no-fabrication rule (never invent facts, names, numbers, dates, quotes, or citations absent from the source) and named invocation modes that change what gets delivered.
 
 # When to use
 
@@ -32,7 +32,7 @@ MIT
 
 # Trust notes
 
-Declares Read, Write, Edit, Grep, Glob, and AskUserQuestion; instruction-only with no bundled executable scripts or network calls. It can rewrite the user’s files, so scope the input and preserve factual claims and citations. Refreshed 2026-07-16 from upstream v2.8.2.
+Instruction-only skill with no network calls. As of v2.9.1 the SKILL.md frontmatter dropped the explicit `compatibility`/`allowed-tools` keys as part of a "portability" pass (enforced by a new local `scripts/validate-package.py` release-consistency check, not something that runs during skill use) — the skill still only needs read/write/edit access to the text it's asked to rewrite. It can rewrite the user's files, so scope the input and preserve factual claims and citations. Refreshed 2026-07-22 from upstream v2.9.1 (was v2.8.2).
 
 # Install / update
 
