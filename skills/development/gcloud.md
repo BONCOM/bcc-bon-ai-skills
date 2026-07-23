@@ -4,7 +4,7 @@ title: gcloud
 description: "Read this before any `gcloud` command for resource discovery, configuration queries, or troubleshooting. It requires command help validation, explicit project and location values, reduced output, and a denylist for destructive IAM, deletion, billing, and KMS operations."
 resource: "https://github.com/google/skills/blob/main/skills/cloud/gcloud/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-23T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0

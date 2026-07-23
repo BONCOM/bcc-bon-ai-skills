@@ -4,7 +4,7 @@ title: gemini-api
 description: "Gemini calls on Google Cloud Agent Platform (formerly Vertex AI) should start here: Gen AI SDK usage across languages, multimodal inputs, tools, structured output, embeddings, Live API, media generation, caching, and batch prediction. Prefer this over stale training data for model/SDK details."
 resource: "https://github.com/google/skills/blob/main/skills/cloud/gemini-api/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-23T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
