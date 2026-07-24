@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-07-23T10:00:00-06:00
+timestamp: 2026-07-24T10:45:00-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-07-23T10:00:00-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-07-23 10:00:00 MDT`
+`Last updated: 2026-07-24 10:45:00 MDT`
 
 </div>
 
@@ -58,8 +58,8 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | Repository | Skills | Last skill update | Repo activity |
 |---|---:|---|---|
 | [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-07-20 | 2026-07-20 |
-| [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-06-30 | 2026-07-17 |
-| [`google/skills`](https://github.com/google/skills) | 10 | 2026-07-22 | 2026-07-23 |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-07-24 | 2026-07-24 |
+| [`google/skills`](https://github.com/google/skills) | 10 | 2026-07-23 | 2026-07-24 |
 | [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-07-22 | 2026-07-22 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-07-11 | 2026-07-11 |
 | [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-07-11 | 2026-07-16 |
@@ -96,7 +96,7 @@ Claude SEO suite for audits, content, technical SEO, local/maps, schema, sitemap
 </details>
 
 <details>
-<summary><a href="https://github.com/obra/superpowers"><strong>obra/superpowers</strong></a> · <strong>14</strong> skills · skills updated <code>2026-06-30</code> · repo <code>2026-07-17</code></summary>
+<summary><a href="https://github.com/obra/superpowers"><strong>obra/superpowers</strong></a> · <strong>14</strong> skills · skills updated <code>2026-07-24</code> · repo <code>2026-07-24</code></summary>
 
 End-to-end agentic engineering process: design → plan → TDD → implement → review → verify → finish the branch.
 
@@ -107,7 +107,7 @@ End-to-end agentic engineering process: design → plan → TDD → implement �
 </details>
 
 <details>
-<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-07-22</code> · repo <code>2026-07-23</code></summary>
+<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-07-23</code> · repo <code>2026-07-24</code></summary>
 
 Google Cloud product skills for common Boncom cloud work.
 

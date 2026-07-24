@@ -4,7 +4,7 @@ title: brainstorming
 description: "Creative implementation and behavior changes start with this design workflow. It explores the current project, asks one focused question at a time, compares approaches, gets approval on a written design, and only then hands the work to planning."
 resource: "https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md"
 tags: [superpowers, installed, plugin]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-24T00:00:00Z
 category: superpowers
 license: MIT
 available_in: Cursor and Claude Code
@@ -19,7 +19,7 @@ Creative implementation and behavior changes start with this design workflow. It
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/brainstorming/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.1.1/skills/brainstorming/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.2.0/skills/brainstorming/SKILL.md`
 
 # Availability
 

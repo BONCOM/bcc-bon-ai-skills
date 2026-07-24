@@ -4,7 +4,7 @@ title: dispatching-parallel-agents
 description: "Two or more tasks with separate state, separate causes, and no ordering dependency can be dispatched through this skill. It assigns one isolated agent per problem with deliberately scoped context, then reconciles the independent results in the parent session."
 resource: "https://github.com/obra/superpowers/blob/main/skills/dispatching-parallel-agents/SKILL.md"
 tags: [superpowers, installed, plugin]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-24T00:00:00Z
 category: superpowers
 license: MIT
 available_in: Cursor and Claude Code
@@ -19,7 +19,7 @@ Two or more tasks with separate state, separate causes, and no ordering dependen
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/dispatching-parallel-agents/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.1.1/skills/dispatching-parallel-agents/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.2.0/skills/dispatching-parallel-agents/SKILL.md`
 
 # Availability
 

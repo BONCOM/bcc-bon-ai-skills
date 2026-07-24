@@ -4,7 +4,7 @@ title: using-git-worktrees
 description: "Plan execution and isolated feature work can use this worktree setup. It first detects managed worktrees and submodules, prefers the platform's native isolation, and falls back to Git only after checking location, ignore rules, branch state, and project setup."
 resource: "https://github.com/obra/superpowers/blob/main/skills/using-git-worktrees/SKILL.md"
 tags: [superpowers, installed, plugin]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-24T00:00:00Z
 category: superpowers
 license: MIT
 available_in: Cursor and Claude Code
@@ -19,7 +19,7 @@ Plan execution and isolated feature work can use this worktree setup. It first d
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/using-git-worktrees/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.1.1/skills/using-git-worktrees/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.2.0/skills/using-git-worktrees/SKILL.md`
 
 # Availability
 
