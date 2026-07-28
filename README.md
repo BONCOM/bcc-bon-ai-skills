@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-07-27T18:08:52-06:00
+timestamp: 2026-07-28T10:00:00-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-07-27T18:08:52-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-07-27 18:08:52 MDT`
+`Last updated: 2026-07-28 10:00:00 MDT`
 
 </div>
 
@@ -72,7 +72,7 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-07-22 | 2026-07-22 |
 | [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-07-21 | 2026-07-21 |
 | [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-06-25 | 2026-07-16 |
-| [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-06-22 | 2026-07-01 |
+| [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-07-28 | 2026-07-28 |
 | [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-07-03 | 2026-07-03 |
 | [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-07-08 | 2026-07-16 |
 | [`mcollina/skills`](https://github.com/mcollina/skills) | 1 | 2026-03-13 | 2026-07-16 |
