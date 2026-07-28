@@ -1,21 +1,21 @@
 ---
 type: Agent Skill
 title: google-analytics-data-api-basics
-description: "GA4 reporting through the Analytics Data API is the scope: API enablement, compatible dimensions and metrics, and v1beta report construction. The skill covers property-scoped reporting, metadata checks, pagination, date ranges, and client-library requests instead of relying on the Analytics UI."
+description: "GA4 reporting through the Analytics Data API is the scope: API enablement, compatible dimensions and metrics, and v1beta report construction. The skill covers property-scoped reporting, metadata checks, pagination, date ranges, and client-library requests instead of relying on the Analytics UI. It does not cover Google Analytics Admin API operations (creating properties, managing users) or front-end tracking installation."
 resource: "https://github.com/google/skills/blob/main/skills/analytics/google-analytics-data-api-basics/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-27T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
 available_in: Cursor and Claude Code
 ---
 
-GA4 reporting through the Analytics Data API is the scope: API enablement, compatible dimensions and metrics, and v1beta report construction. The skill covers property-scoped reporting, metadata checks, pagination, date ranges, and client-library requests instead of relying on the Analytics UI.
+GA4 reporting through the Analytics Data API is the scope: API enablement, compatible dimensions and metrics, and v1beta report construction. The skill covers property-scoped reporting, metadata checks, pagination, date ranges, and client-library requests instead of relying on the Analytics UI. It does not cover Google Analytics Admin API operations (creating properties, managing users) or front-end tracking installation.
 
 # When to use
 
-GA4 reporting through the Analytics Data API is the scope: API enablement, compatible dimensions and metrics, and v1beta report construction. The skill covers property-scoped reporting, metadata checks, pagination, date ranges, and client-library requests instead of relying on the Analytics UI.
+GA4 reporting through the Analytics Data API is the scope: API enablement, compatible dimensions and metrics, and v1beta report construction. The skill covers property-scoped reporting, metadata checks, pagination, date ranges, and client-library requests instead of relying on the Analytics UI. It does not cover Google Analytics Admin API operations (creating properties, managing users) or front-end tracking installation. It does not cover Google Analytics Admin API operations (creating properties, managing users) or front-end tracking installation.
 
 # Installed at
 
