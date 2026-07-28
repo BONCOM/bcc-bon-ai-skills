@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-07-27T18:02:00-06:00
+timestamp: 2026-07-27T18:08:52-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-07-27T18:02:00-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-07-27 18:02:00 MDT`
+`Last updated: 2026-07-27 18:08:52 MDT`
 
 </div>
 
@@ -62,7 +62,7 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`google/skills`](https://github.com/google/skills) | 10 | 2026-07-24 | 2026-07-24 |
 | [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-07-24 | 2026-07-24 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-07-11 | 2026-07-11 |
-| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-07-11 | 2026-07-16 |
+| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-07-14 | 2026-07-27 |
 | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) | 3 | 2026-04-14 | 2026-07-07 |
 | [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official) | 2 | 2026-04-23 | 2026-07-17 |
 | [`hookdeck/webhook-skills`](https://github.com/hookdeck/webhook-skills) | 2 | 2026-05-11 | 2026-07-09 |
@@ -140,7 +140,7 @@ Better Auth setup, scaffolding, and hardening.
 </details>
 
 <details>
-<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-07-11</code> · repo <code>2026-07-16</code></summary>
+<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-07-14</code> · repo <code>2026-07-27</code></summary>
 
 Production quality skills for delivery and runtime health.
 
