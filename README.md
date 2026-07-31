@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-07-28T10:00:00-06:00
+timestamp: 2026-07-30T10:00:00-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-07-28T10:00:00-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-07-28 10:00:00 MDT`
+`Last updated: 2026-07-30 10:00:00 MDT`
 
 </div>
 
@@ -59,14 +59,14 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 |---|---:|---|---|
 | [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-07-20 | 2026-07-20 |
 | [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-07-24 | 2026-07-24 |
-| [`google/skills`](https://github.com/google/skills) | 10 | 2026-07-24 | 2026-07-24 |
+| [`google/skills`](https://github.com/google/skills) | 10 | 2026-07-29 | 2026-07-29 |
 | [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-07-24 | 2026-07-24 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-07-11 | 2026-07-11 |
 | [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-07-14 | 2026-07-27 |
 | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) | 3 | 2026-04-14 | 2026-07-07 |
 | [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official) | 2 | 2026-04-23 | 2026-07-17 |
 | [`hookdeck/webhook-skills`](https://github.com/hookdeck/webhook-skills) | 2 | 2026-05-11 | 2026-07-09 |
-| [`supabase/agent-skills`](https://github.com/supabase/agent-skills) | 2 | 2026-07-10 | 2026-07-14 |
+| [`supabase/agent-skills`](https://github.com/supabase/agent-skills) | 2 | 2026-07-30 | 2026-07-30 |
 | [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-04-28 | 2026-07-15 |
 | [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-01-31 | 2026-06-23 |
 | [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-07-22 | 2026-07-22 |
@@ -107,7 +107,7 @@ End-to-end agentic engineering process: design → plan → TDD → implement �
 </details>
 
 <details>
-<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-07-24</code> · repo <code>2026-07-24</code></summary>
+<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-07-29</code> · repo <code>2026-07-29</code></summary>
 
 Google Cloud product skills for common Boncom cloud work.
 
@@ -184,11 +184,11 @@ Webhook receiver patterns and Stripe-specific handlers.
 </details>
 
 <details>
-<summary><a href="https://github.com/supabase/agent-skills"><strong>supabase/agent-skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-07-10</code> · repo <code>2026-07-14</code></summary>
+<summary><a href="https://github.com/supabase/agent-skills"><strong>supabase/agent-skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-07-30</code> · repo <code>2026-07-30</code></summary>
 
-Supabase product guidance plus Postgres performance rules.
+Supabase product guidance plus Postgres best practices for any Postgres deployment.
 
-**Covers:** Auth/RLS/Edge/Storage/MCP, Postgres performance & RLS
+**Covers:** Auth/RLS/Edge/Storage/MCP, Postgres schema/migrations/RLS/triggers/functions/queues/pgvector/performance
 
 **Installed:** `supabase`, `supabase-postgres-best-practices`
 

@@ -1,21 +1,21 @@
 ---
 type: Agent Skill
 title: supabase-postgres-best-practices
-description: "Postgres query, schema, index, connection-pooling, and RLS performance work belongs here whether or not the project uses Supabase. Rules are prioritized by impact and include incorrect/correct SQL examples."
+description: "Postgres best practices maintained by Supabase, for Postgres running anywhere — not just Supabase projects. Covers schema/migration design, RLS policies and their tests, indexes, triggers, database functions, queues (pg_cron, pgmq), pgvector search, pg_restore/data imports, and diagnosing slow queries, locking, bloat, or cross-tenant data leaks."
 resource: "https://github.com/supabase/agent-skills/blob/main/skills/supabase-postgres-best-practices/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-07-30T00:00:00Z
 category: development
 group: Google Cloud
 license: MIT
 available_in: Cursor and Claude Code
 ---
 
-Postgres query, schema, index, connection-pooling, and RLS performance work belongs here whether or not the project uses Supabase. Rules are prioritized by impact and include incorrect/correct SQL examples.
+Postgres best practices maintained by Supabase, for Postgres running anywhere — not just Supabase projects. Covers schema/migration design, RLS policies and their tests, indexes, triggers, database functions, queues (pg_cron, pgmq), pgvector search, pg_restore/data imports, and diagnosing slow queries, locking, bloat, or cross-tenant data leaks.
 
 # When to use
 
-Postgres query, schema, index, connection-pooling, and RLS performance work belongs here whether or not the project uses Supabase. Rules are prioritized by impact and include incorrect/correct SQL examples.
+Load before writing or changing anything that lives in a Postgres database: table/column creation or alteration, schema design, migrations and declarative schema files, RLS policies and their tests, indexes, triggers, database functions, queues (pg_cron, pgmq), pgvector/semantic search, and pg_restore or data imports. Also load when diagnosing slow queries, high CPU, timeouts, EXPLAIN plans, connection exhaustion, locking, bloat, or rows visible to the wrong tenant — even for a one-column change or a single query.
 
 # Installed at
 
