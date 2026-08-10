@@ -4,7 +4,7 @@ title: firebase-firestore
 description: "Sets up, manages, queries, and configures Cloud Firestore databases (Standard/Enterprise edition), including data modeling, security rules, indexes, and SDK integrations (Web, Python, iOS, Android, Flutter). Explicitly out of scope: Firebase Hosting, Data Connect, Auth, Storage/GCS, Crashlytics, Functions, or BigQuery — those route to sibling skills instead."
 resource: "https://github.com/firebase/agent-skills/blob/main/skills/firebase-firestore/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-07-28T00:00:00Z
+timestamp: 2026-08-10T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
@@ -32,7 +32,7 @@ Apache-2.0
 
 # Trust notes
 
-Instruction and reference files invoke `npx firebase-tools@latest`; authenticated commands can list or create databases and deploy rules or indexes. No credentials are bundled.
+Instruction and reference files invoke `npx firebase-tools@latest`; authenticated commands can list or create databases and deploy rules or indexes. No credentials are bundled. Picked up a `metadata.category: Databases` frontmatter tag (repo-wide category pass); no body content changed.
 
 # Install / update
 

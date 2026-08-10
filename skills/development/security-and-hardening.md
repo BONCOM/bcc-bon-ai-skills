@@ -4,7 +4,7 @@ title: security-and-hardening
 description: "Security-sensitive code belongs under this skill when it accepts untrusted input, handles authentication or sessions, stores private data, or calls an external service. The workflow starts with trust boundaries and a short threat model, then applies concrete controls for validation, authorization, s"
 resource: "https://github.com/addyosmani/agent-skills/blob/main/skills/security-and-hardening/SKILL.md"
 tags: [development, installed, development-quality]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-08-10T00:00:00Z
 category: development
 group: Development quality
 license: MIT
@@ -31,7 +31,7 @@ MIT
 
 # Trust notes
 
-Instruction-only; no bundled executable scripts. Its examples mention package-manager audits and external security services, but the package does not call them automatically.
+Instruction-only; no bundled executable scripts. Its examples mention package-manager audits and external security services, but the package does not call them automatically. Fixed a broken relative link to `references/` (was resolving one directory too shallow).
 
 # Install / update
 

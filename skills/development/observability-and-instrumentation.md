@@ -4,7 +4,7 @@ title: observability-and-instrumentation
 description: "Production endpoints, jobs, queues, retries, and service integrations need this skill when current telemetry cannot explain failures. It defines operational questions first and then chooses logs, metrics, traces, and alerts that answer those questions without leaking secrets or personal data."
 resource: "https://github.com/addyosmani/agent-skills/blob/main/skills/observability-and-instrumentation/SKILL.md"
 tags: [development, installed, development-quality]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-08-10T00:00:00Z
 category: development
 group: Development quality
 license: MIT
@@ -31,7 +31,7 @@ MIT
 
 # Trust notes
 
-Instruction-only; no bundled executable scripts. It documents telemetry vendors and integrations but makes no network connection itself.
+Instruction-only; no bundled executable scripts. It documents telemetry vendors and integrations but makes no network connection itself. Fixed a broken relative link to `references/observability-checklist.md` (was resolving one directory too shallow).
 
 # Install / update
 

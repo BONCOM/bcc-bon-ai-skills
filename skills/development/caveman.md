@@ -4,7 +4,7 @@ title: caveman
 description: "Ultra-compressed communication mode — cuts narration while keeping technical facts, code, commands, and errors exact. Intensity levels: lite, full, ultra (plus wenyan variants). Invoke with /caveman or 'talk like caveman'; say 'normal mode' to exit."
 resource: "https://github.com/JuliusBrussee/caveman/blob/main/skills/caveman/SKILL.md"
 tags: [development, installed, workflow]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-08-10T00:00:00Z
 category: development
 group: Workflow and discovery
 license: MIT
@@ -31,7 +31,7 @@ MIT
 
 # Trust notes
 
-Installed as the single named skill only (`caveman`) — sibling skills (`caveman-commit`, `cavecrew`, etc.) and the repo's Claude Code plugin/hooks were not installed. Instruction + README; no bundled executable scripts in the skill directory. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Low Risk. Style-only; does not change how code or commands are written.
+Installed as the single named skill only (`caveman`) — sibling skills (`caveman-commit`, `cavecrew`, etc.) and the repo's Claude Code plugin/hooks were not installed. Instruction + README; no bundled executable scripts in the skill directory. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Low Risk. Style-only; does not change how code or commands are written. Picked up a negation-safety rule (never drop not/never/no/only/except), a no-narration rule for tool calls, an explicit `off` switch, and tighter guardrails on when to preserve grammar particles vs. drop articles.
 
 # Install / update
 
