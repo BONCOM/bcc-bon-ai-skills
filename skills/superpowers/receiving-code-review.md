@@ -4,7 +4,7 @@ title: receiving-code-review
 description: "Review feedback should pass through this technical check before implementation, particularly when a suggestion is ambiguous or may not fit the codebase. The skill separates understanding from agreement, verifies the claim, and supports reasoned pushback before applying one change at a time."
 resource: "https://github.com/obra/superpowers/blob/main/skills/receiving-code-review/SKILL.md"
 tags: [superpowers, installed, plugin]
-timestamp: 2026-07-24T00:00:00Z
+timestamp: 2026-08-17T00:00:00Z
 category: superpowers
 license: MIT
 available_in: Cursor and Claude Code
@@ -19,7 +19,7 @@ Review feedback should pass through this technical check before implementation, 
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/receiving-code-review/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.2.0/skills/receiving-code-review/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.3.0/skills/receiving-code-review/SKILL.md`
 
 # Availability
 

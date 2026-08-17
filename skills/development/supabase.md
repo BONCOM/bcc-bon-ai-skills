@@ -4,7 +4,7 @@ title: supabase
 description: "Any Supabase product work should start here: Auth, RLS, Data API grants, Edge Functions, Storage, migrations, CLI, and the Supabase MCP. It requires checking current docs/changelog before implementing because APIs and config change between versions."
 resource: "https://github.com/supabase/agent-skills/blob/main/skills/supabase/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-08-17T00:00:00Z
 category: development
 group: Google Cloud
 license: MIT
@@ -32,7 +32,7 @@ MIT
 
 # Trust notes
 
-Instruction-only with a security checklist and MCP troubleshooting. Later use can call the authenticated Supabase MCP, CLI, or docs fetches; it can change schemas, RLS, and auth configuration on live projects. Prefer `supabase-postgres-best-practices` for pure SQL performance review.
+Instruction-only with a security checklist and MCP troubleshooting. Later use can call the authenticated Supabase MCP, CLI, or docs fetches; it can change schemas, RLS, and auth configuration on live projects. Prefer `supabase-postgres-best-practices` for pure SQL performance review. Adds a new "Debugging" section: on any Supabase error/RLS-block/unexpected result it must fetch the upstream Monitoring and Debugging docs before diagnosing rather than working from memory; description gains matching debugging/logs triggers.
 
 # Install / update
 

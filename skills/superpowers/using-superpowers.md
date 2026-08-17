@@ -4,7 +4,7 @@ title: using-superpowers
 description: "This is the session-level routing rule for the library. It requires checking applicable skills before responding or acting, orders process skills before implementation guidance, and exempts dispatched task subagents so their supplied task brief remains authoritative."
 resource: "https://github.com/obra/superpowers/blob/main/skills/using-superpowers/SKILL.md"
 tags: [superpowers, installed, plugin]
-timestamp: 2026-07-24T00:00:00Z
+timestamp: 2026-08-17T00:00:00Z
 category: superpowers
 license: MIT
 available_in: Cursor and Claude Code
@@ -19,7 +19,7 @@ This is the session-level routing rule for the library. It requires checking app
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/using-superpowers/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.2.0/skills/using-superpowers/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.3.0/skills/using-superpowers/SKILL.md`
 
 # Availability
 
@@ -31,7 +31,7 @@ MIT
 
 # Trust notes
 
-Instruction-only with platform reference files. The plugin's `SessionStart` hook loads Superpowers context on startup, clear, and compact events; the hook runs synchronously but adds no MCP or agent component.
+Instruction-only with platform reference files. The plugin's `SessionStart` hook loads Superpowers context on startup, clear, and compact events; the hook runs synchronously but adds no MCP or agent component. v6.3.0 adds a `references/hermes-tools.md` platform-adaptation entry alongside the existing Codex/Pi/Antigravity references.
 
 # Install / update
 

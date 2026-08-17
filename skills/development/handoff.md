@@ -4,7 +4,7 @@ title: handoff
 description: "Compact the current conversation into a handoff document for a fresh agent or session. Manual invoke only (`/handoff` or explicit request). Writes to the OS temp directory; references specs/plans by path instead of copying them."
 resource: "https://github.com/mattpocock/skills/blob/main/skills/productivity/handoff/SKILL.md"
 tags: [development, installed, workflow]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-08-17T00:00:00Z
 category: development
 group: Workflow and discovery
 license: MIT
@@ -31,7 +31,7 @@ MIT
 
 # Trust notes
 
-Instruction-only plus `agents/openai.yaml` (display metadata). `disable-model-invocation: true` — agent must not auto-trigger; user invokes `/handoff` or asks explicitly. Writes the handoff file under the OS temp directory (not the workspace). Requires redacting secrets/PII before write. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Low Risk.
+Instruction-only plus `agents/openai.yaml` (display metadata). `disable-model-invocation: true` — agent must not auto-trigger; user invokes `/handoff` or asks explicitly. Writes the handoff file under the OS temp directory (not the workspace). Requires redacting secrets/PII before write. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Low Risk. Minor wording fix: the "suggested skills" section now says to name skills the next agent should call the Skill tool for, rather than skills to "invoke."
 
 # Install / update
 

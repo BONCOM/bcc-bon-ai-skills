@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-08-10T10:45:00-06:00
+timestamp: 2026-08-17T09:00:00-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-08-10T10:45:00-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-08-10 10:45:00 MDT`
+`Last updated: 2026-08-17 09:00:00 MDT`
 
 </div>
 
@@ -58,23 +58,23 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | Repository | Skills | Last skill update | Repo activity |
 |---|---:|---|---|
 | [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-07-20 | 2026-07-20 |
-| [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-07-24 | 2026-07-24 |
-| [`google/skills`](https://github.com/google/skills) | 10 | 2026-08-07 | 2026-08-10 |
-| [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-08-07 | 2026-08-07 |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-08-12 | 2026-08-12 |
+| [`google/skills`](https://github.com/google/skills) | 10 | 2026-08-14 | 2026-08-17 |
+| [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-08-13 | 2026-08-17 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-07-11 | 2026-07-11 |
-| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-08-07 | 2026-08-08 |
+| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-08-14 | 2026-08-14 |
 | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) | 3 | 2026-04-14 | 2026-07-07 |
 | [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official) | 2 | 2026-04-23 | 2026-07-17 |
 | [`hookdeck/webhook-skills`](https://github.com/hookdeck/webhook-skills) | 2 | 2026-05-11 | 2026-07-09 |
-| [`supabase/agent-skills`](https://github.com/supabase/agent-skills) | 2 | 2026-07-30 | 2026-07-30 |
-| [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-04-28 | 2026-07-15 |
+| [`supabase/agent-skills`](https://github.com/supabase/agent-skills) | 2 | 2026-08-12 | 2026-08-12 |
+| [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-08-11 | 2026-08-17 |
 | [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-01-31 | 2026-06-23 |
-| [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-07-22 | 2026-07-22 |
+| [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-08-17 | 2026-08-17 |
 | [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-07-21 | 2026-07-21 |
 | [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-06-25 | 2026-07-16 |
 | [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-08-06 | 2026-08-06 |
-| [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-07-21 | 2026-08-08 |
-| [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-07-08 | 2026-07-16 |
+| [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-08-15 | 2026-08-16 |
+| [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-08-15 | 2026-08-15 |
 | [`mcollina/skills`](https://github.com/mcollina/skills) | 1 | 2026-03-13 | 2026-07-16 |
 | [`microsoft/playwright-cli`](https://github.com/microsoft/playwright-cli) | 1 | 2026-07-09 | 2026-07-15 |
 | [`microsoft/skills`](https://github.com/microsoft/skills) | 1 | 2026-07-22 | 2026-07-22 |
@@ -96,7 +96,7 @@ Claude SEO suite for audits, content, technical SEO, local/maps, schema, sitemap
 </details>
 
 <details>
-<summary><a href="https://github.com/obra/superpowers"><strong>obra/superpowers</strong></a> · <strong>14</strong> skills · skills updated <code>2026-07-24</code> · repo <code>2026-07-24</code></summary>
+<summary><a href="https://github.com/obra/superpowers"><strong>obra/superpowers</strong></a> · <strong>14</strong> skills · skills updated <code>2026-08-12</code> · repo <code>2026-08-12</code></summary>
 
 End-to-end agentic engineering process: design → plan → TDD → implement → review → verify → finish the branch.
 
@@ -107,7 +107,7 @@ End-to-end agentic engineering process: design → plan → TDD → implement �
 </details>
 
 <details>
-<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-08-07</code> · repo <code>2026-08-10</code></summary>
+<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-08-14</code> · repo <code>2026-08-17</code></summary>
 
 Google Cloud product skills for common Boncom cloud work.
 
@@ -118,7 +118,7 @@ Google Cloud product skills for common Boncom cloud work.
 </details>
 
 <details>
-<summary><a href="https://github.com/anthropics/skills"><strong>anthropics/skills</strong></a> · <strong>7</strong> skills · skills updated <code>2026-08-07</code> · repo <code>2026-08-07</code></summary>
+<summary><a href="https://github.com/anthropics/skills"><strong>anthropics/skills</strong></a> · <strong>7</strong> skills · skills updated <code>2026-08-13</code> · repo <code>2026-08-17</code></summary>
 
 Official Anthropic skills for Claude/API work, UI design, MCP servers, and office documents.
 
@@ -140,7 +140,7 @@ Better Auth setup, scaffolding, and hardening.
 </details>
 
 <details>
-<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-08-07</code> · repo <code>2026-08-08</code></summary>
+<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-08-14</code> · repo <code>2026-08-14</code></summary>
 
 Production quality skills for delivery and runtime health.
 
@@ -184,7 +184,7 @@ Webhook receiver patterns and Stripe-specific handlers.
 </details>
 
 <details>
-<summary><a href="https://github.com/supabase/agent-skills"><strong>supabase/agent-skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-07-30</code> · repo <code>2026-07-30</code></summary>
+<summary><a href="https://github.com/supabase/agent-skills"><strong>supabase/agent-skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-08-12</code> · repo <code>2026-08-12</code></summary>
 
 Supabase product guidance plus Postgres best practices for any Postgres deployment.
 
@@ -195,7 +195,7 @@ Supabase product guidance plus Postgres best practices for any Postgres deployme
 </details>
 
 <details>
-<summary><a href="https://github.com/trailofbits/skills"><strong>trailofbits/skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-04-28</code> · repo <code>2026-07-15</code></summary>
+<summary><a href="https://github.com/trailofbits/skills"><strong>trailofbits/skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-08-11</code> · repo <code>2026-08-17</code></summary>
 
 Security analysis skills from Trail of Bits.
 
@@ -217,7 +217,7 @@ Vue 3 / Composition API guidance.
 </details>
 
 <details>
-<summary><a href="https://github.com/blader/humanizer"><strong>blader/humanizer</strong></a> · <strong>1</strong> skill · skills updated <code>2026-07-22</code> · repo <code>2026-07-22</code></summary>
+<summary><a href="https://github.com/blader/humanizer"><strong>blader/humanizer</strong></a> · <strong>1</strong> skill · skills updated <code>2026-08-17</code> · repo <code>2026-08-17</code></summary>
 
 Rewrite AI-sounding prose so it reads naturally.
 
@@ -261,7 +261,7 @@ Firestore data modeling and client/query guidance.
 </details>
 
 <details>
-<summary><a href="https://github.com/JuliusBrussee/caveman"><strong>JuliusBrussee/caveman</strong></a> · <strong>1</strong> skill · skills updated <code>2026-07-21</code> · repo <code>2026-08-08</code></summary>
+<summary><a href="https://github.com/JuliusBrussee/caveman"><strong>JuliusBrussee/caveman</strong></a> · <strong>1</strong> skill · skills updated <code>2026-08-15</code> · repo <code>2026-08-16</code></summary>
 
 Ultra-brief reply style to cut narration tokens.
 
@@ -272,7 +272,7 @@ Ultra-brief reply style to cut narration tokens.
 </details>
 
 <details>
-<summary><a href="https://github.com/mattpocock/skills"><strong>mattpocock/skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-07-08</code> · repo <code>2026-07-16</code></summary>
+<summary><a href="https://github.com/mattpocock/skills"><strong>mattpocock/skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-08-15</code> · repo <code>2026-08-15</code></summary>
 
 Session handoff documents for fresh agents.
 

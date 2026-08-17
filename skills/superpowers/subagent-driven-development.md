@@ -4,7 +4,7 @@ title: subagent-driven-development
 description: "An approved plan with mostly independent tasks can run in the current session through this workflow. It creates a fresh implementer per task, follows each with specification and code-quality review, keeps a progress ledger, and adds a broad final review after all task gates pass."
 resource: "https://github.com/obra/superpowers/blob/main/skills/subagent-driven-development/SKILL.md"
 tags: [superpowers, installed, plugin]
-timestamp: 2026-07-24T00:00:00Z
+timestamp: 2026-08-17T00:00:00Z
 category: superpowers
 license: MIT
 available_in: Cursor and Claude Code
@@ -19,7 +19,7 @@ An approved plan with mostly independent tasks can run in the current session th
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/subagent-driven-development/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.2.0/skills/subagent-driven-development/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.3.0/skills/subagent-driven-development/SKILL.md`
 
 # Availability
 
@@ -31,7 +31,7 @@ MIT
 
 # Trust notes
 
-Bundles three shell utilities for task briefs, SDD workspace state, and review packages plus several agent prompts. It launches implementers and reviewers and writes `.superpowers/sdd` records; agents must receive non-overlapping scope.
+Bundles three shell utilities for task briefs, SDD workspace state, and review packages plus several agent prompts. It launches implementers and reviewers and writes `.superpowers/sdd` records; agents must receive non-overlapping scope. v6.3.0 narrows the stop conditions to four named triggers (irreversible/destructive op, security-sensitive action, out-of-worktree side effect, plan defect) and requires every other ambiguity be resolved by a logged ruling rather than a check-in.
 
 # Install / update
 

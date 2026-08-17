@@ -4,7 +4,7 @@ title: verification-before-completion
 description: "Completion, fix, pass, and merge-readiness claims need this evidence gate. It identifies the command that proves the claim, runs it fresh and in full, reads the result and exit status, and reports the actual state when evidence disagrees."
 resource: "https://github.com/obra/superpowers/blob/main/skills/verification-before-completion/SKILL.md"
 tags: [superpowers, installed, plugin]
-timestamp: 2026-07-24T00:00:00Z
+timestamp: 2026-08-17T00:00:00Z
 category: superpowers
 license: MIT
 available_in: Cursor and Claude Code
@@ -19,7 +19,7 @@ Completion, fix, pass, and merge-readiness claims need this evidence gate. It id
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/verification-before-completion/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.2.0/skills/verification-before-completion/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.3.0/skills/verification-before-completion/SKILL.md`
 
 # Availability
 

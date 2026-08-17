@@ -4,7 +4,7 @@ title: codeql
 description: "An explicit CodeQL request is required before using this skill, whether the task is building a database, running a suite, adding data-extension models, or processing SARIF. It checks database extraction quality before treating a scan as valid and treats zero findings as a result that still needs val"
 resource: "https://github.com/trailofbits/skills/blob/main/plugins/static-analysis/skills/codeql/SKILL.md"
 tags: [development, installed, development-quality]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-08-17T00:00:00Z
 category: development
 group: Development quality
 license: CC-BY-SA-4.0
@@ -31,7 +31,7 @@ CC-BY-SA-4.0
 
 # Trust notes
 
-Declares Bash, Read, Write, Edit, Glob, Grep, and task tools. It requires a separately installed CodeQL CLI, may run project builds or resolve query packs, and writes databases, logs, extensions, and SARIF; keep it manually invoked.
+Declares Bash, Read, Write, Edit, Glob, Grep, and task tools. It requires a separately installed CodeQL CLI, may run project builds or resolve query packs, and writes databases, logs, extensions, and SARIF; keep it manually invoked. Guard scripts and their tests were reworked to be real (not stubbed) checks — `check_db_quality.py`, `find_databases.sh`, `verify_query_suite.py`, and 9 accompanying test files were all updated.
 
 # Install / update
 

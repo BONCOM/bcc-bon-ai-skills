@@ -4,7 +4,7 @@ title: systematic-debugging
 description: "Bugs, test failures, build errors, integration issues, and unexplained performance problems all start with root-cause investigation here. The skill gathers evidence, traces the failure to its source, tests one hypothesis at a time, and revisits the model after repeated failed fixes."
 resource: "https://github.com/obra/superpowers/blob/main/skills/systematic-debugging/SKILL.md"
 tags: [superpowers, installed, plugin]
-timestamp: 2026-07-24T00:00:00Z
+timestamp: 2026-08-17T00:00:00Z
 category: superpowers
 license: MIT
 available_in: Cursor and Claude Code
@@ -19,7 +19,7 @@ Bugs, test failures, build errors, integration issues, and unexplained performan
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/systematic-debugging/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.2.0/skills/systematic-debugging/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.3.0/skills/systematic-debugging/SKILL.md`
 
 # Availability
 

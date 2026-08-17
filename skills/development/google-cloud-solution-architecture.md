@@ -4,7 +4,7 @@ title: google-cloud-solution-architecture
 description: "Complex, multi-product Google Cloud workloads need this interactive requirement-discovery and architecture process to reach a packaged design recommendation. Route single-service or narrowly-scoped requests to a product-specific or google-cloud-recipe-* skill instead."
 resource: "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-solution-architecture/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-08-10T00:00:00Z
+timestamp: 2026-08-17T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
@@ -31,7 +31,7 @@ Apache-2.0
 
 # Trust notes
 
-Instruction-only with reference indexes and an output template. Later use can query Google documentation through an MCP and write architecture files only after approval; live documentation is mutable. Now adds an explicit guardrail against autonomous execution of generated scripts/code — Phase 3 validation must be handed to the user to run (or dry-run only with explicit permission) rather than executed directly.
+Instruction-only with reference indexes and an output template. Later use can query Google documentation through an MCP and write architecture files only after approval; live documentation is mutable. Now adds an explicit guardrail against autonomous execution of generated scripts/code — Phase 3 validation must be handed to the user to run (or dry-run only with explicit permission) rather than executed directly. Reference indexes (`architecture-guides.md`, `best-practices-guides.md`) received small documentation additions.
 
 # Install / update
 
