@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-08-17T09:00:00-06:00
+timestamp: 2026-08-19T09:00:00-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-08-17T09:00:00-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-08-17 09:00:00 MDT`
+`Last updated: 2026-08-19 09:00:00 MDT`
 
 </div>
 
@@ -67,13 +67,13 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official) | 2 | 2026-04-23 | 2026-07-17 |
 | [`hookdeck/webhook-skills`](https://github.com/hookdeck/webhook-skills) | 2 | 2026-05-11 | 2026-07-09 |
 | [`supabase/agent-skills`](https://github.com/supabase/agent-skills) | 2 | 2026-08-12 | 2026-08-12 |
-| [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-08-11 | 2026-08-17 |
+| [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-08-19 | 2026-08-19 |
 | [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-01-31 | 2026-06-23 |
-| [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-08-17 | 2026-08-17 |
+| [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-08-19 | 2026-08-19 |
 | [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-07-21 | 2026-07-21 |
 | [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-06-25 | 2026-07-16 |
 | [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-08-06 | 2026-08-06 |
-| [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-08-15 | 2026-08-16 |
+| [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-08-16 | 2026-08-19 |
 | [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-08-15 | 2026-08-15 |
 | [`mcollina/skills`](https://github.com/mcollina/skills) | 1 | 2026-03-13 | 2026-07-16 |
 | [`microsoft/playwright-cli`](https://github.com/microsoft/playwright-cli) | 1 | 2026-07-09 | 2026-07-15 |
@@ -195,7 +195,7 @@ Supabase product guidance plus Postgres best practices for any Postgres deployme
 </details>
 
 <details>
-<summary><a href="https://github.com/trailofbits/skills"><strong>trailofbits/skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-08-11</code> · repo <code>2026-08-17</code></summary>
+<summary><a href="https://github.com/trailofbits/skills"><strong>trailofbits/skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-08-19</code> · repo <code>2026-08-19</code></summary>
 
 Security analysis skills from Trail of Bits.
 
@@ -217,7 +217,7 @@ Vue 3 / Composition API guidance.
 </details>
 
 <details>
-<summary><a href="https://github.com/blader/humanizer"><strong>blader/humanizer</strong></a> · <strong>1</strong> skill · skills updated <code>2026-08-17</code> · repo <code>2026-08-17</code></summary>
+<summary><a href="https://github.com/blader/humanizer"><strong>blader/humanizer</strong></a> · <strong>1</strong> skill · skills updated <code>2026-08-19</code> · repo <code>2026-08-19</code></summary>
 
 Rewrite AI-sounding prose so it reads naturally.
 
@@ -261,7 +261,7 @@ Firestore data modeling and client/query guidance.
 </details>
 
 <details>
-<summary><a href="https://github.com/JuliusBrussee/caveman"><strong>JuliusBrussee/caveman</strong></a> · <strong>1</strong> skill · skills updated <code>2026-08-15</code> · repo <code>2026-08-16</code></summary>
+<summary><a href="https://github.com/JuliusBrussee/caveman"><strong>JuliusBrussee/caveman</strong></a> · <strong>1</strong> skill · skills updated <code>2026-08-16</code> · repo <code>2026-08-19</code></summary>
 
 Ultra-brief reply style to cut narration tokens.
 
