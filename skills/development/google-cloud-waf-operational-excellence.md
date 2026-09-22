@@ -4,7 +4,7 @@ title: google-cloud-waf-operational-excellence
 description: "Operational reviews of a Google Cloud workload belong here. The skill covers readiness criteria, release practice, monitoring, incident handling, and continuous improvement using the Operational Excellence pillar rather than product-specific setup instructions."
 resource: "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-waf-operational-excellence/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-21T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0

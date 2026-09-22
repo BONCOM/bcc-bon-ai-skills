@@ -4,7 +4,7 @@ title: two-factor-authentication-best-practices
 description: "Better Auth `twoFactor` plugin: TOTP, email/SMS OTP, backup codes, trusted devices, and 2FA sign-in flows."
 resource: "https://github.com/better-auth/skills/blob/main/better-auth/twoFactor/SKILL.md"
 tags: [development, installed, auth-better-auth]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-01T00:00:00Z
 category: development
 group: Auth (Better Auth)
 license: Not declared on the repository (official Better Auth publisher)

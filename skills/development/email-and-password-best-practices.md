@@ -4,7 +4,7 @@ title: email-and-password-best-practices
 description: "Email/password auth with Better Auth: verification, password reset, password policies, and hashing customization."
 resource: "https://github.com/better-auth/skills/blob/main/better-auth/emailAndPassword/SKILL.md"
 tags: [development, installed, auth-better-auth]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-01T00:00:00Z
 category: development
 group: Auth (Better Auth)
 license: Not declared on the repository (official Better Auth publisher)

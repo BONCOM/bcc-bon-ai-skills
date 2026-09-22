@@ -4,7 +4,7 @@ title: seo-cluster
 description: "Keyword groups based on overlapping Google top-ten results are the input to this skill's hub-and-spoke planning. It produces cluster plans, internal-link matrices, and interactive maps; content creation is optional and separate."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-cluster/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-07-20T00:00:00Z
+timestamp: 2026-09-10T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

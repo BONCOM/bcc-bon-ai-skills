@@ -4,7 +4,7 @@ title: better-auth-best-practices
 description: "Better Auth server/client setup, database adapters, sessions, plugins, env vars (`BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`), and CLI migrate/generate workflows belong here."
 resource: "https://github.com/better-auth/skills/blob/main/better-auth/best-practices/SKILL.md"
 tags: [development, installed, auth-better-auth]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-01T00:00:00Z
 category: development
 group: Auth (Better Auth)
 license: Not declared on the repository (official Better Auth publisher)

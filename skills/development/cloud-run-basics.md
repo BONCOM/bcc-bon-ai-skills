@@ -4,7 +4,7 @@ title: cloud-run-basics
 description: "Cloud Run services, finite jobs, and always-on worker pools each have a different lifecycle, which this skill makes explicit. It explains which resource type fits the workload and provides `gcloud` flows for image and source deployments rather than treating every container as an HTTP service."
 resource: "https://github.com/google/skills/blob/main/skills/cloud/cloud-run-basics/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-21T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0

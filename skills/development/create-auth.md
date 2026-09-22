@@ -4,7 +4,7 @@ title: create-auth
 description: "Scaffolding login/sign-up into a TypeScript/JavaScript app with Better Auth — framework detection, adapters, route handlers, OAuth providers, and auth UI pages."
 resource: "https://github.com/better-auth/skills/blob/main/better-auth/create-auth/SKILL.md"
 tags: [development, installed, auth-better-auth]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-01T00:00:00Z
 category: development
 group: Auth (Better Auth)
 license: Not declared on the repository (official Better Auth publisher)

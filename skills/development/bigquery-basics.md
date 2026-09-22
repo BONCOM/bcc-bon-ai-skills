@@ -4,7 +4,7 @@ title: bigquery-basics
 description: "BigQuery datasets, tables, views, jobs, SQL queries, and basic ingestion belong here. Use it when the work is the BigQuery resource model or `bq`/client-library operations rather than BQML or pandas-style BigFrames."
 resource: "https://github.com/google/skills/blob/main/skills/cloud/bigquery-basics/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-08-10T00:00:00Z
+timestamp: 2026-09-21T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0

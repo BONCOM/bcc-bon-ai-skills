@@ -4,7 +4,7 @@ title: seo-local
 description: "Website-level local SEO belongs here: business-type detection, NAP consistency, citations, reviews, location pages, local schema, service areas, and multi-location structure. Checks adjust for brick-and-mortar, service-area, and hybrid businesses and for the detected industry."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-local/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-07-20T00:00:00Z
+timestamp: 2026-09-10T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

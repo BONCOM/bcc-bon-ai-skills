@@ -4,7 +4,7 @@ title: supply-chain-risk-auditor
 description: "Dependency takeover risk is the reason to reach for this skill before a security review. It checks maintenance activity, maintainer concentration, package popularity, and risky capabilities, then writes a focused report; it is not a substitute for a vulnerability or license scanner."
 resource: "https://github.com/trailofbits/skills/blob/main/plugins/supply-chain-risk-auditor/skills/supply-chain-risk-auditor/SKILL.md"
 tags: [development, installed, development-quality]
-timestamp: 2026-08-17T00:00:00Z
+timestamp: 2026-08-31T00:00:00Z
 category: development
 group: Development quality
 license: CC-BY-SA-4.0

@@ -4,7 +4,7 @@ title: organization-best-practices
 description: "Multi-tenant organizations via Better Auth's organization plugin: members, invitations, custom roles/permissions, teams, and RBAC."
 resource: "https://github.com/better-auth/skills/blob/main/better-auth/organization/SKILL.md"
 tags: [development, installed, auth-better-auth]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-01T00:00:00Z
 category: development
 group: Auth (Better Auth)
 license: Not declared on the repository (official Better Auth publisher)

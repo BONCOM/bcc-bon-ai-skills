@@ -4,7 +4,7 @@ title: seo-hreflang
 description: "International targeting across HTML, HTTP headers, or XML sitemaps gets a focused audit and generator here. The checks cover language and region codes, self references, reciprocal return links, canonical alignment, and the single `x-default` fallback."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-hreflang/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-07-20T00:00:00Z
+timestamp: 2026-09-10T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

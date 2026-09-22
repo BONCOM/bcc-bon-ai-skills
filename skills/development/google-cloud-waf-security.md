@@ -4,7 +4,7 @@ title: google-cloud-waf-security
 description: "Security-pillar reviews of Google Cloud workloads are its job. The skill turns workload details into requirements and recommendations for identity, network boundaries, data protection, threat defense, privacy, and operations."
 resource: "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-waf-security/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-08-10T00:00:00Z
+timestamp: 2026-09-21T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0

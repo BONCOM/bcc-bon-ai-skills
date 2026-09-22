@@ -4,7 +4,7 @@ title: seo-audit
 description: "A full-site health check belongs here rather than in the single-page skill. The audit crawls up to 500 pages, detects the business type, selects always-on and conditional specialists, calculates a health score, and returns a prioritized action plan."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-audit/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-07-20T00:00:00Z
+timestamp: 2026-09-10T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

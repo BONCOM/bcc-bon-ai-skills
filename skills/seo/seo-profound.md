@@ -4,7 +4,7 @@ title: seo-profound
 description: "Time-series brand citation rates, prompt coverage, co-cited competitors, and spike or drop alerts across ChatGPT and Perplexity come from Profound. The extension complements point-in-time vendor checks by making weekly and monthly citation trends the primary evidence."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/extensions/profound/skills/seo-profound/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-07-20T00:00:00Z
+timestamp: 2026-09-10T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code
