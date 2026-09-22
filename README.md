@@ -73,7 +73,7 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-07-21 | 2026-07-21 |
 | [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-06-25 | 2026-09-18 |
 | [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-09-17 | 2026-09-18 |
-| [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-09-08 | 2026-09-21 |
+| [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-09-20 | 2026-09-22 |
 | [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-08-15 | 2026-09-18 |
 | [`mcollina/skills`](https://github.com/mcollina/skills) | 1 | 2026-03-13 | 2026-08-17 |
 | [`microsoft/playwright-cli`](https://github.com/microsoft/playwright-cli) | 1 | 2026-09-18 | 2026-09-18 |
@@ -261,7 +261,7 @@ Firestore data modeling and client/query guidance.
 </details>
 
 <details>
-<summary><a href="https://github.com/JuliusBrussee/caveman"><strong>JuliusBrussee/caveman</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-08</code> · repo <code>2026-09-21</code></summary>
+<summary><a href="https://github.com/JuliusBrussee/caveman"><strong>JuliusBrussee/caveman</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-20</code> · repo <code>2026-09-22</code></summary>
 
 Ultra-brief reply style to cut narration tokens.
 
