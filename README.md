@@ -12,7 +12,7 @@ timestamp: 2026-09-21T19:20:00-06:00
 
 **Trusted Cursor & Claude agent skills for Boncom** — cataloged, reviewed, and ready to route.
 
-[![Skills](https://img.shields.io/badge/skills-96-111827?style=for-the-badge)](#skill-inventory)
+[![Skills](https://img.shields.io/badge/skills-97-111827?style=for-the-badge)](#skill-inventory)
 [![Repos](https://img.shields.io/badge/repos-24-2563eb?style=for-the-badge)](#source-repositories)
 [![OKF](https://img.shields.io/badge/OKF-v0.1-059669?style=for-the-badge)](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)
 [![Catalog](https://img.shields.io/badge/catalog-private-6b7280?style=for-the-badge)](https://github.com/BONCOM/boncom-ai-skills)
@@ -35,7 +35,8 @@ Agents get better when they load the **narrowest skill** for the job — not a p
 | SEO | 31 |
 | Writing | 1 |
 | Superpowers | 14 |
-| **Total unique** | **96** |
+| Boncom (authored in-house) | 1 |
+| **Total unique** | **97** |
 | Deferred (reviewed, not installed) | 23 |
 | Source repositories | 24 |
 
