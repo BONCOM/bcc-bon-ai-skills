@@ -3,14 +3,15 @@ type: Overview
 title: Boncom AI Skills catalog
 description: OKF inventory of Cursor/Claude agent skills — sources, trust notes, install paths, routing, and deferred tools.
 tags: [overview, catalog]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-30T00:00:00Z
 okf_bundle: boncom-ai-skills
 counts:
-  development: 49
+  development: 50
   seo: 31
   writing: 1
   superpowers: 14
-  total_unique: 95
+  boncom: 1
+  total_unique: 97
   deferred: 23
 ---
 
@@ -20,11 +21,12 @@ This repository is an **Open Knowledge Format (OKF) v0.1** knowledge bundle for 
 
 | Category | Unique skills |
 |----------|---------------|
-| Development | 49 |
+| Development | 50 |
 | SEO | 31 |
 | Writing | 1 |
 | Superpowers | 14 |
-| **Total unique** | **95** |
+| Boncom (authored in-house) | 1 |
+| **Total unique** | **97** |
 | Deferred (not installed) | 23 |
 
 # How to navigate

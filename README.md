@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-09-30T16:30:00-06:00
+timestamp: 2026-09-30T17:00:00-06:00
 ---
 
 <div align="center">
@@ -12,14 +12,14 @@ timestamp: 2026-09-30T16:30:00-06:00
 
 **Trusted Cursor & Claude agent skills for Boncom** — cataloged, reviewed, and ready to route.
 
-[![Skills](https://img.shields.io/badge/skills-96-111827?style=for-the-badge)](#skill-inventory)
-[![Repos](https://img.shields.io/badge/repos-24-2563eb?style=for-the-badge)](#source-repositories)
+[![Skills](https://img.shields.io/badge/skills-97-111827?style=for-the-badge)](#skill-inventory)
+[![Repos](https://img.shields.io/badge/repos-25-2563eb?style=for-the-badge)](#source-repositories)
 [![OKF](https://img.shields.io/badge/OKF-v0.1-059669?style=for-the-badge)](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)
 [![Catalog](https://img.shields.io/badge/catalog-private-6b7280?style=for-the-badge)](https://github.com/BONCOM/boncom-ai-skills)
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-09-30 16:30:00 MDT`
+`Last updated: 2026-09-30 17:00:00 MDT`
 
 </div>
 
@@ -35,9 +35,10 @@ Agents get better when they load the **narrowest skill** for the job — not a p
 | SEO | 31 |
 | Writing | 1 |
 | Superpowers | 14 |
-| **Total unique** | **96** |
+| Boncom (authored in-house) | 1 |
+| **Total unique** | **97** |
 | Deferred (reviewed, not installed) | 23 |
-| Source repositories | 24 |
+| Source repositories | 25 |
 
 ## Quick start
 
@@ -70,6 +71,7 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-09-16 | 2026-09-28 |
 | [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-09-28 | 2026-09-30 |
 | [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-09-28 | 2026-09-28 |
+| [`BONCOM/bcc-bon-solutions-skills`](https://github.com/BONCOM/bcc-bon-solutions-skills) | 1 | 2026-09-29 | 2026-09-29 |
 | [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-07-21 | 2026-07-21 |
 | [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-09-30 | 2026-09-30 |
 | [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-09-28 | 2026-09-28 |
@@ -226,6 +228,17 @@ Rewrite AI-sounding prose so it reads naturally.
 **Covers:** humanizer editing pass
 
 **Installed:** `humanizer`
+
+</details>
+
+<details>
+<summary><a href="https://github.com/BONCOM/bcc-bon-solutions-skills"><strong>BONCOM/bcc-bon-solutions-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-29</code> · repo <code>2026-09-29</code></summary>
+
+Solutions R2-D2, the Boncom Solutions team's own toolkit (internal repo, v2.0.1). Installed by symlink from a local clone, not through `skills@…`; update with `git pull`.
+
+**Covers:** new Suite apps, Boncom design system build/check and entry pages, central auth, per-role practice accounts, Cloud Run deploy and ship, doctor health check, security scan, `bcc-bon-` repo naming
+
+**Installed:** `solutions-r2d2`
 
 </details>
 
