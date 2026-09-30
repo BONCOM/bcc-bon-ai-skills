@@ -4,7 +4,7 @@ title: playwright-cli
 description: "Browser navigation, form interaction, screenshots, page snapshots, and test generation are exposed through the Playwright CLI. Compact snapshot references and persistent browser sessions make it a good fit when shell-based browser control is preferable to an MCP workflow."
 resource: "https://github.com/microsoft/playwright-cli/blob/main/skills/playwright-cli/SKILL.md"
 tags: [development, installed, frontend-and-ui]
-timestamp: 2026-09-18T00:00:00Z
+timestamp: 2026-09-28T00:00:00Z
 category: development
 group: Frontend and UI
 license: Apache-2.0

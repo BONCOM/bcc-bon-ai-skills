@@ -4,7 +4,7 @@ title: frontend-design
 description: "New interfaces that need a visual direction, and existing ones that feel generic, are the target. The skill grounds typography, palette, layout, motion, and copy in the product subject, requires a design pass before code, and includes responsive, focus, and reduced-motion checks."
 resource: "https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md"
 tags: [development, installed, frontend-and-ui]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-03T00:00:00Z
 category: development
 group: Frontend and UI
 license: Apache-2.0

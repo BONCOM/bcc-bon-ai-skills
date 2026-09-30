@@ -4,7 +4,7 @@ title: seo-google
 description: "Search Console, PageSpeed Insights, CrUX history, sitemap status, GA4 organic traffic, and the Indexing API are routed through this skill. It adds Google's own measurements and index state to crawler-based observations."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-google/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-10T00:00:00Z
+timestamp: 2026-09-29T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

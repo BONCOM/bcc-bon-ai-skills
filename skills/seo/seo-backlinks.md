@@ -4,7 +4,7 @@ title: seo-backlinks
 description: "Referring-domain analysis, anchor distribution, toxic-link review, link gaps, new or lost links, and disavow evidence are handled here. The skill merges Common Crawl and a verification crawler with optional Moz, Bing Webmaster, Ahrefs, or DataForSEO data instead of pretending one source is complete."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-backlinks/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-10T00:00:00Z
+timestamp: 2026-09-29T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

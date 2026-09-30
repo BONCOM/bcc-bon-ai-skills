@@ -4,7 +4,7 @@ title: seo-image-gen
 description: "An Open Graph preview, hero, product image, infographic, schema image, or thumbnail is a generation task for this extension. It maps the asset type to aspect ratio and resolution, then delegates generation through the Banana creative pipeline."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-image-gen/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-10T00:00:00Z
+timestamp: 2026-09-29T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

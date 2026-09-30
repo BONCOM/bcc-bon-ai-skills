@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-09-21T19:20:00-06:00
+timestamp: 2026-09-30T16:30:00-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-09-21T19:20:00-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-09-21 19:20:00 MDT`
+`Last updated: 2026-09-30 16:30:00 MDT`
 
 </div>
 
@@ -57,35 +57,35 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 
 | Repository | Skills | Last skill update | Repo activity |
 |---|---:|---|---|
-| [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-09-10 | 2026-09-11 |
-| [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-08-12 | 2026-09-20 |
-| [`google/skills`](https://github.com/google/skills) | 10 | 2026-09-21 | 2026-09-21 |
-| [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-09-10 | 2026-09-10 |
+| [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-09-29 | 2026-09-29 |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-09-19 | 2026-09-25 |
+| [`google/skills`](https://github.com/google/skills) | 10 | 2026-09-25 | 2026-09-30 |
+| [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-09-29 | 2026-09-29 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-09-01 | 2026-09-01 |
-| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-09-18 | 2026-09-20 |
+| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-09-20 | 2026-09-26 |
 | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) | 3 | 2026-04-14 | 2026-08-28 |
 | [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official) | 2 | 2026-04-23 | 2026-09-21 |
-| [`hookdeck/webhook-skills`](https://github.com/hookdeck/webhook-skills) | 2 | 2026-05-11 | 2026-09-14 |
-| [`supabase/agent-skills`](https://github.com/supabase/agent-skills) | 2 | 2026-08-12 | 2026-08-12 |
-| [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-08-31 | 2026-09-21 |
-| [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-01-31 | 2026-06-23 |
-| [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-09-06 | 2026-09-06 |
+| [`hookdeck/webhook-skills`](https://github.com/hookdeck/webhook-skills) | 2 | 2026-09-30 | 2026-09-30 |
+| [`supabase/agent-skills`](https://github.com/supabase/agent-skills) | 2 | 2026-09-28 | 2026-09-28 |
+| [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-09-16 | 2026-09-28 |
+| [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-09-28 | 2026-09-30 |
+| [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-09-28 | 2026-09-28 |
 | [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-07-21 | 2026-07-21 |
-| [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-06-25 | 2026-09-18 |
-| [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-09-17 | 2026-09-18 |
+| [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-09-30 | 2026-09-30 |
+| [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-09-28 | 2026-09-28 |
 | [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-09-20 | 2026-09-22 |
 | [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-08-15 | 2026-09-18 |
 | [`mcollina/skills`](https://github.com/mcollina/skills) | 1 | 2026-03-13 | 2026-08-17 |
-| [`microsoft/playwright-cli`](https://github.com/microsoft/playwright-cli) | 1 | 2026-09-18 | 2026-09-18 |
+| [`microsoft/playwright-cli`](https://github.com/microsoft/playwright-cli) | 1 | 2026-09-28 | 2026-09-28 |
 | [`microsoft/skills`](https://github.com/microsoft/skills) | 1 | 2026-07-22 | 2026-09-21 |
-| [`paulnsorensen/skillz-that-grillz`](https://github.com/paulnsorensen/skillz-that-grillz) | 1 | 2026-07-17 | 2026-08-02 |
+| [`paulnsorensen/skillz-that-grillz`](https://github.com/paulnsorensen/skillz-that-grillz) | 1 | 2026-09-28 | 2026-09-29 |
 | [`vercel-labs/skills`](https://github.com/vercel-labs/skills) | 1 | 2026-07-10 | 2026-09-18 |
-| [`wshobson/agents`](https://github.com/wshobson/agents) | 1 | 2026-05-22 | 2026-09-21 |
+| [`wshobson/agents`](https://github.com/wshobson/agents) | 1 | 2026-09-28 | 2026-09-29 |
 
 ### Skill inventory
 
 <details>
-<summary><a href="https://github.com/AgriciDaniel/claude-seo"><strong>AgriciDaniel/claude-seo</strong></a> · <strong>31</strong> skills · skills updated <code>2026-09-10</code> · repo <code>2026-09-11</code></summary>
+<summary><a href="https://github.com/AgriciDaniel/claude-seo"><strong>AgriciDaniel/claude-seo</strong></a> · <strong>31</strong> skills · skills updated <code>2026-09-29</code> · repo <code>2026-09-29</code></summary>
 
 Claude SEO suite for audits, content, technical SEO, local/maps, schema, sitemaps, AI-search (GEO), and vendor extensions.
 
@@ -96,7 +96,7 @@ Claude SEO suite for audits, content, technical SEO, local/maps, schema, sitemap
 </details>
 
 <details>
-<summary><a href="https://github.com/obra/superpowers"><strong>obra/superpowers</strong></a> · <strong>14</strong> skills · skills updated <code>2026-08-12</code> · repo <code>2026-09-20</code></summary>
+<summary><a href="https://github.com/obra/superpowers"><strong>obra/superpowers</strong></a> · <strong>14</strong> skills · skills updated <code>2026-09-19</code> · repo <code>2026-09-25</code></summary>
 
 End-to-end agentic engineering process: design → plan → TDD → implement → review → verify → finish the branch.
 
@@ -104,10 +104,12 @@ End-to-end agentic engineering process: design → plan → TDD → implement �
 
 **Installed:** `brainstorming`, `dispatching-parallel-agents`, `executing-plans`, `finishing-a-development-branch`, `receiving-code-review`, `requesting-code-review`, `subagent-driven-development`, `systematic-debugging`, `test-driven-development`, `using-git-worktrees`, `using-superpowers`, `verification-before-completion`, `writing-plans`, `writing-skills`
 
+**Flagged (not catalogued):** the v6.4.1 plugin update also brings a new bundled `diagnosing-superpowers` skill; it ships with the plugin but has no concept file yet.
+
 </details>
 
 <details>
-<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-09-21</code> · repo <code>2026-09-21</code></summary>
+<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-09-25</code> · repo <code>2026-09-30</code></summary>
 
 Google Cloud product skills for common Boncom cloud work.
 
@@ -118,7 +120,7 @@ Google Cloud product skills for common Boncom cloud work.
 </details>
 
 <details>
-<summary><a href="https://github.com/anthropics/skills"><strong>anthropics/skills</strong></a> · <strong>7</strong> skills · skills updated <code>2026-09-10</code> · repo <code>2026-09-10</code></summary>
+<summary><a href="https://github.com/anthropics/skills"><strong>anthropics/skills</strong></a> · <strong>7</strong> skills · skills updated <code>2026-09-29</code> · repo <code>2026-09-29</code></summary>
 
 Official Anthropic skills for Claude/API work, UI design, MCP servers, and office documents.
 
@@ -140,7 +142,7 @@ Better Auth setup, scaffolding, and hardening.
 </details>
 
 <details>
-<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-09-18</code> · repo <code>2026-09-20</code></summary>
+<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-09-20</code> · repo <code>2026-09-26</code></summary>
 
 Production quality skills for delivery and runtime health.
 
@@ -173,7 +175,7 @@ Official Claude Code plugins (not normal SKILL.md installs).
 </details>
 
 <details>
-<summary><a href="https://github.com/hookdeck/webhook-skills"><strong>hookdeck/webhook-skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-05-11</code> · repo <code>2026-09-14</code></summary>
+<summary><a href="https://github.com/hookdeck/webhook-skills"><strong>hookdeck/webhook-skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-09-30</code> · repo <code>2026-09-30</code></summary>
 
 Webhook receiver patterns and Stripe-specific handlers.
 
@@ -184,7 +186,7 @@ Webhook receiver patterns and Stripe-specific handlers.
 </details>
 
 <details>
-<summary><a href="https://github.com/supabase/agent-skills"><strong>supabase/agent-skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-08-12</code> · repo <code>2026-08-12</code></summary>
+<summary><a href="https://github.com/supabase/agent-skills"><strong>supabase/agent-skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-09-28</code> · repo <code>2026-09-28</code></summary>
 
 Supabase product guidance plus Postgres best practices for any Postgres deployment.
 
@@ -195,7 +197,7 @@ Supabase product guidance plus Postgres best practices for any Postgres deployme
 </details>
 
 <details>
-<summary><a href="https://github.com/trailofbits/skills"><strong>trailofbits/skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-08-31</code> · repo <code>2026-09-21</code></summary>
+<summary><a href="https://github.com/trailofbits/skills"><strong>trailofbits/skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-09-16</code> · repo <code>2026-09-28</code></summary>
 
 Security analysis skills from Trail of Bits.
 
@@ -206,7 +208,7 @@ Security analysis skills from Trail of Bits.
 </details>
 
 <details>
-<summary><a href="https://github.com/antfu/skills"><strong>antfu/skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-01-31</code> · repo <code>2026-06-23</code></summary>
+<summary><a href="https://github.com/antfu/skills"><strong>antfu/skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-28</code> · repo <code>2026-09-30</code></summary>
 
 Vue 3 / Composition API guidance.
 
@@ -217,7 +219,7 @@ Vue 3 / Composition API guidance.
 </details>
 
 <details>
-<summary><a href="https://github.com/blader/humanizer"><strong>blader/humanizer</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-06</code> · repo <code>2026-09-06</code></summary>
+<summary><a href="https://github.com/blader/humanizer"><strong>blader/humanizer</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-28</code> · repo <code>2026-09-28</code></summary>
 
 Rewrite AI-sounding prose so it reads naturally.
 
@@ -239,7 +241,7 @@ Deep Playwright test design and maintenance.
 </details>
 
 <details>
-<summary><a href="https://github.com/fastapi/fastapi"><strong>fastapi/fastapi</strong></a> · <strong>1</strong> skill · skills updated <code>2026-06-25</code> · repo <code>2026-09-18</code></summary>
+<summary><a href="https://github.com/fastapi/fastapi"><strong>fastapi/fastapi</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-30</code> · repo <code>2026-09-30</code></summary>
 
 Current FastAPI conventions for APIs and review.
 
@@ -250,7 +252,7 @@ Current FastAPI conventions for APIs and review.
 </details>
 
 <details>
-<summary><a href="https://github.com/firebase/agent-skills"><strong>firebase/agent-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-17</code> · repo <code>2026-09-18</code></summary>
+<summary><a href="https://github.com/firebase/agent-skills"><strong>firebase/agent-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-28</code> · repo <code>2026-09-28</code></summary>
 
 Firestore data modeling and client/query guidance.
 
@@ -294,7 +296,7 @@ Node.js backend patterns (Node 22+).
 </details>
 
 <details>
-<summary><a href="https://github.com/microsoft/playwright-cli"><strong>microsoft/playwright-cli</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-18</code> · repo <code>2026-09-18</code></summary>
+<summary><a href="https://github.com/microsoft/playwright-cli"><strong>microsoft/playwright-cli</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-28</code> · repo <code>2026-09-28</code></summary>
 
 Shell-driven browser automation via Playwright CLI.
 
@@ -316,13 +318,15 @@ Microsoft's coding-agent skill collection — mostly Azure SDK skills outside th
 </details>
 
 <details>
-<summary><a href="https://github.com/paulnsorensen/skillz-that-grillz"><strong>paulnsorensen/skillz-that-grillz</strong></a> · <strong>1</strong> skill · skills updated <code>2026-07-17</code> · repo <code>2026-08-02</code></summary>
+<summary><a href="https://github.com/paulnsorensen/skillz-that-grillz"><strong>paulnsorensen/skillz-that-grillz</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-28</code> · repo <code>2026-09-29</code></summary>
 
 Day-to-day GitHub work through the gh CLI.
 
 **Covers:** PR inspection/review/merge, issues, CI, releases, search (no commit/push/PR creation — repo retired its bundled commit and pr-stack skills)
 
 **Installed:** `gh`
+
+**Flagged:** upstream retired `gh` on 2026-09-28 (`b068dac`) and the repo now publishes only `skillz`. The local copy stays installed but can't be refreshed.
 
 </details>
 
@@ -338,7 +342,7 @@ Discover and install skills from the skills.sh ecosystem.
 </details>
 
 <details>
-<summary><a href="https://github.com/wshobson/agents"><strong>wshobson/agents</strong></a> · <strong>1</strong> skill · skills updated <code>2026-05-22</code> · repo <code>2026-09-21</code></summary>
+<summary><a href="https://github.com/wshobson/agents"><strong>wshobson/agents</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-28</code> · repo <code>2026-09-29</code></summary>
 
 Python/pytest testing patterns.
 

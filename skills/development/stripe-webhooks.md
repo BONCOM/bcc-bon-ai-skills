@@ -4,7 +4,7 @@ title: stripe-webhooks
 description: "Stripe payment, subscription, and invoice webhook setup belongs here: signature verification with the raw body, common event types, and framework examples. Pair with `webhook-handler-patterns` for idempotency and retries; use the Stripe MCP for live account operations."
 resource: "https://github.com/hookdeck/webhook-skills/blob/main/skills/stripe-webhooks/SKILL.md"
 tags: [development, installed, development-quality]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-30T00:00:00Z
 category: development
 group: Development quality
 license: MIT

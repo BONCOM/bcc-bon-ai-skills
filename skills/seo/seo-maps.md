@@ -4,7 +4,7 @@ title: seo-maps
 description: "Maps-platform evidence is separate from the on-page work in `seo-local`. This skill supports geo-grid rank scans, GBP audits, review velocity, cross-platform NAP checks, competitor-radius mapping, Share of Local Voice, and LocalBusiness schema derived from API data."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-maps/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-10T00:00:00Z
+timestamp: 2026-09-29T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

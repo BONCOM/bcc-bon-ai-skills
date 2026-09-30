@@ -4,7 +4,7 @@ title: fastapi
 description: "FastAPI implementation and review work should consult this skill for routes, Pydantic models, dependencies, response models, SSE, byte streams, and bundled frontend delivery. It points to current framework conventions such as `Annotated` dependencies and return-type response schemas rather than olde"
 resource: "https://github.com/fastapi/fastapi/blob/master/fastapi/.agents/skills/fastapi/SKILL.md"
 tags: [development, installed, development-quality]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-30T00:00:00Z
 category: development
 group: Development quality
 license: MIT

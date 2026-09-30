@@ -4,7 +4,7 @@ title: test-driven-development
 description: "Implementation code for a feature, bug fix, refactor, or behavior change follows the test in this workflow. It requires a focused failure for the expected reason, the minimum code to pass, a fresh full verification, and cleanup only after the green state is established."
 resource: "https://github.com/obra/superpowers/blob/main/skills/test-driven-development/SKILL.md"
 tags: [superpowers, installed, plugin]
-timestamp: 2026-08-17T00:00:00Z
+timestamp: 2026-09-19T00:00:00Z
 category: superpowers
 license: MIT
 available_in: Cursor and Claude Code
@@ -19,7 +19,7 @@ Implementation code for a feature, bug fix, refactor, or behavior change follows
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/test-driven-development/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.3.0/skills/test-driven-development/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.4.1/skills/test-driven-development/SKILL.md`
 
 # Availability
 

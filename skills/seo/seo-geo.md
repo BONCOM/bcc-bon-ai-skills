@@ -4,7 +4,7 @@ title: seo-geo
 description: "AI Overviews, ChatGPT search, Perplexity, and similar answer surfaces are the focus of this visibility review. It checks crawler access, brand mentions, `llms.txt`, passage citability, and platform signals while treating Google's GEO guidance as ordinary SEO fundamentals where the primary source say"
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-geo/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-10T00:00:00Z
+timestamp: 2026-09-29T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

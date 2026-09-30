@@ -4,7 +4,7 @@ title: performance-optimization
 description: "Measured slowness, regressions, Core Web Vitals failures, slow database access, and explicit latency budgets are its trigger. The workflow requires a baseline and profile before changes, then targets the observed frontend, backend, query, or database bottleneck and measures again."
 resource: "https://github.com/addyosmani/agent-skills/blob/main/skills/performance-optimization/SKILL.md"
 tags: [development, installed, development-quality]
-timestamp: 2026-08-10T00:00:00Z
+timestamp: 2026-08-28T00:00:00Z
 category: development
 group: Development quality
 license: MIT

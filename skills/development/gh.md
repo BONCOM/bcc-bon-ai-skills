@@ -32,6 +32,8 @@ MIT
 
 # Trust notes
 
+**Retired upstream (2026-09-28, `b068dac`):** skillz-that-grillz now publishes only its `skillz` package; `gh` was retired ("use the `gh` CLI directly") and `skills/gh/` no longer exists on `main`. The installed copy is kept as-is and can no longer be refreshed; decide whether to keep or remove it.
+
 Instruction plus `references/` (jq recipes, troubleshooting, automation, extras). No bundled installer scripts. Later use runs authenticated `gh` against GitHub and can create/merge PRs, edit issues, trigger workflows, and change repo settings — confirm destructive actions. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Med Risk.
 
 # Install / update

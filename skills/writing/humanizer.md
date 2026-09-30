@@ -4,7 +4,7 @@ title: humanizer
 description: "Remove signs of AI-generated writing from text. Use when editing or reviewing text to make it sound more natural and human-written (humanizer v3.0.0)."
 resource: "https://github.com/blader/humanizer/blob/main/SKILL.md"
 tags: [writing, installed]
-timestamp: 2026-09-06T00:00:00Z
+timestamp: 2026-09-28T00:00:00Z
 category: writing
 license: MIT
 available_in: Cursor and Claude Code

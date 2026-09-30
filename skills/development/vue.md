@@ -4,7 +4,7 @@ title: vue
 description: "Vue 3.5 single-file components, Composition API code, `<script setup>` macros, reactivity, watchers, composables, and built-in components such as Teleport or Suspense are covered here. The installed guidance prefers TypeScript, `<script setup lang=\"ts\">`, and shallow reactivity when deep tracking is"
 resource: "https://github.com/antfu/skills/blob/main/skills/vue/SKILL.md"
 tags: [development, installed, frontend-and-ui]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-28T00:00:00Z
 category: development
 group: Frontend and UI
 license: MIT

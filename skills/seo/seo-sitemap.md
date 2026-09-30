@@ -4,7 +4,7 @@ title: seo-sitemap
 description: "XML sitemap validation and generation share this workflow. It checks protocol limits, status codes, canonical and noindex conflicts, `lastmod`, robots references, redirects, and missing crawled pages, and can generate a split sitemap plan."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-sitemap/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-10T00:00:00Z
+timestamp: 2026-09-29T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

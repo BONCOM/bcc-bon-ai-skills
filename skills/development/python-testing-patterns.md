@@ -4,7 +4,7 @@ title: python-testing-patterns
 description: "Python test work with pytest is the focus here, including fixtures, parametrization, mocks, async code, database tests, and integration coverage. The skill helps select the right test boundary and leaves runnable examples instead of broad testing advice."
 resource: "https://github.com/wshobson/agents/blob/main/plugins/python-development/skills/python-testing-patterns/SKILL.md"
 tags: [development, installed, development-quality]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-09-28T00:00:00Z
 category: development
 group: Development quality
 license: MIT

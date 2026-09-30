@@ -4,7 +4,7 @@ title: seo-ahrefs
 description: "Ahrefs domain metrics, referring domains, backlinks, anchors, organic keywords, and Content Explorer results are the scope of this extension. It pairs paid Ahrefs evidence with `seo-backlinks` so cross-source discrepancies remain visible."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/extensions/ahrefs/skills/seo-ahrefs/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-10T00:00:00Z
+timestamp: 2026-09-29T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

@@ -4,7 +4,7 @@ title: codeql
 description: "An explicit CodeQL request is required before using this skill, whether the task is building a database, running a suite, adding data-extension models, or processing SARIF. It checks database extraction quality before treating a scan as valid and treats zero findings as a result that still needs val"
 resource: "https://github.com/trailofbits/skills/blob/main/plugins/static-analysis/skills/codeql/SKILL.md"
 tags: [development, installed, development-quality]
-timestamp: 2026-08-19T00:00:00Z
+timestamp: 2026-09-16T00:00:00Z
 category: development
 group: Development quality
 license: CC-BY-SA-4.0

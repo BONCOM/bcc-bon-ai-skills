@@ -19,7 +19,7 @@ Branch integration is the final step after implementation and tests are complete
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/finishing-a-development-branch/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.3.0/skills/finishing-a-development-branch/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/6.4.1/skills/finishing-a-development-branch/SKILL.md`
 
 # Availability
 
