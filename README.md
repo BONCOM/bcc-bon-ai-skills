@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-10-01T12:00:00-06:00
+timestamp: 2026-10-02T12:00:00-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-10-01T12:00:00-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-10-01 12:00:00 MDT`
+`Last updated: 2026-10-02 12:00:00 MDT`
 
 </div>
 
@@ -67,13 +67,13 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) | 3 | 2026-04-14 | 2026-08-28 |
 | [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official) | 2 | 2026-04-23 | 2026-09-21 |
 | [`hookdeck/webhook-skills`](https://github.com/hookdeck/webhook-skills) | 2 | 2026-09-30 | 2026-09-30 |
-| [`supabase/agent-skills`](https://github.com/supabase/agent-skills) | 2 | 2026-09-28 | 2026-09-28 |
+| [`supabase/agent-skills`](https://github.com/supabase/agent-skills) | 2 | 2026-10-02 | 2026-10-02 |
 | [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-09-16 | 2026-09-28 |
 | [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-09-28 | 2026-09-30 |
 | [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-09-28 | 2026-09-28 |
 | [`BONCOM/bcc-bon-solutions-skills`](https://github.com/BONCOM/bcc-bon-solutions-skills) | 1 | 2026-09-29 | 2026-09-29 |
 | [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-07-21 | 2026-07-21 |
-| [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-09-30 | 2026-09-30 |
+| [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-10-02 | 2026-10-02 |
 | [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-09-28 | 2026-09-28 |
 | [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-09-20 | 2026-09-22 |
 | [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-08-15 | 2026-09-18 |
@@ -188,7 +188,7 @@ Webhook receiver patterns and Stripe-specific handlers.
 </details>
 
 <details>
-<summary><a href="https://github.com/supabase/agent-skills"><strong>supabase/agent-skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-09-28</code> · repo <code>2026-09-28</code></summary>
+<summary><a href="https://github.com/supabase/agent-skills"><strong>supabase/agent-skills</strong></a> · <strong>2</strong> skills · skills updated <code>2026-10-02</code> · repo <code>2026-10-02</code></summary>
 
 Supabase product guidance plus Postgres best practices for any Postgres deployment.
 
@@ -254,7 +254,7 @@ Deep Playwright test design and maintenance.
 </details>
 
 <details>
-<summary><a href="https://github.com/fastapi/fastapi"><strong>fastapi/fastapi</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-30</code> · repo <code>2026-09-30</code></summary>
+<summary><a href="https://github.com/fastapi/fastapi"><strong>fastapi/fastapi</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-02</code> · repo <code>2026-10-02</code></summary>
 
 Current FastAPI conventions for APIs and review.
 

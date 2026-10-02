@@ -1,5 +1,9 @@
 # Catalog Update Log
 
+## 2026-10-02
+* **Update**: Refreshed [`fastapi`](/skills/development/fastapi.md) from fastapi/fastapi (`5eb7186`, 2026-10-02, a dependency bump that also reformatted examples): one blank line added in each of `references/dependencies.md` and `references/streaming.md`, with no change to guidance. Also refreshed [`supabase`](/skills/development/supabase.md) from supabase/agent-skills (`c9be0e9`, 2026-10-02, "chore: release main"): only `CHANGELOG.md` changed, adding the 0.1.9 entry for the scoped-token fix picked up on 2026-09-30. Both were reinstalled via `skills@1.5.18` and verified identical to upstream. Neither is in the Cursor-native skills cache.
+* **Verification**: Re-checked all 74 skills in the lock file, the 6 claude-seo extension skills, the superpowers pin (still `5bf4e78`) and the `solutions-r2d2` clone (`98d45ba`, current). Nothing else changed. `pdf` and `humanizer` are still hash-only false positives, and `gh` is still retired upstream.
+
 ## 2026-10-01
 * **Update**: Refreshed [`google-cloud-solution-architecture`](/skills/development/google-cloud-solution-architecture.md) from google/skills (`d5d9052`, 2026-09-30, "Updated the `references` files"): small edits to `SKILL.md` and reworked `references/architecture-guides.md` and `references/best-practices-guides.md`. It landed after the 2026-09-30 refresh. Reinstalled via `skills@1.5.18` and verified identical to upstream. Not present in the Cursor-native skills cache.
 * **Verification**: Re-checked all 74 skills in the lock file, the 6 claude-seo extension skills, the superpowers marketplace pin (still `5bf4e78`, v6.4.1) and the `solutions-r2d2` clone (`98d45ba`, v2.0.1, matches `origin/main`). The `pdf` and `humanizer` hash mismatches are false positives: their contents are byte-identical to upstream. `gh` is still retired upstream.

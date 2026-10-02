@@ -4,7 +4,7 @@ title: supabase
 description: "Any Supabase product work should start here: Auth, RLS, Data API grants, Edge Functions, Storage, migrations, CLI, and the Supabase MCP. It requires checking current docs/changelog before implementing because APIs and config change between versions."
 resource: "https://github.com/supabase/agent-skills/blob/main/skills/supabase/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-09-28T00:00:00Z
+timestamp: 2026-10-02T00:00:00Z
 category: development
 group: Google Cloud
 license: MIT
