@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-09-30T17:00:00-06:00
+timestamp: 2026-10-01T12:00:00-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-09-30T17:00:00-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-09-30 17:00:00 MDT`
+`Last updated: 2026-10-01 12:00:00 MDT`
 
 </div>
 
@@ -60,7 +60,7 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 |---|---:|---|---|
 | [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-09-29 | 2026-09-29 |
 | [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-09-19 | 2026-09-25 |
-| [`google/skills`](https://github.com/google/skills) | 10 | 2026-09-25 | 2026-09-30 |
+| [`google/skills`](https://github.com/google/skills) | 10 | 2026-09-30 | 2026-10-01 |
 | [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-09-29 | 2026-09-29 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-09-01 | 2026-09-01 |
 | [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-09-20 | 2026-09-26 |
@@ -111,7 +111,7 @@ End-to-end agentic engineering process: design → plan → TDD → implement �
 </details>
 
 <details>
-<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-09-25</code> · repo <code>2026-09-30</code></summary>
+<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-09-30</code> · repo <code>2026-10-01</code></summary>
 
 Google Cloud product skills for common Boncom cloud work.
 
