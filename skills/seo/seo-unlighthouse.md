@@ -4,7 +4,7 @@ title: seo-unlighthouse
 description: "A local multi-page Lighthouse sweep is useful when PageSpeed quota, CI repeatability, or broad regression coverage matters. This wrapper runs Unlighthouse against a capped route set and aggregates median performance, accessibility, best-practice, and SEO scores."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/extensions/unlighthouse/skills/seo-unlighthouse/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-29T00:00:00Z
+timestamp: 2026-10-04T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

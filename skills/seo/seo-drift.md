@@ -4,7 +4,7 @@ title: seo-drift
 description: "A known-good page baseline lets this skill detect SEO regressions after content or deployment changes. It compares titles, canonicals, robots directives, headings, schema, links, and other critical elements, then keeps a local comparison history."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-drift/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-29T00:00:00Z
+timestamp: 2026-10-04T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

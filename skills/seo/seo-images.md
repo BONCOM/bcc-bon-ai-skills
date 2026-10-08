@@ -4,7 +4,7 @@ title: seo-images
 description: "Existing image assets can be checked for alt text, dimensions, formats, responsive sources, lazy loading, CLS risk, file size, metadata, and search visibility. The same skill can plan or run WebP/AVIF conversion and IPTC/XMP updates when local files are supplied."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-images/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-29T00:00:00Z
+timestamp: 2026-10-04T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

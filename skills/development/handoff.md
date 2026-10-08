@@ -4,7 +4,7 @@ title: handoff
 description: "Compact the current conversation into a handoff document for a fresh agent or session. Manual invoke only (`/handoff` or explicit request). Writes to the OS temp directory; references specs/plans by path instead of copying them."
 resource: "https://github.com/mattpocock/skills/blob/main/skills/productivity/handoff/SKILL.md"
 tags: [development, installed, workflow]
-timestamp: 2026-08-17T00:00:00Z
+timestamp: 2026-10-08T00:00:00Z
 category: development
 group: Workflow and discovery
 license: MIT

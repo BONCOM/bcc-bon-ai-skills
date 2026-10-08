@@ -4,7 +4,7 @@ title: seo-programmatic
 description: "Pages generated at scale from CSV, JSON, an API, or a database need this planning and audit process. It evaluates record uniqueness and freshness, designs URL and template rules, automates internal-link planning, and sets thin-content and index-bloat gates before rollout."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-programmatic/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-29T00:00:00Z
+timestamp: 2026-10-04T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

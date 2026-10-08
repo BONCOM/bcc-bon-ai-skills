@@ -4,7 +4,7 @@ title: seo-sxo
 description: "A technically sound page can still target the wrong intent or page type; this skill tests that mismatch. It reads the SERP backward, derives user stories from ranked results, scores the page through several personas, and can produce a wireframe tied to observed intent."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-sxo/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-29T00:00:00Z
+timestamp: 2026-10-04T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

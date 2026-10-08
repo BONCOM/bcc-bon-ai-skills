@@ -4,7 +4,7 @@ title: caveman
 description: "Ultra-compressed communication mode — cuts narration while keeping technical facts, code, commands, and errors exact. Intensity levels: lite, full, ultra (plus wenyan variants). Invoke with /caveman or 'talk like caveman'; say 'normal mode' to exit."
 resource: "https://github.com/JuliusBrussee/caveman/blob/main/skills/caveman/SKILL.md"
 tags: [development, installed, workflow]
-timestamp: 2026-09-20T00:00:00Z
+timestamp: 2026-10-08T00:00:00Z
 category: development
 group: Workflow and discovery
 license: MIT

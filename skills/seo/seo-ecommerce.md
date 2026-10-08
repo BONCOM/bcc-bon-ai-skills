@@ -4,7 +4,7 @@ title: seo-ecommerce
 description: "Product-page SEO, Product schema, marketplace visibility, pricing comparisons, and Shopping or Amazon keyword gaps are handled here. The base mode audits the page directly; richer market analysis is added only when the DataForSEO Merchant API is available."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-ecommerce/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-29T00:00:00Z
+timestamp: 2026-10-04T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

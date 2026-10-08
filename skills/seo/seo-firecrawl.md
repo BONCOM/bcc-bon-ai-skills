@@ -4,7 +4,7 @@ title: seo-firecrawl
 description: "Choose Firecrawl when an audit needs JavaScript-rendered scraping, URL discovery, a site map, broken-link coverage, or a larger crawl than the base fetcher can provide. This extension exposes crawl, map, scrape, and in-site search operations."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/extensions/firecrawl/skills/seo-firecrawl/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-09-29T00:00:00Z
+timestamp: 2026-10-04T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code

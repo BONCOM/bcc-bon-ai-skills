@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-10-02T12:00:00-06:00
+timestamp: 2026-10-08T12:15:00-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-10-02T12:00:00-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-10-02 12:00:00 MDT`
+`Last updated: 2026-10-08 12:15:00 MDT`
 
 </div>
 
@@ -58,12 +58,12 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 
 | Repository | Skills | Last skill update | Repo activity |
 |---|---:|---|---|
-| [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-09-29 | 2026-09-29 |
+| [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-10-04 | 2026-10-04 |
 | [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-09-19 | 2026-09-25 |
-| [`google/skills`](https://github.com/google/skills) | 10 | 2026-09-30 | 2026-10-01 |
-| [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-09-29 | 2026-09-29 |
+| [`google/skills`](https://github.com/google/skills) | 10 | 2026-10-07 | 2026-10-08 |
+| [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-10-05 | 2026-10-08 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-09-01 | 2026-09-01 |
-| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-09-20 | 2026-09-26 |
+| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-10-03 | 2026-10-03 |
 | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) | 3 | 2026-04-14 | 2026-08-28 |
 | [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official) | 2 | 2026-04-23 | 2026-09-21 |
 | [`hookdeck/webhook-skills`](https://github.com/hookdeck/webhook-skills) | 2 | 2026-09-30 | 2026-09-30 |
@@ -71,12 +71,12 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-09-16 | 2026-09-28 |
 | [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-09-28 | 2026-09-30 |
 | [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-09-28 | 2026-09-28 |
-| [`BONCOM/bcc-bon-solutions-skills`](https://github.com/BONCOM/bcc-bon-solutions-skills) | 1 | 2026-09-29 | 2026-09-29 |
+| [`BONCOM/bcc-bon-solutions-skills`](https://github.com/BONCOM/bcc-bon-solutions-skills) | 1 | 2026-10-03 | 2026-10-03 |
 | [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-07-21 | 2026-07-21 |
-| [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-10-02 | 2026-10-02 |
-| [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-09-28 | 2026-09-28 |
-| [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-09-20 | 2026-09-22 |
-| [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-08-15 | 2026-09-18 |
+| [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-10-08 | 2026-10-08 |
+| [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-10-08 | 2026-10-08 |
+| [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-10-06 | 2026-10-08 |
+| [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-10-06 | 2026-10-08 |
 | [`mcollina/skills`](https://github.com/mcollina/skills) | 1 | 2026-03-13 | 2026-08-17 |
 | [`microsoft/playwright-cli`](https://github.com/microsoft/playwright-cli) | 1 | 2026-09-28 | 2026-09-28 |
 | [`microsoft/skills`](https://github.com/microsoft/skills) | 1 | 2026-07-22 | 2026-09-21 |
@@ -87,7 +87,7 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 ### Skill inventory
 
 <details>
-<summary><a href="https://github.com/AgriciDaniel/claude-seo"><strong>AgriciDaniel/claude-seo</strong></a> · <strong>31</strong> skills · skills updated <code>2026-09-29</code> · repo <code>2026-09-29</code></summary>
+<summary><a href="https://github.com/AgriciDaniel/claude-seo"><strong>AgriciDaniel/claude-seo</strong></a> · <strong>31</strong> skills · skills updated <code>2026-10-04</code> · repo <code>2026-10-04</code></summary>
 
 Claude SEO suite for audits, content, technical SEO, local/maps, schema, sitemaps, AI-search (GEO), and vendor extensions.
 
@@ -111,7 +111,7 @@ End-to-end agentic engineering process: design → plan → TDD → implement �
 </details>
 
 <details>
-<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-09-30</code> · repo <code>2026-10-01</code></summary>
+<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-10-07</code> · repo <code>2026-10-08</code></summary>
 
 Google Cloud product skills for common Boncom cloud work.
 
@@ -122,7 +122,7 @@ Google Cloud product skills for common Boncom cloud work.
 </details>
 
 <details>
-<summary><a href="https://github.com/anthropics/skills"><strong>anthropics/skills</strong></a> · <strong>7</strong> skills · skills updated <code>2026-09-29</code> · repo <code>2026-09-29</code></summary>
+<summary><a href="https://github.com/anthropics/skills"><strong>anthropics/skills</strong></a> · <strong>7</strong> skills · skills updated <code>2026-10-05</code> · repo <code>2026-10-08</code></summary>
 
 Official Anthropic skills for Claude/API work, UI design, MCP servers, and office documents.
 
@@ -144,7 +144,7 @@ Better Auth setup, scaffolding, and hardening.
 </details>
 
 <details>
-<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-09-20</code> · repo <code>2026-09-26</code></summary>
+<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-10-03</code> · repo <code>2026-10-03</code></summary>
 
 Production quality skills for delivery and runtime health.
 
@@ -232,7 +232,7 @@ Rewrite AI-sounding prose so it reads naturally.
 </details>
 
 <details>
-<summary><a href="https://github.com/BONCOM/bcc-bon-solutions-skills"><strong>BONCOM/bcc-bon-solutions-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-29</code> · repo <code>2026-09-29</code></summary>
+<summary><a href="https://github.com/BONCOM/bcc-bon-solutions-skills"><strong>BONCOM/bcc-bon-solutions-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-03</code> · repo <code>2026-10-03</code></summary>
 
 Solutions R2-D2, the Boncom Solutions team's own toolkit (internal repo, v2.0.1). Installed by symlink from a local clone, not through `skills@…`; update with `git pull`.
 
@@ -254,7 +254,7 @@ Deep Playwright test design and maintenance.
 </details>
 
 <details>
-<summary><a href="https://github.com/fastapi/fastapi"><strong>fastapi/fastapi</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-02</code> · repo <code>2026-10-02</code></summary>
+<summary><a href="https://github.com/fastapi/fastapi"><strong>fastapi/fastapi</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-08</code> · repo <code>2026-10-08</code></summary>
 
 Current FastAPI conventions for APIs and review.
 
@@ -265,7 +265,7 @@ Current FastAPI conventions for APIs and review.
 </details>
 
 <details>
-<summary><a href="https://github.com/firebase/agent-skills"><strong>firebase/agent-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-28</code> · repo <code>2026-09-28</code></summary>
+<summary><a href="https://github.com/firebase/agent-skills"><strong>firebase/agent-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-08</code> · repo <code>2026-10-08</code></summary>
 
 Firestore data modeling and client/query guidance.
 
@@ -276,18 +276,18 @@ Firestore data modeling and client/query guidance.
 </details>
 
 <details>
-<summary><a href="https://github.com/JuliusBrussee/caveman"><strong>JuliusBrussee/caveman</strong></a> · <strong>1</strong> skill · skills updated <code>2026-09-20</code> · repo <code>2026-09-22</code></summary>
+<summary><a href="https://github.com/JuliusBrussee/caveman"><strong>JuliusBrussee/caveman</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-06</code> · repo <code>2026-10-08</code></summary>
 
 Ultra-brief reply style to cut narration tokens.
 
-**Covers:** caveman / lite / ultra modes
+**Covers:** caveman voice (3.1.0 splits ultra/wenyan into sibling `ultracave`/`megacave` skills, not installed)
 
 **Installed:** `caveman`
 
 </details>
 
 <details>
-<summary><a href="https://github.com/mattpocock/skills"><strong>mattpocock/skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-08-15</code> · repo <code>2026-09-18</code></summary>
+<summary><a href="https://github.com/mattpocock/skills"><strong>mattpocock/skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-06</code> · repo <code>2026-10-08</code></summary>
 
 Session handoff documents for fresh agents.
 
