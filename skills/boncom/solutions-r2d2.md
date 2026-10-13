@@ -4,14 +4,14 @@ title: solutions-r2d2
 description: "The Boncom Solutions team toolkit (Solutions R2-D2): takes an idea to a live Boncom Suite app, builds or checks UI against the Boncom internal apps design system, wires central auth, adds per-role practice accounts, deploys to Cloud Run on *.boncomsuite.com, ships releases, runs a doctor health check and a security scan, and enforces bcc-bon- repo naming."
 resource: "https://github.com/BONCOM/bcc-bon-solutions-skills/blob/main/solutions-r2d2/SKILL.md"
 tags: [boncom, installed, authored]
-timestamp: 2026-10-03T00:00:00Z
+timestamp: 2026-10-09T00:00:00Z
 category: boncom
 license: Proprietary (Boncom internal)
 available_in: Cursor and Claude Code
-upstream_version: "2.1.0 (f7356b4)"
+upstream_version: "2.2.1 (6029aa1)"
 ---
 
-Boncom-authored, and the first in-house skill in this catalog. Renamed from `bcc-bon-solutions` to **Solutions R2-D2** in 2.0.0 (2026-09-28); call it with `/solutions-r2d2`. 2.1.0 (2026-10-03) speeds up the deep security scan with free scanners and helper agents, checks deploys before they run, keeps Dependabot and malware alerts on, flags new package versions, and follows central auth's move to Better Auth 1.7. One entry point with eight modes: **New app** (repo, golden-path scaffold, Boncom UI and entry pages, central auth, docs, doctor, deploy, ship), **Design** (build with the design system, score an app against every guideline, or copy the exact sign-in / 404 / 403 / 500 / maintenance pages), **Auth** (central auth at `auth.boncomsuite.com` by audience and stack, including the `me-profile` endpoint for job title, department and office), **Test accounts** (admin-only practice accounts per role with private sandboxes and a "Test mode" banner), **Deploy and ship** (Cloud Run resource profiles, the team Cloud Build format, Secret Manager, `deploy.sh` / `add-subdomain.sh`, version, changelog, Suite hub listing, release note), **Doctor** (read-only PASS/WARN/FAIL scorecard for a machine and an app), **Security scan** (leaked keys, open doors, risky packages, sign-in gaps; quick, latest-changes or deep), and **Repo** (`bcc-bon-*` naming, team access, stale remotes). It reads `bcc-bon-internal-app-design`, `bcc-bon-suite-deployment-tech` and `bcc-bon-boncom_suite/auth` live rather than copying them.
+Boncom-authored, and the first in-house skill in this catalog. Renamed from `bcc-bon-solutions` to **Solutions R2-D2** in 2.0.0 (2026-09-28); call it with `/solutions-r2d2`. 2.1.0 (2026-10-03) speeds up the deep security scan with free scanners and helper agents, checks deploys before they run, keeps Dependabot and malware alerts on, flags new package versions, and follows central auth's move to Better Auth 1.7. 2.2.0 (2026-10-08) lets a new app pick only the pieces it needs (Boncom look, Microsoft sign-in, GitHub, going online), so a Boncom-styled app can run on a laptop without sign-in; client sign-in is added only when asked for and uses Boncom sign-in's own email-link page; handed-over commands work in zsh. 2.2.1 (2026-10-09) makes the skill update itself on first use in a conversation and uses the design system's Boncom / External sign-in card for client apps. One entry point with eight modes: **New app** (repo, golden-path scaffold, Boncom UI and entry pages, central auth, docs, doctor, deploy, ship), **Design** (build with the design system, score an app against every guideline, or copy the exact sign-in / 404 / 403 / 500 / maintenance pages), **Auth** (central auth at `auth.boncomsuite.com` by audience and stack, including the `me-profile` endpoint for job title, department and office), **Test accounts** (admin-only practice accounts per role with private sandboxes and a "Test mode" banner), **Deploy and ship** (Cloud Run resource profiles, the team Cloud Build format, Secret Manager, `deploy.sh` / `add-subdomain.sh`, version, changelog, Suite hub listing, release note), **Doctor** (read-only PASS/WARN/FAIL scorecard for a machine and an app), **Security scan** (leaked keys, open doors, risky packages, sign-in gaps; quick, latest-changes or deep), and **Repo** (`bcc-bon-*` naming, team access, stale remotes). It reads `bcc-bon-internal-app-design`, `bcc-bon-suite-deployment-tech` and `bcc-bon-boncom_suite/auth` live rather than copying them.
 
 # When to use
 
@@ -33,7 +33,7 @@ Proprietary, Boncom internal.
 # Trust notes
 
 Authored by the Solutions team. Instructions plus two scripts and one template set:
-- `scripts/doctor.sh` is read-only (gcloud, gh, git, grep, find). It runs `gh api` GETs and `gcloud` reads; it changes nothing. `--self-check` tests its parsing offline; `--check-update` (run once per conversation) reports whether a newer skill version is out.
+- `scripts/doctor.sh` is read-only (gcloud, gh, git, grep, find). It runs `gh api` GETs and `gcloud` reads; it changes nothing. `--self-check` tests its parsing offline; `--check-update` only reports whether a newer skill version is out. Since 2.2.1 the skill runs `--update` once per conversation: it fast-forwards a clean clone on `main` (or replaces a plain copy) from GitHub, and refuses with a one-line `git pull` hint when the clone has unsaved changes or is on another branch. That is the only write the script makes.
 - `scripts/adherence.eslint.mjs` is an ESLint flat config that runs the design system's adherence rules with the app's own ESLint and parser; it installs and writes nothing.
 - `templates/test-accounts/` is a copy of Estimate Creator code (server middleware, admin components) that the Test accounts mode copies into an app; it's meant to be dropped once that code lands on `main` upstream.
 
@@ -49,7 +49,7 @@ ln -s "$PWD/bcc-bon-solutions-skills/solutions-r2d2" ~/.claude/skills/solutions-
 git -C ~/Documents/Code_Projects/bcc-bon-solutions-skills pull
 ```
 
-Not installed through `skills@…`; it's an internal repo, so it has no entry in `~/.agents/.skill-lock.json`. To refresh it, `git pull` the clone; the symlink picks up the new version immediately.
+Not installed through `skills@…`; it's an internal repo, so it has no entry in `~/.agents/.skill-lock.json`. To refresh it, `git pull` the clone (or let the skill's own `doctor.sh --update` do it on first use, since 2.2.1); the symlink picks up the new version immediately.
 
 # Related
 

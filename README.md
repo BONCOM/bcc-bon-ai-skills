@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-10-08T12:15:00-06:00
+timestamp: 2026-10-13T12:00:00-06:00
 ---
 
 <div align="center">
@@ -60,10 +60,10 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 |---|---:|---|---|
 | [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-10-04 | 2026-10-04 |
 | [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-09-19 | 2026-09-25 |
-| [`google/skills`](https://github.com/google/skills) | 10 | 2026-10-07 | 2026-10-08 |
-| [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-10-05 | 2026-10-08 |
+| [`google/skills`](https://github.com/google/skills) | 10 | 2026-10-12 | 2026-10-13 |
+| [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-10-09 | 2026-10-09 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-09-01 | 2026-09-01 |
-| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-10-03 | 2026-10-03 |
+| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-10-03 | 2026-10-10 |
 | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) | 3 | 2026-04-14 | 2026-08-28 |
 | [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official) | 2 | 2026-04-23 | 2026-09-21 |
 | [`hookdeck/webhook-skills`](https://github.com/hookdeck/webhook-skills) | 2 | 2026-09-30 | 2026-09-30 |
@@ -71,7 +71,7 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-09-16 | 2026-09-28 |
 | [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-09-28 | 2026-09-30 |
 | [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-09-28 | 2026-09-28 |
-| [`BONCOM/bcc-bon-solutions-skills`](https://github.com/BONCOM/bcc-bon-solutions-skills) | 1 | 2026-10-03 | 2026-10-03 |
+| [`BONCOM/bcc-bon-solutions-skills`](https://github.com/BONCOM/bcc-bon-solutions-skills) | 1 | 2026-10-09 | 2026-10-09 |
 | [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-07-21 | 2026-07-21 |
 | [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-10-08 | 2026-10-08 |
 | [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-10-08 | 2026-10-08 |
@@ -111,7 +111,7 @@ End-to-end agentic engineering process: design → plan → TDD → implement �
 </details>
 
 <details>
-<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-10-07</code> · repo <code>2026-10-08</code></summary>
+<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-10-12</code> · repo <code>2026-10-13</code></summary>
 
 Google Cloud product skills for common Boncom cloud work.
 
@@ -122,7 +122,7 @@ Google Cloud product skills for common Boncom cloud work.
 </details>
 
 <details>
-<summary><a href="https://github.com/anthropics/skills"><strong>anthropics/skills</strong></a> · <strong>7</strong> skills · skills updated <code>2026-10-05</code> · repo <code>2026-10-08</code></summary>
+<summary><a href="https://github.com/anthropics/skills"><strong>anthropics/skills</strong></a> · <strong>7</strong> skills · skills updated <code>2026-10-09</code> · repo <code>2026-10-09</code></summary>
 
 Official Anthropic skills for Claude/API work, UI design, MCP servers, and office documents.
 
@@ -144,7 +144,7 @@ Better Auth setup, scaffolding, and hardening.
 </details>
 
 <details>
-<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-10-03</code> · repo <code>2026-10-03</code></summary>
+<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-10-03</code> · repo <code>2026-10-10</code></summary>
 
 Production quality skills for delivery and runtime health.
 
@@ -232,11 +232,11 @@ Rewrite AI-sounding prose so it reads naturally.
 </details>
 
 <details>
-<summary><a href="https://github.com/BONCOM/bcc-bon-solutions-skills"><strong>BONCOM/bcc-bon-solutions-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-03</code> · repo <code>2026-10-03</code></summary>
+<summary><a href="https://github.com/BONCOM/bcc-bon-solutions-skills"><strong>BONCOM/bcc-bon-solutions-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-09</code> · repo <code>2026-10-09</code></summary>
 
-Solutions R2-D2, the Boncom Solutions team's own toolkit (internal repo, v2.0.1). Installed by symlink from a local clone, not through `skills@…`; update with `git pull`.
+Solutions R2-D2, the Boncom Solutions team's own toolkit (internal repo, v2.2.1). Installed by symlink from a local clone, not through `skills@…`; since 2.2.1 it updates itself on first use (or `git pull` by hand).
 
-**Covers:** new Suite apps, Boncom design system build/check and entry pages, central auth, per-role practice accounts, Cloud Run deploy and ship, doctor health check, security scan, `bcc-bon-` repo naming
+**Covers:** new Suite apps (or only the pieces wanted, e.g. a Boncom-styled local app without sign-in), Boncom design system build/check and entry pages, central auth, per-role practice accounts, Cloud Run deploy and ship, doctor health check, security scan, `bcc-bon-` repo naming
 
 **Installed:** `solutions-r2d2`
 

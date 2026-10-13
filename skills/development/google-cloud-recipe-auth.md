@@ -4,7 +4,7 @@ title: google-cloud-recipe-auth
 description: "Google Cloud identity choices for a developer, local script, workload, or cross-cloud service are handled here. The skill separates authentication from authorization, prefers ADC, attached identities, impersonation, and short-lived credentials, and avoids defaulting to service-account keys."
 resource: "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-recipe-auth/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-09-21T00:00:00Z
+timestamp: 2026-10-09T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
@@ -31,7 +31,7 @@ Apache-2.0
 
 # Trust notes
 
-Instruction-only with no credential reader. Its documented `gcloud auth` and ADC flows affect sensitive local or cloud credentials when a user deliberately runs them.
+Instruction-only with no credential reader. Its documented `gcloud auth` and ADC flows affect sensitive local or cloud credentials when a user deliberately runs them. 2026-10-09 (`4b940dd`): Google Cloud product naming standardized; the description now names Identity and Access Management (IAM) explicitly. No change to guidance.
 
 # Install / update
 
