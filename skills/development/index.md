@@ -51,7 +51,7 @@
 * [google-cloud-recipe-auth](./google-cloud-recipe-auth.md) - Google Cloud identity choices for a developer, local script, workload, or cross-cloud service are handled here. The skill separates authentication from authoriz
 * [cloud-logging-query-generation](./cloud-logging-query-generation.md) - Turn to this skill when a debugging question needs a Google Cloud Logging Query Language expression. It checks service-specific monitored resource types, uses s
 * [google-cloud-waf-security](./google-cloud-waf-security.md) - Security-pillar reviews of Google Cloud workloads are its job. The skill turns workload details into requirements and recommendations for identity, network boun
-* [google-cloud-waf-operational-excellence](./google-cloud-waf-operational-excellence.md) - Operational reviews of a Google Cloud workload belong here. The skill covers readiness criteria, release practice, monitoring, incident handling, and continuous
+* [google-cloud-waf-operational-excellence](./google-cloud-waf-operational-excellence.md) - Operational reviews of a Google Cloud workload belong here: CI/CD pipelines, observability, capacity, change, incident and configuration management, IaC deploym
 * [google-cloud-solution-architecture](./google-cloud-solution-architecture.md) - Complex Google Cloud workloads that span products need this broader architecture process for requirement discovery, design choices, validation, and a packaged r
 
 # Documents

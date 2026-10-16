@@ -2,7 +2,7 @@
 
 # Installed Superpowers skills
 
-* [brainstorming](./brainstorming.md) - Creative implementation and behavior changes start with this design workflow. It explores the current project, asks one focused question at a time, compares app
+* [brainstorming](./brainstorming.md) - Creative implementation and behavior changes start with this workflow. It draws out what the user wants with open questions, plays each part back, sizes the wor
 * [dispatching-parallel-agents](./dispatching-parallel-agents.md) - Two or more tasks with separate state, separate causes, and no ordering dependency can be dispatched through this skill. It assigns one isolated agent per probl
 * [executing-plans](./executing-plans.md) - A reviewed implementation plan can be run in a separate session with this workflow when subagent-driven work is unavailable. It checks the plan for blockers, ex
 * [finishing-a-development-branch](./finishing-a-development-branch.md) - Branch integration is the final step after implementation and tests are complete. This skill freshly verifies tests, detects whether the workspace is a normal c

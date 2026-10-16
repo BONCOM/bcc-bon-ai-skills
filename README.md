@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-10-13T12:00:00-06:00
+timestamp: 2026-10-15T21:45:00-06:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-10-13T12:00:00-06:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-10-08 12:15:00 MDT`
+`Last updated: 2026-10-15 21:45:00 MDT`
 
 </div>
 
@@ -59,11 +59,11 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | Repository | Skills | Last skill update | Repo activity |
 |---|---:|---|---|
 | [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-10-04 | 2026-10-04 |
-| [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-09-19 | 2026-09-25 |
-| [`google/skills`](https://github.com/google/skills) | 10 | 2026-10-12 | 2026-10-13 |
+| [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-10-10 | 2026-10-10 |
+| [`google/skills`](https://github.com/google/skills) | 10 | 2026-10-14 | 2026-10-15 |
 | [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-10-09 | 2026-10-09 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-09-01 | 2026-09-01 |
-| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-10-03 | 2026-10-10 |
+| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-10-11 | 2026-10-13 |
 | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) | 3 | 2026-04-14 | 2026-08-28 |
 | [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official) | 2 | 2026-04-23 | 2026-09-21 |
 | [`hookdeck/webhook-skills`](https://github.com/hookdeck/webhook-skills) | 2 | 2026-09-30 | 2026-09-30 |
@@ -71,9 +71,9 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-09-16 | 2026-09-28 |
 | [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-09-28 | 2026-09-30 |
 | [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-09-28 | 2026-09-28 |
-| [`BONCOM/bcc-bon-solutions-skills`](https://github.com/BONCOM/bcc-bon-solutions-skills) | 1 | 2026-10-09 | 2026-10-09 |
+| [`BONCOM/bcc-bon-solutions-skills`](https://github.com/BONCOM/bcc-bon-solutions-skills) | 1 | 2026-10-15 | 2026-10-15 |
 | [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-07-21 | 2026-07-21 |
-| [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-10-08 | 2026-10-08 |
+| [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-10-15 | 2026-10-15 |
 | [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-10-08 | 2026-10-08 |
 | [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-10-06 | 2026-10-08 |
 | [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-10-06 | 2026-10-08 |
@@ -98,7 +98,7 @@ Claude SEO suite for audits, content, technical SEO, local/maps, schema, sitemap
 </details>
 
 <details>
-<summary><a href="https://github.com/obra/superpowers"><strong>obra/superpowers</strong></a> · <strong>14</strong> skills · skills updated <code>2026-09-19</code> · repo <code>2026-09-25</code></summary>
+<summary><a href="https://github.com/obra/superpowers"><strong>obra/superpowers</strong></a> · <strong>14</strong> skills · skills updated <code>2026-10-10</code> · repo <code>2026-10-10</code></summary>
 
 End-to-end agentic engineering process: design → plan → TDD → implement → review → verify → finish the branch.
 
@@ -106,12 +106,12 @@ End-to-end agentic engineering process: design → plan → TDD → implement �
 
 **Installed:** `brainstorming`, `dispatching-parallel-agents`, `executing-plans`, `finishing-a-development-branch`, `receiving-code-review`, `requesting-code-review`, `subagent-driven-development`, `systematic-debugging`, `test-driven-development`, `using-git-worktrees`, `using-superpowers`, `verification-before-completion`, `writing-plans`, `writing-skills`
 
-**Flagged (not catalogued):** the v6.4.1 plugin update also brings a new bundled `diagnosing-superpowers` skill; it ships with the plugin but has no concept file yet.
+**Flagged (not catalogued):** since v6.4.1 the plugin also brings a new bundled `diagnosing-superpowers` skill; it ships with the plugin but has no concept file yet.
 
 </details>
 
 <details>
-<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-10-12</code> · repo <code>2026-10-13</code></summary>
+<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-10-14</code> · repo <code>2026-10-15</code></summary>
 
 Google Cloud product skills for common Boncom cloud work.
 
@@ -144,7 +144,7 @@ Better Auth setup, scaffolding, and hardening.
 </details>
 
 <details>
-<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-10-03</code> · repo <code>2026-10-10</code></summary>
+<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-10-11</code> · repo <code>2026-10-13</code></summary>
 
 Production quality skills for delivery and runtime health.
 
@@ -232,9 +232,9 @@ Rewrite AI-sounding prose so it reads naturally.
 </details>
 
 <details>
-<summary><a href="https://github.com/BONCOM/bcc-bon-solutions-skills"><strong>BONCOM/bcc-bon-solutions-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-09</code> · repo <code>2026-10-09</code></summary>
+<summary><a href="https://github.com/BONCOM/bcc-bon-solutions-skills"><strong>BONCOM/bcc-bon-solutions-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-15</code> · repo <code>2026-10-15</code></summary>
 
-Solutions R2-D2, the Boncom Solutions team's own toolkit (internal repo, v2.2.1). Installed by symlink from a local clone, not through `skills@…`; since 2.2.1 it updates itself on first use (or `git pull` by hand).
+Solutions R2-D2, the Boncom Solutions team's own toolkit (internal repo, v2.3.1). Installed by symlink from a local clone, not through `skills@…`; since 2.2.1 it updates itself on first use (or `git pull` by hand). Since 2.3.0 the same skill also works in Codex and Synaptic Code.
 
 **Covers:** new Suite apps (or only the pieces wanted, e.g. a Boncom-styled local app without sign-in), Boncom design system build/check and entry pages, central auth, per-role practice accounts, Cloud Run deploy and ship, doctor health check, security scan, `bcc-bon-` repo naming
 
@@ -254,7 +254,7 @@ Deep Playwright test design and maintenance.
 </details>
 
 <details>
-<summary><a href="https://github.com/fastapi/fastapi"><strong>fastapi/fastapi</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-08</code> · repo <code>2026-10-08</code></summary>
+<summary><a href="https://github.com/fastapi/fastapi"><strong>fastapi/fastapi</strong></a> · <strong>1</strong> skill · skills updated <code>2026-10-15</code> · repo <code>2026-10-15</code></summary>
 
 Current FastAPI conventions for APIs and review.
 
