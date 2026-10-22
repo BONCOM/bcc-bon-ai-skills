@@ -4,7 +4,7 @@ title: seo-content-brief
 description: "Writers can use this output as an evidence-based brief for a new page or as a targeted improvement plan for an existing one. It compares current results, scores content gaps, allocates section lengths, sets keyword placement guidance, and chooses a page-type template."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-content-brief/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-10-04T00:00:00Z
+timestamp: 2026-10-22T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code
@@ -30,7 +30,7 @@ MIT
 
 # Trust notes
 
-Fetches an existing page and competitor or SERP context, then writes a brief. Live result data and suggested keyword densities are planning inputs, not guarantees of ranking.
+Fetches an existing page and competitor or SERP context, then writes a brief. Live result data and suggested keyword densities are planning inputs, not guarantees of ranking. v2.5.0 drops density targets in favour of keyword placement and no longer treats image alt text as a keyword slot.
 
 # Install / update
 

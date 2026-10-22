@@ -4,7 +4,7 @@ title: google-cloud-waf-operational-excellence
 description: "Operational reviews of a Google Cloud workload belong here: CI/CD pipelines, observability, capacity, change, incident and configuration management, IaC deployment automation, and operational health checks, using the Operational Excellence pillar rather than product-specific setup instructions."
 resource: "https://github.com/google/skills/blob/main/skills/cloud/google-cloud-waf-operational-excellence/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-10-14T00:00:00Z
+timestamp: 2026-10-21T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
@@ -31,7 +31,7 @@ Apache-2.0
 
 # Trust notes
 
-Advisory instruction content with official documentation URLs; no bundled scripts, cloud commands, authentication, or automatic fetches. v1.1.0 (`b85f257`, 2026-10-14) adds operational-readiness guidance for instance flexibility, automated spillover across machine generations (Flexible MIGs, GKE Custom Compute Classes) and resource modernization, plus SLI/error-budget, IaC (Terraform), Cloud Build/Cloud Deploy and autoscaling checklist items.
+Advisory instruction content with official documentation URLs; no bundled scripts, cloud commands, authentication, or automatic fetches. v1.1.0 (`b85f257`, 2026-10-14) adds operational-readiness guidance for instance flexibility, automated spillover across machine generations (Flexible MIGs, GKE Custom Compute Classes) and resource modernization, plus SLI/error-budget, IaC (Terraform), Cloud Build/Cloud Deploy and autoscaling checklist items. 2026-10-21 (`b571dd9`, v1.1.1) adds a usage-attribution block and `references/attribution.md`: agent-run `gcloud` commands get an inline `CLOUDSDK_METRICS_REQUEST_ATTRIBUTION` prefix and direct HTTP/MCP calls a `User-Agent` suffix naming only the skill and version (no user data, never in generated code, dropped if the user opts out).
 
 # Install / update
 

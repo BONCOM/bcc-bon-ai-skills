@@ -4,7 +4,7 @@ title: cloud-run-basics
 description: "Cloud Run services, finite jobs, and always-on worker pools each have a different lifecycle, which this skill makes explicit. It explains which resource type fits the workload and provides `gcloud` flows for image and source deployments rather than treating every container as an HTTP service."
 resource: "https://github.com/google/skills/blob/main/skills/cloud/cloud-run-basics/SKILL.md"
 tags: [development, installed, google-cloud]
-timestamp: 2026-09-21T00:00:00Z
+timestamp: 2026-10-19T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
@@ -32,7 +32,7 @@ Apache-2.0
 
 # Trust notes
 
-Instruction-only; commands use authenticated `gcloud`, enable APIs, build images, and create or update Cloud Run resources. Confirm project, region, billing, and resource name before execution.
+Instruction-only; commands use authenticated `gcloud`, enable APIs, build images, and create or update Cloud Run resources. Confirm project, region, billing, and resource name before execution. 2026-10-19 (`a342dc5`, v1.0.1) adds a usage-attribution block and `references/attribution.md`: agent-run `gcloud` commands get an inline `CLOUDSDK_METRICS_REQUEST_ATTRIBUTION` prefix and direct HTTP/MCP calls a `User-Agent` suffix naming only the skill and version (no user data, never in generated code, dropped if the user opts out).
 
 # Install / update
 

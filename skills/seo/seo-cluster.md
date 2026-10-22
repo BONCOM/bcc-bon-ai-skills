@@ -4,7 +4,7 @@ title: seo-cluster
 description: "Keyword groups based on overlapping Google top-ten results are the input to this skill's hub-and-spoke planning. It produces cluster plans, internal-link matrices, and interactive maps; content creation is optional and separate."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-cluster/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-10-04T00:00:00Z
+timestamp: 2026-10-22T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code
@@ -30,7 +30,7 @@ MIT
 
 # Trust notes
 
-Uses shared scripts and live SERP data to compare result overlap, then writes planning and visualization artifacts. Optional execution delegates to `claude-blog` only if that separate tool is installed.
+Uses shared scripts and live SERP data to compare result overlap, then writes planning and visualization artifacts. Optional execution delegates to `claude-blog` only if that separate tool is installed (v2.5.0 also detects it as a `blog-write` plugin skill) and otherwise writes content briefs. v2.5.0 escapes SERP data before embedding it in `cluster-map.html`, so a fetched title cannot break out of the script block.
 
 # Install / update
 
