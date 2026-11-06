@@ -4,7 +4,7 @@ title: mcp-builder
 description: "Building or redesigning MCP servers (Python FastMCP or Node/TypeScript SDK) belongs here: research → tool design → implementation → evaluation. It is the MCP counterpart to `skill-creator` and is installed as a normal skill so Cursor and Claude Code both see it."
 resource: "https://github.com/anthropics/skills/blob/main/skills/mcp-builder/SKILL.md"
 tags: [development, installed, skill-development]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-10-28T00:00:00Z
 category: development
 group: Skill development
 license: Apache-2.0
@@ -32,7 +32,7 @@ Apache-2.0
 
 # Trust notes
 
-Instruction plus `reference/` guides and `scripts/` (`evaluation.py`, `connections.py`) that can call the Anthropic API and connect to a candidate MCP server when deliberately run. Fetches live MCP protocol and SDK docs during use. Not the Claude Code-only `mcp-server-dev` plugin (deferred; different packaging).
+Instruction plus `reference/` guides and `scripts/` (`evaluation.py`, `connections.py`) that can call the Anthropic API and connect to a candidate MCP server when deliberately run. Fetches live MCP protocol and SDK docs during use. Not the Claude Code-only `mcp-server-dev` plugin (deferred; different packaging). 2026-10-28 (`ca45fc4`): teaches v2 of the MCP TypeScript SDK; adds `reference/node_mcp_server_v2.md` and updates `reference/node_mcp_server.md` and `SKILL.md`. Still instruction plus the same helper scripts.
 
 # Install / update
 

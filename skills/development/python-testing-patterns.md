@@ -4,7 +4,7 @@ title: python-testing-patterns
 description: "Python test work with pytest is the focus here, including fixtures, parametrization, mocks, async code, database tests, and integration coverage. The skill helps select the right test boundary and leaves runnable examples instead of broad testing advice."
 resource: "https://github.com/wshobson/agents/blob/main/plugins/python-development/skills/python-testing-patterns/SKILL.md"
 tags: [development, installed, development-quality]
-timestamp: 2026-09-28T00:00:00Z
+timestamp: 2026-10-30T00:00:00Z
 category: development
 group: Development quality
 license: MIT
@@ -31,7 +31,7 @@ MIT
 
 # Trust notes
 
-Instruction-only with Markdown references; no bundled executable scripts. Examples may ask to install pytest plugins or project test dependencies.
+Instruction-only with Markdown references; no bundled executable scripts. Examples may ask to install pytest plugins or project test dependencies. 2026-10-30 (`0f73766`): corrects broken code examples in `references/details.md` (for example the email validator now uses `partition`). Documentation only.
 
 # Install / update
 
