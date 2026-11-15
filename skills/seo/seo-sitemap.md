@@ -4,7 +4,7 @@ title: seo-sitemap
 description: "XML sitemap validation and generation share this workflow. It checks protocol limits, status codes, canonical and noindex conflicts, `lastmod`, robots references, redirects, and missing crawled pages, and can generate a split sitemap plan."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-sitemap/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-10-22T00:00:00Z
+timestamp: 2026-11-14T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code
@@ -30,7 +30,7 @@ MIT
 
 # Trust notes
 
-Fetches sitemap files and sampled URLs and may crawl the site for comparison. Generated XML is local output; the skill does not upload or submit it to search engines.
+Fetches sitemap files and sampled URLs and may crawl the site for comparison. Generated XML is local output; the skill does not upload or submit it to search engines. v2.6.0 (2026-11-10): `sitemap_discovery.py --expand` follows a sitemap index one level down and reports per-file limits, `<lastmod>` validity and uniformity, cross-host and duplicate URLs, and gzip sitemaps; token or session IDs in listed URLs are redacted in its output.
 
 # Install / update
 

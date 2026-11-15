@@ -4,7 +4,7 @@ title: seo-audit
 description: "A full-site health check belongs here rather than in the single-page skill. The audit crawls up to 500 pages, detects the business type, selects always-on and conditional specialists, calculates a health score, and returns a prioritized action plan."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-audit/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-10-22T00:00:00Z
+timestamp: 2026-11-14T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code
@@ -30,7 +30,7 @@ MIT
 
 # Trust notes
 
-Fetches and crawls the target site with shared Python scripts and may dispatch up to 15 specialists. Conditional checks can use Google, Moz, Bing, DataForSEO, Common Crawl, stored drift baselines, and local report files when configured.
+Fetches and crawls the target site with shared Python scripts and may dispatch up to 15 specialists. Conditional checks can use Google, Moz, Bing, DataForSEO, Common Crawl, stored drift baselines, and local report files when configured. v2.6.1 (2026-11-14): headless Chromium runs sandboxed wherever the host allows it; when it cannot, the report says once that the page was rendered without the sandbox, and the agent never sets the sandbox override variables itself.
 
 # Install / update
 

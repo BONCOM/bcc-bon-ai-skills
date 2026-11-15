@@ -19,7 +19,7 @@ An approved design or multi-step requirement becomes an implementation handoff t
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/writing-plans/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/7.0.0/skills/writing-plans/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/7.0.2/skills/writing-plans/SKILL.md`
 
 # Availability
 

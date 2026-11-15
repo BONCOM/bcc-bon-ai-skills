@@ -4,7 +4,7 @@ title: brainstorming
 description: "Creative implementation and behavior changes start with this workflow. It draws out what the user wants with open questions, plays each part back, sizes the work (just do it, agree in chat, or write a design document), and gets approval before handing off to planning."
 resource: "https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md"
 tags: [superpowers, installed, plugin]
-timestamp: 2026-10-10T00:00:00Z
+timestamp: 2026-11-03T00:00:00Z
 category: superpowers
 license: MIT
 available_in: Cursor and Claude Code
@@ -19,7 +19,7 @@ Creative implementation and behavior changes start with this workflow. It draws 
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/brainstorming/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/7.0.0/skills/brainstorming/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/7.0.2/skills/brainstorming/SKILL.md`
 
 # Availability
 
@@ -31,7 +31,7 @@ MIT
 
 # Trust notes
 
-Bundles shell and Node scripts for an optional local visual-companion server, WebSocket helper, browser launcher, and HTML frame. It also writes design documents and dispatches a builder-check subagent (`builder-check-prompt.md`, replacing the old spec-document reviewer) that reads the design as its builder and lists open questions. v7.0.0 rebuilds the skill: it asks before proposing, sizes the work only once it understands it, asks which build choices (platform, language, libraries) the user wants to own, and offers the visual companion whenever seeing beats reading. The companion server now inserts content literally (`$'`/`$&` no longer mangled). The hard approval gate before implementation stays.
+Bundles shell and Node scripts for an optional local visual-companion server, WebSocket helper, browser launcher, and HTML frame. It also writes design documents and dispatches a builder-check subagent (`builder-check-prompt.md`, replacing the old spec-document reviewer) that reads the design as its builder and lists open questions. v7.0.0 rebuilds the skill: it asks before proposing, sizes the work only once it understands it, asks which build choices (platform, language, libraries) the user wants to own, and offers the visual companion whenever seeing beats reading. The companion server now inserts content literally (`$'`/`$&` no longer mangled). The hard approval gate before implementation stays. v7.0.1-7.0.2 (2026-10-21, 2026-11-03) retune it again: a numbered must-do list before implementing (approaches in their own message, design doc, approval, then writing-plans), a Look Before You Ask step that reads the project and given context before the first question, and fixes to the visual-companion `start-server.sh`.
 
 # Install / update
 

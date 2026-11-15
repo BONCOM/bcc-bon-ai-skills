@@ -4,7 +4,7 @@ title: seo-google
 description: "Search Console, PageSpeed Insights, CrUX history, sitemap status, GA4 organic traffic, and the Indexing API are routed through this skill. It adds Google's own measurements and index state to crawler-based observations."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-google/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-10-22T00:00:00Z
+timestamp: 2026-11-14T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code
@@ -30,7 +30,7 @@ MIT
 
 # Trust notes
 
-Shared scripts read configuration from `~/.config/claude-seo/google-api.json` and call Google APIs with API keys, OAuth, or service-account credentials. URL inspection and Indexing API operations have quotas; submission is a mutable external action.
+Shared scripts read configuration from `~/.config/claude-seo/google-api.json` and call Google APIs with API keys, OAuth, or service-account credentials. URL inspection and Indexing API operations have quotas; submission is a mutable external action. v2.6.1 (2026-11-14): OAuth sign-in is read-only by default, with the Indexing scope only on request (`google_auth.py --auth --indexing`). GSC and GA4 scripts take `--domain <audited-domain>`, look up that site's property from a per-site `sites` map, and refuse another site's property.
 
 # Install / update
 

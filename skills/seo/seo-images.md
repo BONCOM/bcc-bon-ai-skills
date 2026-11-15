@@ -4,7 +4,7 @@ title: seo-images
 description: "Existing image assets can be checked for alt text, dimensions, formats, responsive sources, lazy loading, CLS risk, file size, metadata, and search visibility. The same skill can plan or run WebP/AVIF conversion and IPTC/XMP updates when local files are supplied."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo-images/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-10-22T00:00:00Z
+timestamp: 2026-11-14T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code
@@ -30,7 +30,7 @@ MIT
 
 # Trust notes
 
-Fetches pages and image URLs; file-optimization scripts can rewrite local image files and metadata, so preserve originals. Image SERP ranking checks use DataForSEO only when that paid extension is connected.
+Fetches pages and image URLs; file-optimization scripts can rewrite local image files and metadata, so preserve originals. Image SERP ranking checks use DataForSEO only when that paid extension is connected. v2.6.0: `parse_html.py --probe-images` fetches each image with a browser `Accept` header and reports the format actually served, so WebP/AVIF served from a `.jpg` URL is no longer flagged for conversion.
 
 # Install / update
 

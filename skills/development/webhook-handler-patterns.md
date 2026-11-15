@@ -4,7 +4,7 @@ title: webhook-handler-patterns
 description: "Webhook receivers that need the verify → parse → handle-idempotently sequence, framework-specific raw-body handling, retries, or error-code conventions belong here. Use it with Next.js, Express, or FastAPI handlers before adding provider-specific skills."
 resource: "https://github.com/hookdeck/webhook-skills/blob/main/skills/webhook-handler-patterns/SKILL.md"
 tags: [development, installed, development-quality]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-11-13T00:00:00Z
 category: development
 group: Development quality
 license: MIT
@@ -32,7 +32,7 @@ MIT
 
 # Trust notes
 
-Instruction and Markdown references; no bundled executable installer. Examples may suggest local tunnels such as Hookdeck CLI; those are deliberate network tools when run. Complements `security-and-hardening` rather than replacing it.
+Instruction and Markdown references; no bundled executable installer. Examples may suggest local tunnels such as Hookdeck CLI; those are deliberate network tools when run. Complements `security-and-hardening` rather than replacing it. 2026-11-13 (`27368fa`): new `references/ordering.md` on out-of-order and replayed events (fetch current state, compare versions, backlog recovery), with the description and retry guidance pointing to it. The same upstream commit added a `bfcm-webhook-playbook` skill, which is not catalogued and was not installed.
 
 # Install / update
 

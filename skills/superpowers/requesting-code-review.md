@@ -19,7 +19,7 @@ A completed plan task, major feature, or pending merge is the point to request t
 # Installed at
 
 - `/Users/rramesh/.cursor/plugins/cache/cursor-public/superpowers/d884ae04edebef577e82ff7c4e143debd0bbec99/skills/requesting-code-review/SKILL.md`
-- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/7.0.0/skills/requesting-code-review/SKILL.md`
+- `/Users/rramesh/.claude/plugins/cache/claude-plugins-official/superpowers/7.0.2/skills/requesting-code-review/SKILL.md`
 
 # Availability
 

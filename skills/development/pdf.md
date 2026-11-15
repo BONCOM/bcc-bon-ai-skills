@@ -4,10 +4,10 @@ title: pdf
 description: "Create, read, merge, split, rotate, watermark, encrypt, form-fill, OCR, or otherwise manipulate PDF files. Trigger on any .pdf deliverable or PDF-processing request."
 resource: "https://github.com/anthropics/skills/blob/main/skills/pdf/SKILL.md"
 tags: [development, installed, documents]
-timestamp: 2026-07-16T00:00:00Z
+timestamp: 2026-11-14T00:00:00Z
 category: development
 group: Documents
-license: Proprietary
+license: Apache-2.0
 available_in: Cursor and Claude Code
 ---
 
@@ -27,11 +27,11 @@ Cursor and Claude Code
 
 # License
 
-Proprietary (Anthropic document skill terms in `LICENSE.txt`). Use governed by your Anthropic agreement; do not redistribute the skill materials outside authorized use.
+Apache-2.0 (since `2c5958e`, 2026-11-06; previously proprietary)
 
 # Trust notes
 
-Official Anthropic document skill. Bundles local Python scripts under `scripts/` for forms, validation images, and PDF transforms — they process user-supplied files on the local machine and may pull in Python PDF/image dependencies when run. Skills.sh: Gen Safe, Socket 0 alerts, Snyk High Risk (script surface). Prefer reading `forms.md` / `reference.md` on demand rather than loading everything upfront.
+Official Anthropic document skill. Bundles local Python scripts under `scripts/` for forms, validation images, and PDF transforms — they process user-supplied files on the local machine and may pull in Python PDF/image dependencies when run. Skills.sh: Gen Safe, Socket 0 alerts, Snyk High Risk (script surface). Prefer reading `FORMS.md` / `REFERENCE.md` on demand rather than loading everything upfront. 2026-11-14 (`1780c5e`): moved to the Apache 2.0 license (`2c5958e`, 2026-11-06) and `forms.md`/`reference.md` renamed `FORMS.md`/`REFERENCE.md`; instructions otherwise unchanged. This was the first real upstream change since install (earlier hash differences were false positives).
 
 # Install / update
 
