@@ -8,7 +8,7 @@ timestamp: 2026-11-12T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Complex, multi-product Google Cloud workloads need this interactive requirement-discovery and architecture process to reach a packaged design recommendation. Route single-service or narrowly-scoped requests to a product-specific or google-cloud-recipe-* skill instead.
@@ -20,10 +20,12 @@ Complex, multi-product Google Cloud workloads need this interactive requirement-
 # Installed at
 
 - `~/.claude/skills/google-cloud-solution-architecture/SKILL.md`
+- `~/.agents/skills/google-cloud-solution-architecture/SKILL.md`
+- `~/.gemini/config/skills/google-cloud-solution-architecture` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

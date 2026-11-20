@@ -8,7 +8,7 @@ timestamp: 2026-07-16T00:00:00Z
 category: development
 group: Node.js
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Node.js backend work gets targeted guidance here, especially for Node 22 native TypeScript type stripping, module resolution, async control flow, streams, shutdown, logging, profiling, caching, and flaky tests. It supplies a compatible `tsconfig` direction and avoids syntax that Node's runtime cannot strip.
@@ -20,10 +20,12 @@ Node.js backend work gets targeted guidance here, especially for Node 22 native 
 # Installed at
 
 - `~/.claude/skills/node/SKILL.md`
+- `~/.agents/skills/node/SKILL.md`
+- `~/.gemini/config/skills/node` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

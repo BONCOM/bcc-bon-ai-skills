@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 XML sitemap validation and generation share this workflow. It checks protocol limits, status codes, canonical and noindex conflicts, `lastmod`, robots references, redirects, and missing crawled pages, and can generate a split sitemap plan.
@@ -19,10 +19,12 @@ XML sitemap validation and generation share this workflow. It checks protocol li
 # Installed at
 
 - `~/.claude/skills/seo-sitemap/SKILL.md`
+- `~/.agents/skills/seo-sitemap/SKILL.md`
+- `~/.gemini/config/skills/seo-sitemap` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

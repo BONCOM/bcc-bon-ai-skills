@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Pages generated at scale from CSV, JSON, an API, or a database need this planning and audit process. It evaluates record uniqueness and freshness, designs URL and template rules, automates internal-link planning, and sets thin-content and index-bloat gates before rollout.
@@ -19,10 +19,12 @@ Pages generated at scale from CSV, JSON, an API, or a database need this plannin
 # Installed at
 
 - `~/.claude/skills/seo-programmatic/SKILL.md`
+- `~/.agents/skills/seo-programmatic/SKILL.md`
+- `~/.gemini/config/skills/seo-programmatic` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

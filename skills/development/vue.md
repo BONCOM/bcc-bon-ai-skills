@@ -8,7 +8,7 @@ timestamp: 2026-09-28T00:00:00Z
 category: development
 group: Frontend and UI
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Vue 3.5 single-file components, Composition API code, `<script setup>` macros, reactivity, watchers, composables, and built-in components such as Teleport or Suspense are covered here. The installed guidance prefers TypeScript, `<script setup lang="ts">`, and shallow reactivity when deep tracking is unnecessary.
@@ -20,10 +20,12 @@ Vue 3.5 single-file components, Composition API code, `<script setup>` macros, r
 # Installed at
 
 - `~/.claude/skills/vue/SKILL.md`
+- `~/.agents/skills/vue/SKILL.md`
+- `~/.gemini/config/skills/vue` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

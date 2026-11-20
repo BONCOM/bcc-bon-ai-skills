@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 One URL is the unit of work for this analysis. It checks title and heading structure, content depth, canonicals and robots directives, social metadata, schema, images, internal links, and page-level performance without turning the request into a site crawl.
@@ -19,10 +19,12 @@ One URL is the unit of work for this analysis. It checks title and heading struc
 # Installed at
 
 - `~/.claude/skills/seo-page/SKILL.md`
+- `~/.agents/skills/seo-page/SKILL.md`
+- `~/.gemini/config/skills/seo-page` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

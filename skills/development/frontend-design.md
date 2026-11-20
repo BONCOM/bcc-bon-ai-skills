@@ -8,7 +8,7 @@ timestamp: 2026-09-03T00:00:00Z
 category: development
 group: Frontend and UI
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 New interfaces that need a visual direction, and existing ones that feel generic, are the target. The skill grounds typography, palette, layout, motion, and copy in the product subject, requires a design pass before code, and includes responsive, focus, and reduced-motion checks.
@@ -21,10 +21,11 @@ New interfaces that need a visual direction, and existing ones that feel generic
 
 - `~/.claude/skills/frontend-design/SKILL.md`
 - `~/.agents/skills/frontend-design/SKILL.md`
+- `~/.gemini/config/skills/frontend-design` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

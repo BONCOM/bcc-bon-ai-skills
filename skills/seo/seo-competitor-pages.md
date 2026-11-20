@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Comparison, alternatives, and category-roundup pages get a dedicated workflow here. It structures feature comparisons, verdict criteria, conversion paths, and supporting schema while requiring claims to be grounded in current competitor evidence.
@@ -19,10 +19,12 @@ Comparison, alternatives, and category-roundup pages get a dedicated workflow he
 # Installed at
 
 - `~/.claude/skills/seo-competitor-pages/SKILL.md`
+- `~/.agents/skills/seo-competitor-pages/SKILL.md`
+- `~/.gemini/config/skills/seo-competitor-pages` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

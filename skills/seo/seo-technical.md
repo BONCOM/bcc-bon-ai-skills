@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Crawlability, indexability, URL structure, mobile behavior, security headers, JavaScript rendering, structured data, Core Web Vitals, and IndexNow checks form this technical audit. The skill keeps those findings separate from content strategy and records which crawler or protocol each rule affects.
@@ -19,10 +19,12 @@ Crawlability, indexability, URL structure, mobile behavior, security headers, Ja
 # Installed at
 
 - `~/.claude/skills/seo-technical/SKILL.md`
+- `~/.agents/skills/seo-technical/SKILL.md`
+- `~/.gemini/config/skills/seo-technical` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

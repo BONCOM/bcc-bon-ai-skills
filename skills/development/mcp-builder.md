@@ -8,7 +8,7 @@ timestamp: 2026-10-28T00:00:00Z
 category: development
 group: Skill development
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Building or redesigning MCP servers (Python FastMCP or Node/TypeScript SDK) belongs here: research → tool design → implementation → evaluation. It is the MCP counterpart to `skill-creator` and is installed as a normal skill so Cursor and Claude Code both see it.
@@ -21,10 +21,11 @@ Building or redesigning MCP servers (Python FastMCP or Node/TypeScript SDK) belo
 
 - `~/.claude/skills/mcp-builder/SKILL.md`
 - `~/.agents/skills/mcp-builder/SKILL.md`
+- `~/.gemini/config/skills/mcp-builder` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

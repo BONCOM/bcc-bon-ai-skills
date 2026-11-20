@@ -8,7 +8,7 @@ timestamp: 2026-07-16T00:00:00Z
 category: development
 group: Frontend and UI
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Boolean-prop sprawl or an inflexible component API is the signal for this skill. It favors explicit variants, compound components, context interfaces, lifted state, and React 19 patterns that keep implementation details replaceable.
@@ -20,10 +20,12 @@ Boolean-prop sprawl or an inflexible component API is the signal for this skill.
 # Installed at
 
 - `~/.claude/skills/vercel-composition-patterns/SKILL.md`
+- `~/.agents/skills/vercel-composition-patterns/SKILL.md`
+- `~/.gemini/config/skills/vercel-composition-patterns` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

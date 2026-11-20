@@ -8,7 +8,7 @@ timestamp: 2026-11-13T00:00:00Z
 category: development
 group: Development quality
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Webhook receivers that need the verify → parse → handle-idempotently sequence, framework-specific raw-body handling, retries, or error-code conventions belong here. Use it with Next.js, Express, or FastAPI handlers before adding provider-specific skills.
@@ -21,10 +21,11 @@ Webhook receivers that need the verify → parse → handle-idempotently sequenc
 
 - `~/.claude/skills/webhook-handler-patterns/SKILL.md`
 - `~/.agents/skills/webhook-handler-patterns/SKILL.md`
+- `~/.gemini/config/skills/webhook-handler-patterns` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

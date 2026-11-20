@@ -8,7 +8,7 @@ timestamp: 2026-10-30T00:00:00Z
 category: development
 group: Development quality
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Python test work with pytest is the focus here, including fixtures, parametrization, mocks, async code, database tests, and integration coverage. The skill helps select the right test boundary and leaves runnable examples instead of broad testing advice.
@@ -20,10 +20,12 @@ Python test work with pytest is the focus here, including fixtures, parametrizat
 # Installed at
 
 - `~/.claude/skills/python-testing-patterns/SKILL.md`
+- `~/.agents/skills/python-testing-patterns/SKILL.md`
+- `~/.gemini/config/skills/python-testing-patterns` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

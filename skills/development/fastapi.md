@@ -8,7 +8,7 @@ timestamp: 2026-11-20T00:00:00Z
 category: development
 group: Development quality
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 FastAPI implementation and review work should consult this skill for routes, Pydantic models, dependencies, response models, SSE, byte streams, and bundled frontend delivery. It points to current framework conventions such as `Annotated` dependencies and return-type response schemas rather than older FastAPI idioms.
@@ -21,10 +21,11 @@ FastAPI implementation and review work should consult this skill for routes, Pyd
 
 - `~/.claude/skills/fastapi/SKILL.md`
 - `~/.agents/skills/fastapi/SKILL.md`
+- `~/.gemini/config/skills/fastapi` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

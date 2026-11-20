@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Choose Firecrawl when an audit needs JavaScript-rendered scraping, URL discovery, a site map, broken-link coverage, or a larger crawl than the base fetcher can provide. This extension exposes crawl, map, scrape, and in-site search operations.
@@ -19,10 +19,12 @@ Choose Firecrawl when an audit needs JavaScript-rendered scraping, URL discovery
 # Installed at
 
 - `~/.claude/skills/seo-firecrawl/SKILL.md`
+- `~/.agents/skills/seo-firecrawl/SKILL.md`
+- `~/.gemini/config/skills/seo-firecrawl` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

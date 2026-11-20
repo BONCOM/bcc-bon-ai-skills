@@ -8,7 +8,7 @@ timestamp: 2026-10-19T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Cloud Run services, finite jobs, and always-on worker pools each have a different lifecycle, which this skill makes explicit. It explains which resource type fits the workload and provides `gcloud` flows for image and source deployments rather than treating every container as an HTTP service.
@@ -21,10 +21,11 @@ Cloud Run services, finite jobs, and always-on worker pools each have a differen
 
 - `~/.claude/skills/cloud-run-basics/SKILL.md`
 - `~/.agents/skills/cloud-run-basics/SKILL.md`
+- `~/.gemini/config/skills/cloud-run-basics` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

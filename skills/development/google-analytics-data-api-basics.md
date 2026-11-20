@@ -8,7 +8,7 @@ timestamp: 2026-09-21T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 GA4 reporting through the Analytics Data API is the scope: API enablement, compatible dimensions and metrics, and v1beta report construction. The skill covers property-scoped reporting, metadata checks, pagination, date ranges, and client-library requests instead of relying on the Analytics UI. It does not cover Google Analytics Admin API operations (creating properties, managing users) or front-end tracking installation.
@@ -21,10 +21,11 @@ GA4 reporting through the Analytics Data API is the scope: API enablement, compa
 
 - `~/.claude/skills/google-analytics-data-api-basics/SKILL.md`
 - `~/.agents/skills/google-analytics-data-api-basics/SKILL.md`
+- `~/.gemini/config/skills/google-analytics-data-api-basics` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

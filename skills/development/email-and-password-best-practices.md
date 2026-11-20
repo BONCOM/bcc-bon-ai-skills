@@ -8,7 +8,7 @@ timestamp: 2026-09-01T00:00:00Z
 category: development
 group: Auth (Better Auth)
 license: Not declared on the repository (official Better Auth publisher)
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Email/password auth with Better Auth: verification, password reset, password policies, and hashing customization.
@@ -21,10 +21,11 @@ Email/password auth with Better Auth: verification, password reset, password pol
 
 - `~/.claude/skills/email-and-password-best-practices/SKILL.md`
 - `~/.agents/skills/email-and-password-best-practices/SKILL.md`
+- `~/.gemini/config/skills/email-and-password-best-practices` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

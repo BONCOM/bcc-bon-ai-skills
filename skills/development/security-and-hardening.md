@@ -8,7 +8,7 @@ timestamp: 2026-11-14T00:00:00Z
 category: development
 group: Development quality
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Security-sensitive code belongs under this skill when it accepts untrusted input, handles authentication or sessions, stores private data, or calls an external service. The workflow starts with trust boundaries and a short threat model, then applies concrete controls for validation, authorization, secrets, uploads, webhooks, and data handling.
@@ -20,10 +20,12 @@ Security-sensitive code belongs under this skill when it accepts untrusted input
 # Installed at
 
 - `~/.claude/skills/security-and-hardening/SKILL.md`
+- `~/.agents/skills/security-and-hardening/SKILL.md`
+- `~/.gemini/config/skills/security-and-hardening` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

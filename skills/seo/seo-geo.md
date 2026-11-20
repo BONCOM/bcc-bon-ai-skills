@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 AI Overviews, ChatGPT search, Perplexity, and similar answer surfaces are the focus of this visibility review. It checks crawler access, brand mentions, `llms.txt`, passage citability, and platform signals while treating Google's GEO guidance as ordinary SEO fundamentals where the primary source says so.
@@ -19,10 +19,12 @@ AI Overviews, ChatGPT search, Perplexity, and similar answer surfaces are the fo
 # Installed at
 
 - `~/.claude/skills/seo-geo/SKILL.md`
+- `~/.agents/skills/seo-geo/SKILL.md`
+- `~/.gemini/config/skills/seo-geo` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

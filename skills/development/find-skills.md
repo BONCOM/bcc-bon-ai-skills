@@ -8,7 +8,7 @@ timestamp: 2026-07-16T00:00:00Z
 category: development
 group: Workflow and discovery
 license: Unspecified
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Discover and install agent skills from the open skills ecosystem (skills.sh / `npx skills`) when the task might already exist as a packaged skill.
@@ -20,10 +20,12 @@ Use when the user asks "how do I do X", "find a skill for X", "is there a skill 
 # Installed at
 
 - `~/.claude/skills/find-skills/SKILL.md`
+- `~/.agents/skills/find-skills/SKILL.md`
+- `~/.gemini/config/skills/find-skills` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

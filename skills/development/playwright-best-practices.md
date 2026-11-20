@@ -8,7 +8,7 @@ timestamp: 2026-11-08T00:00:00Z
 category: development
 group: Development quality
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Playwright test design and maintenance are covered in depth: reliable locators, fixtures, page objects, authentication, API mocking, visual checks, CI, accessibility, security, performance, and hard-to-test browser behavior. Its reference set is broad enough to route a specific test problem without loading every topic.
@@ -20,10 +20,12 @@ Playwright test design and maintenance are covered in depth: reliable locators, 
 # Installed at
 
 - `~/.claude/skills/playwright-best-practices/SKILL.md`
+- `~/.agents/skills/playwright-best-practices/SKILL.md`
+- `~/.gemini/config/skills/playwright-best-practices` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

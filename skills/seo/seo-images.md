@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Existing image assets can be checked for alt text, dimensions, formats, responsive sources, lazy loading, CLS risk, file size, metadata, and search visibility. The same skill can plan or run WebP/AVIF conversion and IPTC/XMP updates when local files are supplied.
@@ -19,10 +19,12 @@ Existing image assets can be checked for alt text, dimensions, formats, responsi
 # Installed at
 
 - `~/.claude/skills/seo-images/SKILL.md`
+- `~/.agents/skills/seo-images/SKILL.md`
+- `~/.gemini/config/skills/seo-images` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

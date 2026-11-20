@@ -8,7 +8,7 @@ timestamp: 2026-11-20T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Gemini calls on Google Cloud Agent Platform (formerly Vertex AI) should start here: Gen AI SDK usage across languages, multimodal inputs, tools, structured output, embeddings, Live API, media generation, caching, and batch prediction. Prefer this over stale training data for model/SDK details.
@@ -21,10 +21,11 @@ Gemini calls on Google Cloud Agent Platform (formerly Vertex AI) should start he
 
 - `~/.claude/skills/gemini-api/SKILL.md`
 - `~/.agents/skills/gemini-api/SKILL.md`
+- `~/.gemini/config/skills/gemini-api` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

@@ -7,7 +7,7 @@ tags: [writing, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: writing
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 upstream_version: "4.0.0"
 ---
 
@@ -21,10 +21,11 @@ Use when editing or reviewing text that should read as human-written — docs, b
 
 - `~/.claude/skills/humanizer/SKILL.md`
 - `~/.agents/skills/humanizer/SKILL.md`
+- `~/.gemini/config/skills/humanizer` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

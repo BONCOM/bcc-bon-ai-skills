@@ -8,7 +8,7 @@ timestamp: 2026-10-23T00:00:00Z
 category: development
 group: Development quality
 license: CC-BY-SA-4.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 An explicit CodeQL request is required before using this skill, whether the task is building a database, running a suite, adding data-extension models, or processing SARIF. It checks database extraction quality before treating a scan as valid and treats zero findings as a result that still needs validation.
@@ -20,10 +20,12 @@ An explicit CodeQL request is required before using this skill, whether the task
 # Installed at
 
 - `~/.claude/skills/codeql/SKILL.md`
+- `~/.agents/skills/codeql/SKILL.md`
+- `~/.gemini/config/skills/codeql` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

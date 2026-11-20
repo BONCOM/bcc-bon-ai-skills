@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Product-page SEO, Product schema, marketplace visibility, pricing comparisons, and Shopping or Amazon keyword gaps are handled here. The base mode audits the page directly; richer market analysis is added only when the DataForSEO Merchant API is available.
@@ -19,10 +19,12 @@ Product-page SEO, Product schema, marketplace visibility, pricing comparisons, a
 # Installed at
 
 - `~/.claude/skills/seo-ecommerce/SKILL.md`
+- `~/.agents/skills/seo-ecommerce/SKILL.md`
+- `~/.gemini/config/skills/seo-ecommerce` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

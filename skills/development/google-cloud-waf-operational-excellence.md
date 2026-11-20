@@ -8,7 +8,7 @@ timestamp: 2026-10-21T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Operational reviews of a Google Cloud workload belong here: CI/CD pipelines, observability, capacity, change, incident and configuration management, IaC deployment automation, and operational health checks, using the Operational Excellence pillar rather than product-specific setup instructions.
@@ -20,10 +20,12 @@ Operational reviews of a Google Cloud workload belong here: CI/CD pipelines, obs
 # Installed at
 
 - `~/.claude/skills/google-cloud-waf-operational-excellence/SKILL.md`
+- `~/.agents/skills/google-cloud-waf-operational-excellence/SKILL.md`
+- `~/.gemini/config/skills/google-cloud-waf-operational-excellence` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

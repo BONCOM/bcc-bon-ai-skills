@@ -8,7 +8,7 @@ timestamp: 2026-11-20T00:00:00Z
 category: development
 group: Frontend and UI
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Browser navigation, form interaction, screenshots, page snapshots, and test generation are exposed through the Playwright CLI. Compact snapshot references and persistent browser sessions make it a good fit when shell-based browser control is preferable to an MCP workflow.
@@ -21,10 +21,11 @@ Browser navigation, form interaction, screenshots, page snapshots, and test gene
 
 - `~/.claude/skills/playwright-cli/SKILL.md`
 - `~/.agents/skills/playwright-cli/SKILL.md`
+- `~/.gemini/config/skills/playwright-cli` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

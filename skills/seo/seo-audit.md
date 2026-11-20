@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 A full-site health check belongs here rather than in the single-page skill. The audit crawls up to 500 pages, detects the business type, selects always-on and conditional specialists, calculates a health score, and returns a prioritized action plan.
@@ -19,10 +19,12 @@ A full-site health check belongs here rather than in the single-page skill. The 
 # Installed at
 
 - `~/.claude/skills/seo-audit/SKILL.md`
+- `~/.agents/skills/seo-audit/SKILL.md`
+- `~/.gemini/config/skills/seo-audit` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

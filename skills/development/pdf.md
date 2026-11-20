@@ -8,7 +8,7 @@ timestamp: 2026-11-14T00:00:00Z
 category: development
 group: Documents
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 PDF create/edit/extract workflow from Anthropic's document skills pack (pypdf and bundled helper scripts).
@@ -20,10 +20,12 @@ Any task involving `.pdf` files: extract text/tables, merge/split, rotate, water
 # Installed at
 
 - `~/.claude/skills/pdf/SKILL.md`
+- `~/.agents/skills/pdf/SKILL.md`
+- `~/.gemini/config/skills/pdf` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

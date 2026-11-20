@@ -8,7 +8,7 @@ timestamp: 2026-09-01T00:00:00Z
 category: development
 group: Auth (Better Auth)
 license: Not declared on the repository (official Better Auth publisher)
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Better Auth `twoFactor` plugin: TOTP, email/SMS OTP, backup codes, trusted devices, and 2FA sign-in flows.
@@ -21,10 +21,11 @@ Better Auth `twoFactor` plugin: TOTP, email/SMS OTP, backup codes, trusted devic
 
 - `~/.claude/skills/two-factor-authentication-best-practices/SKILL.md`
 - `~/.agents/skills/two-factor-authentication-best-practices/SKILL.md`
+- `~/.gemini/config/skills/two-factor-authentication-best-practices` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

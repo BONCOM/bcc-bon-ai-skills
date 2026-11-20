@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 A known-good page baseline lets this skill detect SEO regressions after content or deployment changes. It compares titles, canonicals, robots directives, headings, schema, links, and other critical elements, then keeps a local comparison history.
@@ -19,10 +19,12 @@ A known-good page baseline lets this skill detect SEO regressions after content 
 # Installed at
 
 - `~/.claude/skills/seo-drift/SKILL.md`
+- `~/.agents/skills/seo-drift/SKILL.md`
+- `~/.gemini/config/skills/seo-drift` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

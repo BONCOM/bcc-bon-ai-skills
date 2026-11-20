@@ -8,7 +8,7 @@ timestamp: 2026-07-21T00:00:00Z
 category: development
 group: Development quality
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Day-to-day GitHub work through the `gh` CLI: PR inspection/review/merge, issues, CI/workflow status, releases, repo/label management, and code search. Uses `gh --jq` / `--template` and `--body-file` for PR/issue bodies. Treats local `git` as read-only (status/diff/log); does not stage, commit, push, or create PRs — the repo retired its bundled `commit` and `pr-stack` skills in favor of an external `/plate` workflow.
@@ -21,10 +21,11 @@ Use when reviewing/merging PRs, checking CI, working issues/releases, or other `
 
 - `~/.claude/skills/gh/SKILL.md`
 - `~/.agents/skills/gh/SKILL.md`
+- `~/.gemini/config/skills/gh` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

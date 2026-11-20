@@ -8,7 +8,7 @@ timestamp: 2026-11-20T00:00:00Z
 category: development
 group: Development quality
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Choose this for CI pipelines, quality gates, test jobs, and deployment workflows. It orders static checks, tests, builds, and releases so failures are caught early, while keeping deployment steps explicit and reviewable.
@@ -20,10 +20,12 @@ Choose this for CI pipelines, quality gates, test jobs, and deployment workflows
 # Installed at
 
 - `~/.claude/skills/ci-cd-and-automation/SKILL.md`
+- `~/.agents/skills/ci-cd-and-automation/SKILL.md`
+- `~/.gemini/config/skills/ci-cd-and-automation` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

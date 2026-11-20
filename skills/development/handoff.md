@@ -8,7 +8,7 @@ timestamp: 2026-10-08T00:00:00Z
 category: development
 group: Workflow and discovery
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Compact the live thread of a long session into a handoff document another agent (or a fresh chat) can resume from.
@@ -20,10 +20,12 @@ Use at context limits, end of day, or deliberate handoff to another agent/worktr
 # Installed at
 
 - `~/.claude/skills/handoff/SKILL.md`
+- `~/.agents/skills/handoff/SKILL.md`
+- `~/.gemini/config/skills/handoff` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

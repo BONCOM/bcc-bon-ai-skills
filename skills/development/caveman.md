@@ -8,7 +8,7 @@ timestamp: 2026-10-08T00:00:00Z
 category: development
 group: Workflow and discovery
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Token-efficient reply style: drop filler, keep every technical fact. Optional intensity levels including wenyan variants.
@@ -20,10 +20,12 @@ When the user asks for caveman mode, fewer tokens, or `/caveman`. Exit on "norma
 # Installed at
 
 - `~/.claude/skills/caveman/SKILL.md`
+- `~/.agents/skills/caveman/SKILL.md`
+- `~/.gemini/config/skills/caveman` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

@@ -8,7 +8,7 @@ timestamp: 2026-09-01T00:00:00Z
 category: development
 group: Auth (Better Auth)
 license: Not declared on the repository (official Better Auth publisher)
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Scaffolding login/sign-up into a TypeScript/JavaScript app with Better Auth — framework detection, adapters, route handlers, OAuth providers, and auth UI pages.
@@ -21,10 +21,11 @@ Scaffolding login/sign-up into a TypeScript/JavaScript app with Better Auth — 
 
 - `~/.claude/skills/create-auth/SKILL.md`
 - `~/.agents/skills/create-auth/SKILL.md`
+- `~/.gemini/config/skills/create-auth` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

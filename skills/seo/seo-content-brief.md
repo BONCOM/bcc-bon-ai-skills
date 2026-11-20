@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-14T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Writers can use this output as an evidence-based brief for a new page or as a targeted improvement plan for an existing one. It compares current results, scores content gaps, allocates section lengths, sets keyword placement guidance, and chooses a page-type template.
@@ -19,10 +19,12 @@ Writers can use this output as an evidence-based brief for a new page or as a ta
 # Installed at
 
 - `~/.claude/skills/seo-content-brief/SKILL.md`
+- `~/.agents/skills/seo-content-brief/SKILL.md`
+- `~/.gemini/config/skills/seo-content-brief` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 International targeting across HTML, HTTP headers, or XML sitemaps gets a focused audit and generator here. The checks cover language and region codes, self references, reciprocal return links, canonical alignment, and the single `x-default` fallback.
@@ -19,10 +19,12 @@ International targeting across HTML, HTTP headers, or XML sitemaps gets a focuse
 # Installed at
 
 - `~/.claude/skills/seo-hreflang/SKILL.md`
+- `~/.agents/skills/seo-hreflang/SKILL.md`
+- `~/.gemini/config/skills/seo-hreflang` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

@@ -8,7 +8,7 @@ timestamp: 2026-09-08T00:00:00Z
 category: development
 group: Development quality
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Production endpoints, jobs, queues, retries, and service integrations need this skill when current telemetry cannot explain failures. It defines operational questions first and then chooses logs, metrics, traces, and alerts that answer those questions without leaking secrets or personal data.
@@ -20,10 +20,12 @@ Production endpoints, jobs, queues, retries, and service integrations need this 
 # Installed at
 
 - `~/.claude/skills/observability-and-instrumentation/SKILL.md`
+- `~/.agents/skills/observability-and-instrumentation/SKILL.md`
+- `~/.gemini/config/skills/observability-and-instrumentation` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

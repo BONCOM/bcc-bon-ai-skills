@@ -8,7 +8,7 @@ timestamp: 2026-11-20T00:00:00Z
 category: development
 group: Documents
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Spreadsheet create/edit/cleanup workflow from Anthropic's document skills pack.
@@ -20,10 +20,12 @@ When a spreadsheet file is the primary input or output: open/fix existing workbo
 # Installed at
 
 - `~/.claude/skills/xlsx/SKILL.md`
+- `~/.agents/skills/xlsx/SKILL.md`
+- `~/.gemini/config/skills/xlsx` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

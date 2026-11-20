@@ -8,7 +8,7 @@ timestamp: 2026-10-02T00:00:00Z
 category: development
 group: Google Cloud
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Any Supabase product work should start here: Auth, RLS, Data API grants, Edge Functions, Storage, migrations, CLI, and the Supabase MCP. It requires checking current docs/changelog before implementing because APIs and config change between versions.
@@ -21,10 +21,11 @@ Any Supabase product work should start here: Auth, RLS, Data API grants, Edge Fu
 
 - `~/.claude/skills/supabase/SKILL.md`
 - `~/.agents/skills/supabase/SKILL.md`
+- `~/.gemini/config/skills/supabase` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

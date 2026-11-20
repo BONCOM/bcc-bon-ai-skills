@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Keyword groups based on overlapping Google top-ten results are the input to this skill's hub-and-spoke planning. It produces cluster plans, internal-link matrices, and interactive maps; content creation is optional and separate.
@@ -19,10 +19,12 @@ Keyword groups based on overlapping Google top-ten results are the input to this
 # Installed at
 
 - `~/.claude/skills/seo-cluster/SKILL.md`
+- `~/.agents/skills/seo-cluster/SKILL.md`
+- `~/.gemini/config/skills/seo-cluster` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

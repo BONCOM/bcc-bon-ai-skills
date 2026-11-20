@@ -8,7 +8,7 @@ timestamp: 2026-07-22T00:00:00Z
 category: development
 group: Frontend and UI
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Two modes: review existing UI against design-system compliance and a three-pillar quality framework (frictionless insight-to-action, quality craft, trustworthy building) — PR reviews, accessibility audits, component reviews, theme testing — or create distinctive new interfaces that avoid generic "AI slop" aesthetics. Explicitly excludes backend, database, infra/DevOps, and pure business-logic work. Complements [`frontend-design`](/skills/development/frontend-design.md) (creation-focused) rather than duplicating it; credits Anthropic's `frontend-design` skill as a creative-principles inspiration in its own frontmatter.
@@ -21,10 +21,11 @@ Reviewing or building frontend UI where design quality, accessibility, or design
 
 - `~/.claude/skills/frontend-design-review/SKILL.md`
 - `~/.agents/skills/frontend-design-review/SKILL.md`
+- `~/.gemini/config/skills/frontend-design-review` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code (Cursor reads the same `~/.claude/skills/` path — no separate Cursor-native cache entry exists or is needed for this skill).
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

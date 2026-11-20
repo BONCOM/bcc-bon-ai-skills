@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Ahrefs domain metrics, referring domains, backlinks, anchors, organic keywords, and Content Explorer results are the scope of this extension. It pairs paid Ahrefs evidence with `seo-backlinks` so cross-source discrepancies remain visible.
@@ -19,10 +19,12 @@ Ahrefs domain metrics, referring domains, backlinks, anchors, organic keywords, 
 # Installed at
 
 - `~/.claude/skills/seo-ahrefs/SKILL.md`
+- `~/.agents/skills/seo-ahrefs/SKILL.md`
+- `~/.gemini/config/skills/seo-ahrefs` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

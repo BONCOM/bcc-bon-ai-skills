@@ -8,7 +8,7 @@ timestamp: 2026-08-31T00:00:00Z
 category: development
 group: Development quality
 license: CC-BY-SA-4.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Dependency takeover risk is the reason to reach for this skill before a security review. It checks maintenance activity, maintainer concentration, package popularity, and risky capabilities, then writes a focused report; it is not a substitute for a vulnerability or license scanner.
@@ -20,10 +20,12 @@ Dependency takeover risk is the reason to reach for this skill before a security
 # Installed at
 
 - `~/.claude/skills/supply-chain-risk-auditor/SKILL.md`
+- `~/.agents/skills/supply-chain-risk-auditor/SKILL.md`
+- `~/.gemini/config/skills/supply-chain-risk-auditor` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

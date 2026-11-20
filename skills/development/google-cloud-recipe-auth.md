@@ -8,7 +8,7 @@ timestamp: 2026-11-20T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Google Cloud identity choices for a developer, local script, workload, or cross-cloud service are handled here. The skill separates authentication from authorization, prefers ADC, attached identities, impersonation, and short-lived credentials, and avoids defaulting to service-account keys.
@@ -20,10 +20,12 @@ Google Cloud identity choices for a developer, local script, workload, or cross-
 # Installed at
 
 - `~/.claude/skills/google-cloud-recipe-auth/SKILL.md`
+- `~/.agents/skills/google-cloud-recipe-auth/SKILL.md`
+- `~/.gemini/config/skills/google-cloud-recipe-auth` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

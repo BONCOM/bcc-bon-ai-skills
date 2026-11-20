@@ -8,7 +8,7 @@ timestamp: 2026-10-23T00:00:00Z
 category: development
 group: Development quality
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Measured slowness, regressions, Core Web Vitals failures, slow database access, and explicit latency budgets are its trigger. The workflow requires a baseline and profile before changes, then targets the observed frontend, backend, query, or database bottleneck and measures again.
@@ -20,10 +20,12 @@ Measured slowness, regressions, Core Web Vitals failures, slow database access, 
 # Installed at
 
 - `~/.claude/skills/performance-optimization/SKILL.md`
+- `~/.agents/skills/performance-optimization/SKILL.md`
+- `~/.gemini/config/skills/performance-optimization` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

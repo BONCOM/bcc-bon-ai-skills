@@ -8,7 +8,7 @@ timestamp: 2026-07-16T00:00:00Z
 category: development
 group: Frontend and UI
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 React and Next.js work should consult these rules when render cost, bundle size, data fetching, or server/client boundaries matter. The 70 installed rules prioritize async waterfalls and bundle waste before lower-impact rendering and JavaScript refinements.
@@ -21,10 +21,11 @@ React and Next.js work should consult these rules when render cost, bundle size,
 
 - `~/.claude/skills/vercel-react-best-practices/SKILL.md`
 - `~/.agents/skills/vercel-react-best-practices/SKILL.md`
+- `~/.gemini/config/skills/vercel-react-best-practices` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

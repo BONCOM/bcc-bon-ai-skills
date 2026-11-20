@@ -8,7 +8,7 @@ timestamp: 2026-07-16T00:00:00Z
 category: development
 group: Auth (Better Auth)
 license: Not declared on the repository (official Better Auth publisher)
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Hardening an existing Better Auth deployment: rate limiting, secrets, CSRF, trusted origins, session/cookie security, OAuth token encryption, IP tracking, and audit logging.
@@ -21,10 +21,11 @@ Hardening an existing Better Auth deployment: rate limiting, secrets, CSRF, trus
 
 - `~/.claude/skills/better-auth-security-best-practices/SKILL.md`
 - `~/.agents/skills/better-auth-security-best-practices/SKILL.md`
+- `~/.gemini/config/skills/better-auth-security-best-practices` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

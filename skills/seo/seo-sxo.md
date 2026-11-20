@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 A technically sound page can still target the wrong intent or page type; this skill tests that mismatch. It reads the SERP backward, derives user stories from ranked results, scores the page through several personas, and can produce a wireframe tied to observed intent.
@@ -19,10 +19,12 @@ A technically sound page can still target the wrong intent or page type; this sk
 # Installed at
 
 - `~/.claude/skills/seo-sxo/SKILL.md`
+- `~/.agents/skills/seo-sxo/SKILL.md`
+- `~/.gemini/config/skills/seo-sxo` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

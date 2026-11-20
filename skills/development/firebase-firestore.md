@@ -8,7 +8,7 @@ timestamp: 2026-11-03T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Sets up, manages, queries, and configures Cloud Firestore databases (Standard/Enterprise edition), including data modeling, security rules, indexes, and SDK integrations (Web, Python, iOS, Android, Flutter). Requires identifying Standard or Enterprise edition before choosing references because supported query and data-model features differ.
@@ -21,10 +21,11 @@ Any Firestore work — creating/listing databases, defining data models/indexes,
 
 - `~/.claude/skills/firebase-firestore/SKILL.md`
 - `~/.agents/skills/firebase-firestore/SKILL.md`
+- `~/.gemini/config/skills/firebase-firestore` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

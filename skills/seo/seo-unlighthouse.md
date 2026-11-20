@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 A local multi-page Lighthouse sweep is useful when PageSpeed quota, CI repeatability, or broad regression coverage matters. This wrapper runs Unlighthouse against a capped route set and aggregates median performance, accessibility, best-practice, and SEO scores.
@@ -19,10 +19,12 @@ A local multi-page Lighthouse sweep is useful when PageSpeed quota, CI repeatabi
 # Installed at
 
 - `~/.claude/skills/seo-unlighthouse/SKILL.md`
+- `~/.agents/skills/seo-unlighthouse/SKILL.md`
+- `~/.gemini/config/skills/seo-unlighthouse` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

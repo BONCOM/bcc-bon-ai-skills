@@ -12,7 +12,8 @@ Treat an update as a fresh trust decision.
 2. For a normal skill, use the Node-compatible pinned CLI `skills@1.5.18`.
 3. Install one named skill, never a repository's complete catalog (except small official packs deliberately adopted as a set).
 4. Verify the installed `SKILL.md`, local path, unexpected additions, duplicate copies, and any plugin metadata.
-5. Add or update the matching OKF concept under [`/skills/`](/skills/index.md) and append [`/log.md`](/log.md).
+5. Mirror the refreshed folder to Codex: `rsync -a --delete ~/.claude/skills/<name>/ ~/.agents/skills/<name>/`. For a new skill, also link it for Antigravity: `ln -s ~/.claude/skills/<name> ~/.gemini/config/skills/<name>`.
+6. Add or update the matching OKF concept under [`/skills/`](/skills/index.md) and append [`/log.md`](/log.md).
 
 # Normal skill install shape
 

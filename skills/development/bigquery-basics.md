@@ -8,7 +8,7 @@ timestamp: 2026-10-20T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 BigQuery datasets, tables, views, jobs, SQL queries, and basic ingestion belong here. Use it when the work is the BigQuery resource model or `bq`/client-library operations rather than BQML or pandas-style BigFrames.
@@ -21,10 +21,11 @@ BigQuery datasets, tables, views, jobs, SQL queries, and basic ingestion belong 
 
 - `~/.claude/skills/bigquery-basics/SKILL.md`
 - `~/.agents/skills/bigquery-basics/SKILL.md`
+- `~/.gemini/config/skills/bigquery-basics` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

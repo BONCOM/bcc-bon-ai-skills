@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 SE Ranking supplies live AI Share of Voice across ChatGPT, Gemini, Perplexity, Google AI Overviews, and AI Mode, along with SERP, backlink, and competitor data. This skill reports each platform separately with sample-size context.
@@ -19,10 +19,12 @@ SE Ranking supplies live AI Share of Voice across ChatGPT, Gemini, Perplexity, G
 # Installed at
 
 - `~/.claude/skills/seo-seranking/SKILL.md`
+- `~/.agents/skills/seo-seranking/SKILL.md`
+- `~/.gemini/config/skills/seo-seranking` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

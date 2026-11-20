@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Live SERPs, keyword volume and intent, backlinks, business listings, competitor data, image results, and measured AI mentions come from this extension. It routes among the DataForSEO MCP modules and labels the returned evidence as live vendor data.
@@ -19,10 +19,12 @@ Live SERPs, keyword volume and intent, backlinks, business listings, competitor 
 # Installed at
 
 - `~/.claude/skills/seo-dataforseo/SKILL.md`
+- `~/.agents/skills/seo-dataforseo/SKILL.md`
+- `~/.gemini/config/skills/seo-dataforseo` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

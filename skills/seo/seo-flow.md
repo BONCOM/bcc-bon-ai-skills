@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 The FLOW method and its stage-specific evidence prompts live in this skill. It selects from the Find, Leverage, Optimize, Win, and Local prompt sets so the analysis starts from a defined decision question instead of a broad SEO request.
@@ -19,10 +19,12 @@ The FLOW method and its stage-specific evidence prompts live in this skill. It s
 # Installed at
 
 - `~/.claude/skills/seo-flow/SKILL.md`
+- `~/.agents/skills/seo-flow/SKILL.md`
+- `~/.gemini/config/skills/seo-flow` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

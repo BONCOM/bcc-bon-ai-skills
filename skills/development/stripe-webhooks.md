@@ -8,7 +8,7 @@ timestamp: 2026-09-30T00:00:00Z
 category: development
 group: Development quality
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Stripe payment, subscription, and invoice webhook setup belongs here: signature verification with the raw body, common event types, and framework examples. Pair with `webhook-handler-patterns` for idempotency and retries; use the Stripe MCP for live account operations.
@@ -21,10 +21,11 @@ Stripe payment, subscription, and invoice webhook setup belongs here: signature 
 
 - `~/.claude/skills/stripe-webhooks/SKILL.md`
 - `~/.agents/skills/stripe-webhooks/SKILL.md`
+- `~/.gemini/config/skills/stripe-webhooks` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

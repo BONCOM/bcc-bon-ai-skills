@@ -40,6 +40,8 @@ This repository is an **Open Knowledge Format (OKF) v0.1** knowledge bundle for 
 # Discovery paths
 
 - Normal skills: `~/.claude/skills/` (Cursor reads this Claude compatibility path).
+- Codex: `~/.agents/skills/` (the `skills` CLI's own copy). Kept identical to `~/.claude/skills/` with `rsync -a --delete` after every refresh, since 2026-11-20.
+- Antigravity: `~/.gemini/config/skills/`, one symlink per normal skill pointing at `~/.claude/skills/<name>`, so a refresh there needs no extra copy. Superpowers is plugin-managed and not linked.
 - Superpowers: separate Cursor and Claude Code plugin cache paths; 14 names counted once.
 - Skill Creator and code-simplifier: Claude Code plugins only.
 

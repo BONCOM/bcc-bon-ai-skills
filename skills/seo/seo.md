@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Start here when an SEO request spans several disciplines or the right specialist is unclear. The skill detects the business type, routes work to installed specialists, and combines technical, content, schema, image, local, AI-search, and performance findings.
@@ -19,10 +19,12 @@ Start here when an SEO request spans several disciplines or the right specialist
 # Installed at
 
 - `~/.claude/skills/seo/SKILL.md`
+- `~/.agents/skills/seo/SKILL.md`
+- `~/.gemini/config/skills/seo` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

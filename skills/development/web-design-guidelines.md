@@ -8,7 +8,7 @@ timestamp: 2026-11-20T00:00:00Z
 category: development
 group: Frontend and UI
 license: Not stated in the skill repository
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 File-based UI, accessibility, UX, and design reviews can use this focused checker. It reads a pinned copy of Vercel's Web Interface Guidelines bundled with the skill, checks the requested files against those rules, and returns terse `file:line` findings rather than redesigning the page.
@@ -21,10 +21,11 @@ File-based UI, accessibility, UX, and design reviews can use this focused checke
 
 - `~/.claude/skills/web-design-guidelines/SKILL.md`
 - `~/.agents/skills/web-design-guidelines/SKILL.md`
+- `~/.gemini/config/skills/web-design-guidelines` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

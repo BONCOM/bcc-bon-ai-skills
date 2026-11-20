@@ -8,7 +8,7 @@ timestamp: 2026-11-12T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Security-pillar reviews of Google Cloud workloads are its job. The skill turns workload details into requirements and recommendations for identity, network boundaries, data protection, threat defense, privacy, and operations.
@@ -20,10 +20,12 @@ Security-pillar reviews of Google Cloud workloads are its job. The skill turns w
 # Installed at
 
 - `~/.claude/skills/google-cloud-waf-security/SKILL.md`
+- `~/.agents/skills/google-cloud-waf-security/SKILL.md`
+- `~/.gemini/config/skills/google-cloud-waf-security` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

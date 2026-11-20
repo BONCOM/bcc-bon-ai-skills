@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Schema.org detection, validation, and generation are grouped in this skill, with JSON-LD as the preferred format. It checks required properties, data types, absolute URLs, dates, deprecated types, and current Google rich-result support before proposing code.
@@ -19,10 +19,12 @@ Schema.org detection, validation, and generation are grouped in this skill, with
 # Installed at
 
 - `~/.claude/skills/seo-schema/SKILL.md`
+- `~/.agents/skills/seo-schema/SKILL.md`
+- `~/.gemini/config/skills/seo-schema` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

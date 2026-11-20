@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 An Open Graph preview, hero, product image, infographic, schema image, or thumbnail is a generation task for this extension. It maps the asset type to aspect ratio and resolution, then delegates generation through the Banana creative pipeline.
@@ -19,10 +19,12 @@ An Open Graph preview, hero, product image, infographic, schema image, or thumbn
 # Installed at
 
 - `~/.claude/skills/seo-image-gen/SKILL.md`
+- `~/.agents/skills/seo-image-gen/SKILL.md`
+- `~/.gemini/config/skills/seo-image-gen` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

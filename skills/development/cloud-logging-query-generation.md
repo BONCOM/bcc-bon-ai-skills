@@ -8,7 +8,7 @@ timestamp: 2026-10-19T00:00:00Z
 category: development
 group: Google Cloud
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Turn to this skill when a debugging question needs a Google Cloud Logging Query Language expression. It checks service-specific monitored resource types, uses strict quoting and boolean syntax, and returns query text only; it is not for SQL or Spanner data.
@@ -20,10 +20,12 @@ Turn to this skill when a debugging question needs a Google Cloud Logging Query 
 # Installed at
 
 - `~/.claude/skills/cloud-logging-query-generation/SKILL.md`
+- `~/.agents/skills/cloud-logging-query-generation/SKILL.md`
+- `~/.gemini/config/skills/cloud-logging-query-generation` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

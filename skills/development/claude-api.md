@@ -8,7 +8,7 @@ timestamp: 2026-10-09T00:00:00Z
 category: development
 group: Skill development
 license: Apache-2.0
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Claude and Anthropic SDK work should start with this reference, including model IDs, pricing, streaming, tool use, caching, tokens, and migrations. It routes to language-specific material and live official sources, and it avoids inserting Anthropic code into a project that uses another provider.
@@ -21,10 +21,11 @@ Claude and Anthropic SDK work should start with this reference, including model 
 
 - `~/.claude/skills/claude-api/SKILL.md`
 - `~/.agents/skills/claude-api/SKILL.md`
+- `~/.gemini/config/skills/claude-api` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

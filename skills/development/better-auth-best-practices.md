@@ -8,7 +8,7 @@ timestamp: 2026-09-01T00:00:00Z
 category: development
 group: Auth (Better Auth)
 license: Not declared on the repository (official Better Auth publisher)
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Better Auth server/client setup, database adapters, sessions, plugins, env vars (`BETTER_AUTH_SECRET`, `BETTER_AUTH_URL`), and CLI migrate/generate workflows belong here.
@@ -21,10 +21,11 @@ Better Auth server/client setup, database adapters, sessions, plugins, env vars 
 
 - `~/.claude/skills/better-auth-best-practices/SKILL.md`
 - `~/.agents/skills/better-auth-best-practices/SKILL.md`
+- `~/.gemini/config/skills/better-auth-best-practices` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

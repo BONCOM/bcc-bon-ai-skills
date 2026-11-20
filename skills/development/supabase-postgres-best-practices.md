@@ -8,7 +8,7 @@ timestamp: 2026-07-30T00:00:00Z
 category: development
 group: Google Cloud
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Postgres best practices maintained by Supabase, for Postgres running anywhere — not just Supabase projects. Covers schema/migration design, RLS policies and their tests, indexes, triggers, database functions, queues (pg_cron, pgmq), pgvector search, pg_restore/data imports, and diagnosing slow queries, locking, bloat, or cross-tenant data leaks.
@@ -21,10 +21,11 @@ Load before writing or changing anything that lives in a Postgres database: tabl
 
 - `~/.claude/skills/supabase-postgres-best-practices/SKILL.md`
 - `~/.agents/skills/supabase-postgres-best-practices/SKILL.md`
+- `~/.gemini/config/skills/supabase-postgres-best-practices` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

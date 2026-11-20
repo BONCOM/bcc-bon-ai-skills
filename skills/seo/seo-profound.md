@@ -7,7 +7,7 @@ tags: [seo, installed]
 timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Time-series brand citation rates, prompt coverage, co-cited competitors, and spike or drop alerts across ChatGPT and Perplexity come from Profound. The extension complements point-in-time vendor checks by making weekly and monthly citation trends the primary evidence.
@@ -19,10 +19,12 @@ Time-series brand citation rates, prompt coverage, co-cited competitors, and spi
 # Installed at
 
 - `~/.claude/skills/seo-profound/SKILL.md`
+- `~/.agents/skills/seo-profound/SKILL.md`
+- `~/.gemini/config/skills/seo-profound` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 

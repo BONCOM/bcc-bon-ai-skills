@@ -8,7 +8,7 @@ timestamp: 2026-09-01T00:00:00Z
 category: development
 group: Auth (Better Auth)
 license: Not declared on the repository (official Better Auth publisher)
-available_in: Cursor and Claude Code
+available_in: Cursor, Claude Code, Codex and Antigravity
 ---
 
 Multi-tenant organizations via Better Auth's organization plugin: members, invitations, custom roles/permissions, teams, and RBAC.
@@ -21,10 +21,11 @@ Multi-tenant organizations via Better Auth's organization plugin: members, invit
 
 - `~/.claude/skills/organization-best-practices/SKILL.md`
 - `~/.agents/skills/organization-best-practices/SKILL.md`
+- `~/.gemini/config/skills/organization-best-practices` (symlink to the Claude Code copy, read by Antigravity)
 
 # Availability
 
-Cursor and Claude Code
+Cursor, Claude Code, Codex and Antigravity
 
 # License
 
