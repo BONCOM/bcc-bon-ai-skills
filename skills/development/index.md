@@ -2,6 +2,7 @@
 
 # Development quality
 
+* [api-and-interface-design](./api-and-interface-design.md) - Design contracts across Next.js, Express, FastAPI, and shared modules.
 * [supply-chain-risk-auditor](./supply-chain-risk-auditor.md) - Dependency takeover risk is the reason to reach for this skill before a security review. It checks maintenance activity, maintainer concentration, package popul
 * [security-and-hardening](./security-and-hardening.md) - Security-sensitive code belongs under this skill when it accepts untrusted input, handles authentication or sessions, stores private data, or calls an external 
 * [webhook-handler-patterns](./webhook-handler-patterns.md) - Webhook receivers that need the verify → parse → handle-idempotently sequence, framework-specific raw-body handling, retries, or error-code conventions belong h
@@ -26,6 +27,12 @@
 
 # Frontend and UI
 
+* [break-ui](./break-ui.md) - Stress-test tables, forms, and content-heavy screens with realistic data at schema limits.
+* [mobile-native](./mobile-native.md) - Review a web app on phones for safe areas, input zoom, viewport sizing, tap feedback, hover behavior, and scrolling.
+* [animation-performance](./animation-performance.md) - Diagnose dropped frames in transitions, overlays, or gameplay effects.
+* [accessibility](./accessibility.md) - Audit rendered UI for WCAG 2.2 issues with Lighthouse or axe, an accessibility-tree snapshot, and a keyboard walkthrough.
+* [modern-web-guidance](./modern-web-guidance.md) - Look up browser support and fallbacks for responsive layouts, dialogs, forms, CSS motion, typography, and other native web features..
+* [make-interfaces-feel-better](./make-interfaces-feel-better.md) - Polish a rendered interface by checking optical alignment, icon weights, button hit areas, type wrapping, layered surfaces, and hover, focus, pressed, loading, and empty states..
 * [frontend-design](./frontend-design.md) - New interfaces that need a visual direction, and existing ones that feel generic, are the target. The skill grounds typography, palette, layout, motion, and cop
 * [frontend-design-review](./frontend-design-review.md) - PR/design reviews, accessibility audits, and design-system compliance checks for existing UI, or creating distinctive new interfaces — three-pillar quality fram
 * [vercel-react-best-practices](./vercel-react-best-practices.md) - React and Next.js work should consult these rules when render cost, bundle size, data fetching, or server/client boundaries matter. The 70 installed rules prior
@@ -33,6 +40,12 @@
 * [vue](./vue.md) - Vue 3.5 single-file components, Composition API code, `<script setup>` macros, reactivity, watchers, composables, and built-in components such as Teleport or Su
 * [web-design-guidelines](./web-design-guidelines.md) - File-based UI, accessibility, UX, and design reviews can use this focused checker. It reads a pinned copy of Vercel's Web Interface Guidelines bundled with the skill, checks the requested fi
 * [playwright-cli](./playwright-cli.md) - Browser navigation, form interaction, screenshots, page snapshots, and test generation are exposed through the Playwright CLI. Compact snapshot references and p
+
+# Game UX
+
+* [game-ui-ux](./game-ui-ux.md) - Design and verify game HUDs, menus, controls, and pause overlays.
+* [game-feel](./game-feel.md) - Tune interaction feedback for selecting, succeeding, failing, and finishing a game action.
+* [puzzle](./puzzle.md) - Design grid and logic puzzle rules, solver-checked levels, reliable undo, difficulty progression, and helpful hints.
 
 # Node.js
 

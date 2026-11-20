@@ -63,6 +63,7 @@ Prefer the specialist. Use a broad skill only when the task spans disciplines or
 - FastAPI -> `fastapi`
 - Firebase Firestore -> `firebase-firestore`
 - Node.js runtime / APIs -> `node`
+- New or changing API contracts and module boundaries -> `api-and-interface-design`
 
 ### Google Cloud
 
@@ -89,6 +90,22 @@ Prefer the specialist. Use a broad skill only when the task spans disciplines or
 - React composition at scale -> `vercel-composition-patterns`
 - Vue -> `vue`
 - Web Interface Guidelines review -> `web-design-guidelines`
+- Stress cases for tables, forms, and content -> `break-ui`
+- Phone browser and touch behavior -> `mobile-native`
+- Optical alignment, controls, icon weight, and UI states -> `make-interfaces-feel-better`
+- Dropped frames in UI motion -> `animation-performance`
+- Browser compatibility and native HTML/CSS/DOM patterns -> `modern-web-guidance`
+- Rendered accessibility audit with keyboard and assistive technology -> `accessibility`
+
+For a Suite UI, use the Boncom design system through `solutions-r2d2`. Start with the main task and a visual idea drawn from the product. Review the rendered screen at desktop and phone widths. Check alignment, spacing, type hierarchy, button priorities and states, both themes, and realistic content. For a broad design critique where available, use [Impeccable critique](https://impeccable.style/docs/critique/).
+
+### Games
+
+- Game HUD, menus, overlays, and input focus -> `game-ui-ux`
+- Player feedback, motion, and interaction feel -> `game-feel`
+- Grid puzzles, solvers, difficulty, and undo -> `puzzle`
+
+Play through onboarding, the core loop, a failed action, and completion. Review feedback and readability with touch or keyboard as applicable, including reduced motion.
 
 ### Quality, security, and testing
 

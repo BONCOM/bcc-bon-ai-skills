@@ -1,25 +1,25 @@
 ---
 type: Overview
 title: Boncom AI Skills
-description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
+description: OKF v0.1 inventory of agent skills for Boncom, with sources, trust notes, installation instructions, and routing.
 tags: [overview, github]
-timestamp: 2026-11-20T12:00:00-07:00
+timestamp: 2026-11-20T14:45:10-07:00
 ---
 
 <div align="center">
 
 # Boncom AI Skills
 
-**Trusted Cursor & Claude agent skills for Boncom** — cataloged, reviewed, and ready to route.
+**Agent skills for Boncom**, with per-skill availability for Cursor, Claude Code, Gemini CLI, Codex, and Antigravity.
 
-[![Skills](https://img.shields.io/badge/skills-97-111827?style=for-the-badge)](#skill-inventory)
-[![Repos](https://img.shields.io/badge/repos-25-2563eb?style=for-the-badge)](#source-repositories)
+[![Skills](https://img.shields.io/badge/skills-107-111827?style=for-the-badge)](#skill-inventory)
+[![Repos](https://img.shields.io/badge/repos-30-2563eb?style=for-the-badge)](#source-repositories)
 [![OKF](https://img.shields.io/badge/OKF-v0.1-059669?style=for-the-badge)](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)
-[![Catalog](https://img.shields.io/badge/catalog-private-6b7280?style=for-the-badge)](https://github.com/BONCOM/boncom-ai-skills)
+[![Catalog](https://img.shields.io/badge/catalog-public-6b7280?style=for-the-badge)](https://github.com/BONCOM/bcc-bon-ai-skills)
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-11-20 12:00:00 MST`
+`Last updated: 2026-11-20 14:45:10 MST`
 
 </div>
 
@@ -31,14 +31,14 @@ Agents get better when they load the **narrowest skill** for the job — not a p
 
 | | Count |
 |---|---:|
-| Development | 50 |
+| Development | 60 |
 | SEO | 31 |
 | Writing | 1 |
 | Superpowers | 14 |
 | Boncom (authored in-house) | 1 |
-| **Total unique** | **97** |
+| **Total unique** | **107** |
 | Deferred (reviewed, not installed) | 23 |
-| Source repositories | 25 |
+| Source repositories | 30 |
 
 ## Quick start
 
@@ -63,7 +63,7 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`google/skills`](https://github.com/google/skills) | 10 | 2026-11-20 | 2026-11-20 |
 | [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-11-16 | 2026-11-16 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-09-01 | 2026-09-01 |
-| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-11-16 | 2026-11-18 |
+| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 5 | 2026-11-16 | 2026-11-18 |
 | [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) | 3 | 2026-11-09 | 2026-11-20 |
 | [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official) | 2 | 2026-04-23 | 2026-09-21 |
 | [`hookdeck/webhook-skills`](https://github.com/hookdeck/webhook-skills) | 2 | 2026-11-13 | 2026-11-13 |
@@ -83,6 +83,11 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 | [`paulnsorensen/skillz-that-grillz`](https://github.com/paulnsorensen/skillz-that-grillz) | 1 | 2026-09-28 | 2026-09-29 |
 | [`vercel-labs/skills`](https://github.com/vercel-labs/skills) | 1 | 2026-07-10 | 2026-09-18 |
 | [`wshobson/agents`](https://github.com/wshobson/agents) | 1 | 2026-10-30 | 2026-11-05 |
+| [`emilkowalski/skills`](https://github.com/emilkowalski/skills) | 3 | 2026-11-13 | 2026-11-15 |
+| [`addyosmani/web-quality-skills`](https://github.com/addyosmani/web-quality-skills) | 1 | 2026-08-24 | 2026-08-24 |
+| [`GoogleChrome/modern-web-guidance`](https://github.com/GoogleChrome/modern-web-guidance) | 1 | 2026-11-16 | 2026-11-16 |
+| [`gamedev-skills/awesome-gamedev-agent-skills`](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) | 3 | 2026-11-11 | 2026-11-12 |
+| [`jakubkrehel/make-interfaces-feel-better`](https://github.com/jakubkrehel/make-interfaces-feel-better) | 1 | 2026-11-18 | 2026-11-18 |
 
 ### Skill inventory
 
@@ -144,13 +149,13 @@ Better Auth setup, scaffolding, and hardening.
 </details>
 
 <details>
-<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-11-16</code> · repo <code>2026-11-18</code></summary>
+<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>5</strong> skills · skills updated <code>2026-11-16</code> · repo <code>2026-11-18</code></summary>
 
 Production quality skills for delivery and runtime health.
 
-**Covers:** CI/CD & automation, observability/instrumentation, performance optimization, security & hardening
+**Covers:** API contracts, CI/CD and automation, observability, performance optimization, and security hardening
 
-**Installed:** `ci-cd-and-automation`, `observability-and-instrumentation`, `performance-optimization`, `security-and-hardening`
+**Installed:** `api-and-interface-design`, `ci-cd-and-automation`, `observability-and-instrumentation`, `performance-optimization`, `security-and-hardening`
 
 </details>
 
@@ -365,6 +370,61 @@ Python/pytest testing patterns.
 
 </details>
 
+<details>
+<summary><a href="https://github.com/emilkowalski/skills"><strong>emilkowalski/skills</strong></a> · <strong>3</strong> skills · skills updated <code>2026-11-13</code> · repo <code>2026-11-15</code></summary>
+
+Specialized workflows for UI stress tests, phone browser behavior, and animation profiling.
+
+**Covers:** worst-case content, mobile web behavior, motion frame budgets
+
+**Installed:** `break-ui`, `mobile-native`, `animation-performance`
+
+</details>
+
+<details>
+<summary><a href="https://github.com/addyosmani/web-quality-skills"><strong>addyosmani/web-quality-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-08-24</code> · repo <code>2026-08-24</code></summary>
+
+Evidence-led accessibility audits of rendered web interfaces.
+
+**Covers:** focus order, accessible names, contrast, and keyboard interactions
+
+**Installed:** `accessibility`
+
+</details>
+
+<details>
+<summary><a href="https://github.com/GoogleChrome/modern-web-guidance"><strong>GoogleChrome/modern-web-guidance</strong></a> · <strong>1</strong> skill · skills updated <code>2026-11-16</code> · repo <code>2026-11-16</code></summary>
+
+Browser-platform guidance from the Chrome team for native UI patterns and compatibility.
+
+**Covers:** HTML, CSS, DOM, browser support, and progressive enhancement
+
+**Installed:** `modern-web-guidance`
+
+</details>
+
+<details>
+<summary><a href="https://github.com/gamedev-skills/awesome-gamedev-agent-skills"><strong>gamedev-skills/awesome-gamedev-agent-skills</strong></a> · <strong>3</strong> skills · skills updated <code>2026-11-11</code> · repo <code>2026-11-12</code></summary>
+
+Cross-engine game design guidance for player-facing interface and feedback.
+
+**Covers:** HUDs, menus, input feedback, and solver-checked grid games
+
+**Installed:** `game-ui-ux`, `game-feel`, `puzzle`
+
+</details>
+
+<details>
+<summary><a href="https://github.com/jakubkrehel/make-interfaces-feel-better"><strong>jakubkrehel/make-interfaces-feel-better</strong></a> · <strong>1</strong> skill · skills updated <code>2026-11-18</code> · repo <code>2026-11-18</code></summary>
+
+A focused finish pass for typography, icons, controls, and interaction states.
+
+**Covers:** optical alignment, icon alignment, button hit areas, shadows, and meaningfully restrained motion
+
+**Installed:** `make-interfaces-feel-better`
+
+</details>
+
 ## Maintenance
 
 Treat every install or update as a fresh trust decision. See [`playbooks/install-and-update.md`](playbooks/install-and-update.md).
@@ -382,12 +442,12 @@ python3 scripts/build_okf_catalog.py
 **Rishi Ramesh** — catalog design, trust review, installs, and routing for Boncom.
 
 - GitHub: [@rrishi0309](https://github.com/rrishi0309)
-- Org repo: [BONCOM/boncom-ai-skills](https://github.com/BONCOM/boncom-ai-skills)
+- Org repo: [BONCOM/bcc-bon-ai-skills](https://github.com/BONCOM/bcc-bon-ai-skills)
 
 ---
 
 <div align="center">
 
-[OKF SPEC v0.1](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) · Built for Cursor + Claude Code
+[OKF SPEC v0.1](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md) · Boncom agent skills catalog
 
 </div>

@@ -1,17 +1,17 @@
 ---
 type: Overview
 title: Boncom AI Skills catalog
-description: OKF inventory of Cursor/Claude agent skills — sources, trust notes, install paths, routing, and deferred tools.
+description: OKF inventory of Boncom agent skills, with sources, trust notes, install paths, and routing.
 tags: [overview, catalog]
 timestamp: 2026-09-30T00:00:00Z
 okf_bundle: boncom-ai-skills
 counts:
-  development: 50
+  development: 60
   seo: 31
   writing: 1
   superpowers: 14
   boncom: 1
-  total_unique: 97
+  total_unique: 107
   deferred: 23
 ---
 
@@ -21,12 +21,12 @@ This repository is an **Open Knowledge Format (OKF) v0.1** knowledge bundle for 
 
 | Category | Unique skills |
 |----------|---------------|
-| Development | 50 |
+| Development | 60 |
 | SEO | 31 |
 | Writing | 1 |
 | Superpowers | 14 |
 | Boncom (authored in-house) | 1 |
-| **Total unique** | **97** |
+| **Total unique** | **107** |
 | Deferred (not installed) | 23 |
 
 # How to navigate
@@ -39,8 +39,8 @@ This repository is an **Open Knowledge Format (OKF) v0.1** knowledge bundle for 
 
 # Discovery paths
 
-- Normal skills: `~/.claude/skills/` (Cursor reads this Claude compatibility path).
-- Codex: `~/.agents/skills/` (the `skills` CLI's own copy). Kept identical to `~/.claude/skills/` with `rsync -a --delete` after every refresh, since 2026-11-20.
+- Normal skills list their verified install paths on each concept page. Cursor can read the Claude compatibility path at `~/.claude/skills/`.
+- Codex and Gemini CLI: `~/.agents/skills/` (the `skills` CLI's own copy). Kept identical to `~/.claude/skills/` with `rsync -a --delete` after every refresh, since 2026-11-20.
 - Antigravity: `~/.gemini/config/skills/`, one symlink per normal skill pointing at `~/.claude/skills/<name>`, so a refresh there needs no extra copy. Superpowers is plugin-managed and not linked.
 - Superpowers: separate Cursor and Claude Code plugin cache paths; 14 names counted once.
 - Skill Creator and code-simplifier: Claude Code plugins only.
