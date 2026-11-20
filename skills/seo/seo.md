@@ -4,7 +4,7 @@ title: seo
 description: "Start here when an SEO request spans several disciplines or the right specialist is unclear. The skill detects the business type, routes work to installed specialists, and combines technical, content, schema, image, local, AI-search, and performance findings."
 resource: "https://github.com/AgriciDaniel/claude-seo/blob/main/skills/seo/SKILL.md"
 tags: [seo, installed]
-timestamp: 2026-11-14T00:00:00Z
+timestamp: 2026-11-20T00:00:00Z
 category: seo
 license: MIT
 available_in: Cursor and Claude Code
@@ -30,7 +30,7 @@ MIT
 
 # Trust notes
 
-Orchestrates shared Python scripts, local crawling, optional external APIs and MCP servers, and specialist subagents. The installed package contains a Python virtual environment; its two Playwright skill stubs are excluded from discovery and counting.
+Orchestrates shared Python scripts, local crawling, optional external APIs and MCP servers, and specialist subagents. The installed package contains a Python virtual environment; its two Playwright skill stubs are excluded from discovery and counting. v2.6.2 (`02c19b9`, 2026-11-14) routes to three extension mirrors (`seo-bing`, `seo-shopify`, `seo-posthog`; 28 sub-skills, 20 agents) and passes an explicit `--limit` to `seo_updates.py` so older algorithm updates are not cut off. `seo-shopify` and `seo-posthog` are not installed here.
 
 # Install / update
 

@@ -4,7 +4,7 @@ title: docx
 description: "Create, read, edit, or manipulate Word (.docx, .dotx) documents — professional formatting, tracked changes, comments, templates, find-and-replace, and image insertion."
 resource: "https://github.com/anthropics/skills/blob/main/skills/docx/SKILL.md"
 tags: [development, installed, documents]
-timestamp: 2026-11-14T00:00:00Z
+timestamp: 2026-11-20T00:00:00Z
 category: development
 group: Documents
 license: Apache-2.0
@@ -31,7 +31,7 @@ Apache-2.0 (since `2c5958e`, 2026-11-06; previously proprietary)
 
 # Trust notes
 
-Official Anthropic document skill. Bundles `scripts/` (including office/LibreOffice helpers and comment/accept-changes utilities) that run locally on user documents. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Low Risk. May invoke `pandoc` or soffice conversion when the workflow requires it. 2026-07-17 upstream refresh rewrote the create/edit guidance around `docx-js` gotchas (page size, tables, TOC headings) and added `.dotx` template support. 2026-11-14 (`1780c5e`): moved to the Apache 2.0 license (`2c5958e`, 2026-11-06); every heading level needs its own style, ZIP folder entries are dropped before rendering and repacking uses `zip -XrD` (Word refused files with them through cloud co-editing), and the shared `scripts/office/` validators and redlining checker are rewritten. No new network or install calls; scripts still run locally on user documents.
+Official Anthropic document skill. Bundles `scripts/` (including office/LibreOffice helpers and comment/accept-changes utilities) that run locally on user documents. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Low Risk. May invoke `pandoc` or soffice conversion when the workflow requires it. 2026-07-17 upstream refresh rewrote the create/edit guidance around `docx-js` gotchas (page size, tables, TOC headings) and added `.dotx` template support. 2026-11-14 (`1780c5e`): moved to the Apache 2.0 license (`2c5958e`, 2026-11-06); every heading level needs its own style, ZIP folder entries are dropped before rendering and repacking uses `zip -XrD` (Word refused files with them through cloud co-editing), and the shared `scripts/office/` validators and redlining checker are rewritten. No new network or install calls; scripts still run locally on user documents. 2026-11-16 (`e4bb5d9`): `scripts/office/soffice.py` renders PDFs and images from a temp copy whose non-web external `.rels` links are cut to `about:blank`, `validate.py` checks the original also unpacks safely, and editing unpacks with Python `zipfile` instead of `unzip` (which restores symlinks) and repacks with `zip -y`. I read both scripts: local only, no network calls.
 
 # Install / update
 

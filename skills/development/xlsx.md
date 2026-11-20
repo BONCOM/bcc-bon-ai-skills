@@ -4,7 +4,7 @@ title: xlsx
 description: "Create, read, edit, or clean spreadsheet files (.xlsx, .xlsm, .csv, .tsv) — formulas, formatting, charts, and tabular cleanup when the deliverable is a spreadsheet."
 resource: "https://github.com/anthropics/skills/blob/main/skills/xlsx/SKILL.md"
 tags: [development, installed, documents]
-timestamp: 2026-11-14T00:00:00Z
+timestamp: 2026-11-20T00:00:00Z
 category: development
 group: Documents
 license: Apache-2.0
@@ -31,7 +31,7 @@ Apache-2.0 (since `2c5958e`, 2026-11-06; previously proprietary)
 
 # Trust notes
 
-Official Anthropic document skill. Bundles `scripts/` (recalc and office helpers) that run locally against workbook files. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Low Risk. Formula recalculation helpers may invoke spreadsheet tooling; keep untrusted files sandboxed. Refreshed 2026-07-17 alongside the shared docx/pptx/xlsx office/ helper rewrite (no scope change for xlsx). 2026-11-14 (`1780c5e`): moved to the Apache 2.0 license (`2c5958e`, 2026-11-06). `scripts/recalc.py` now recalculates on a copy and writes only values back (atomic replace), and reports formulas LibreOffice cannot evaluate under `not_computed` instead of baking `#NAME?` into the file; new gotchas for chart flags, number formats, dropped drawings and slicers.
+Official Anthropic document skill. Bundles `scripts/` (recalc and office helpers) that run locally against workbook files. Skills.sh: Gen Safe, Socket 0 alerts, Snyk Low Risk. Formula recalculation helpers may invoke spreadsheet tooling; keep untrusted files sandboxed. Refreshed 2026-07-17 alongside the shared docx/pptx/xlsx office/ helper rewrite (no scope change for xlsx). 2026-11-14 (`1780c5e`): moved to the Apache 2.0 license (`2c5958e`, 2026-11-06). `scripts/recalc.py` now recalculates on a copy and writes only values back (atomic replace), and reports formulas LibreOffice cannot evaluate under `not_computed` instead of baking `#NAME?` into the file; new gotchas for chart flags, number formats, dropped drawings and slicers. 2026-11-16 (`e4bb5d9`): `scripts/office/soffice.py` renders PDFs and images from a temp copy whose non-web external `.rels` links are cut to `about:blank`, `validate.py` checks the original also unpacks safely, and editing unpacks with Python `zipfile` instead of `unzip` (which restores symlinks) and repacks with `zip -y`. I read both scripts: local only, no network calls.
 
 # Install / update
 

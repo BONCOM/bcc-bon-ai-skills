@@ -31,7 +31,7 @@
 * [vercel-react-best-practices](./vercel-react-best-practices.md) - React and Next.js work should consult these rules when render cost, bundle size, data fetching, or server/client boundaries matter. The 70 installed rules prior
 * [vercel-composition-patterns](./vercel-composition-patterns.md) - Boolean-prop sprawl or an inflexible component API is the signal for this skill. It favors explicit variants, compound components, context interfaces, lifted st
 * [vue](./vue.md) - Vue 3.5 single-file components, Composition API code, `<script setup>` macros, reactivity, watchers, composables, and built-in components such as Teleport or Su
-* [web-design-guidelines](./web-design-guidelines.md) - File-based UI, accessibility, UX, and design reviews can use this focused checker. It fetches Vercel's current Web Interface Guidelines, checks the requested fi
+* [web-design-guidelines](./web-design-guidelines.md) - File-based UI, accessibility, UX, and design reviews can use this focused checker. It reads a pinned copy of Vercel's Web Interface Guidelines bundled with the skill, checks the requested fi
 * [playwright-cli](./playwright-cli.md) - Browser navigation, form interaction, screenshots, page snapshots, and test generation are exposed through the Playwright CLI. Compact snapshot references and p
 
 # Node.js

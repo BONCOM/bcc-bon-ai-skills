@@ -3,7 +3,7 @@ type: Overview
 title: Boncom AI Skills
 description: OKF v0.1 inventory of Cursor/Claude agent skills for Boncom — sources, trust, install, routing, deferred tools.
 tags: [overview, github]
-timestamp: 2026-11-14T22:30:00-07:00
+timestamp: 2026-11-20T12:00:00-07:00
 ---
 
 <div align="center">
@@ -19,7 +19,7 @@ timestamp: 2026-11-14T22:30:00-07:00
 
 **Maintained by [Rishi Ramesh](https://github.com/rrishi0309)**
 
-`Last updated: 2026-11-14 22:30:00 MST`
+`Last updated: 2026-11-20 12:00:00 MST`
 
 </div>
 
@@ -58,27 +58,27 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 
 | Repository | Skills | Last skill update | Repo activity |
 |---|---:|---|---|
-| [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-11-14 | 2026-11-14 |
+| [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | 31 | 2026-11-14 | 2026-11-15 |
 | [`obra/superpowers`](https://github.com/obra/superpowers) | 14 | 2026-11-03 | 2026-11-03 |
-| [`google/skills`](https://github.com/google/skills) | 10 | 2026-11-12 | 2026-11-14 |
-| [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-11-14 | 2026-11-14 |
+| [`google/skills`](https://github.com/google/skills) | 10 | 2026-11-20 | 2026-11-20 |
+| [`anthropics/skills`](https://github.com/anthropics/skills) | 7 | 2026-11-16 | 2026-11-16 |
 | [`better-auth/skills`](https://github.com/better-auth/skills) | 6 | 2026-09-01 | 2026-09-01 |
-| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-11-14 | 2026-11-14 |
-| [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) | 3 | 2026-04-14 | 2026-08-28 |
+| [`addyosmani/agent-skills`](https://github.com/addyosmani/agent-skills) | 4 | 2026-11-16 | 2026-11-18 |
+| [`vercel-labs/agent-skills`](https://github.com/vercel-labs/agent-skills) | 3 | 2026-11-09 | 2026-11-20 |
 | [`anthropics/claude-plugins-official`](https://github.com/anthropics/claude-plugins-official) | 2 | 2026-04-23 | 2026-09-21 |
 | [`hookdeck/webhook-skills`](https://github.com/hookdeck/webhook-skills) | 2 | 2026-11-13 | 2026-11-13 |
 | [`supabase/agent-skills`](https://github.com/supabase/agent-skills) | 2 | 2026-10-02 | 2026-10-02 |
 | [`trailofbits/skills`](https://github.com/trailofbits/skills) | 2 | 2026-10-23 | 2026-11-04 |
 | [`antfu/skills`](https://github.com/antfu/skills) | 1 | 2026-09-28 | 2026-09-30 |
-| [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-11-10 | 2026-11-10 |
-| [`BONCOM/bcc-bon-solutions-skills`](https://github.com/BONCOM/bcc-bon-solutions-skills) | 1 | 2026-11-12 | 2026-11-12 |
+| [`blader/humanizer`](https://github.com/blader/humanizer) | 1 | 2026-11-19 | 2026-11-19 |
+| [`BONCOM/bcc-bon-solutions-skills`](https://github.com/BONCOM/bcc-bon-solutions-skills) | 1 | 2026-11-18 | 2026-11-18 |
 | [`currents-dev/playwright-best-practices-skill`](https://github.com/currents-dev/playwright-best-practices-skill) | 1 | 2026-11-08 | 2026-11-08 |
-| [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-11-14 | 2026-11-14 |
+| [`fastapi/fastapi`](https://github.com/fastapi/fastapi) | 1 | 2026-11-18 | 2026-11-18 |
 | [`firebase/agent-skills`](https://github.com/firebase/agent-skills) | 1 | 2026-11-03 | 2026-11-03 |
 | [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 1 | 2026-10-06 | 2026-10-08 |
 | [`mattpocock/skills`](https://github.com/mattpocock/skills) | 1 | 2026-10-06 | 2026-10-08 |
 | [`mcollina/skills`](https://github.com/mcollina/skills) | 1 | 2026-03-13 | 2026-08-17 |
-| [`microsoft/playwright-cli`](https://github.com/microsoft/playwright-cli) | 1 | 2026-11-05 | 2026-11-05 |
+| [`microsoft/playwright-cli`](https://github.com/microsoft/playwright-cli) | 1 | 2026-11-18 | 2026-11-18 |
 | [`microsoft/skills`](https://github.com/microsoft/skills) | 1 | 2026-07-22 | 2026-09-21 |
 | [`paulnsorensen/skillz-that-grillz`](https://github.com/paulnsorensen/skillz-that-grillz) | 1 | 2026-09-28 | 2026-09-29 |
 | [`vercel-labs/skills`](https://github.com/vercel-labs/skills) | 1 | 2026-07-10 | 2026-09-18 |
@@ -87,7 +87,7 @@ One row per upstream GitHub repo. Expand a pack below for a short summary — fu
 ### Skill inventory
 
 <details>
-<summary><a href="https://github.com/AgriciDaniel/claude-seo"><strong>AgriciDaniel/claude-seo</strong></a> · <strong>31</strong> skills · skills updated <code>2026-11-14</code> · repo <code>2026-11-14</code></summary>
+<summary><a href="https://github.com/AgriciDaniel/claude-seo"><strong>AgriciDaniel/claude-seo</strong></a> · <strong>31</strong> skills · skills updated <code>2026-11-14</code> · repo <code>2026-11-15</code></summary>
 
 Claude SEO suite for audits, content, technical SEO, local/maps, schema, sitemaps, AI-search (GEO), and vendor extensions.
 
@@ -111,7 +111,7 @@ End-to-end agentic engineering process: design → plan → TDD → implement �
 </details>
 
 <details>
-<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-11-12</code> · repo <code>2026-11-14</code></summary>
+<summary><a href="https://github.com/google/skills"><strong>google/skills</strong></a> · <strong>10</strong> skills · skills updated <code>2026-11-20</code> · repo <code>2026-11-20</code></summary>
 
 Google Cloud product skills for common Boncom cloud work.
 
@@ -122,7 +122,7 @@ Google Cloud product skills for common Boncom cloud work.
 </details>
 
 <details>
-<summary><a href="https://github.com/anthropics/skills"><strong>anthropics/skills</strong></a> · <strong>7</strong> skills · skills updated <code>2026-11-14</code> · repo <code>2026-11-14</code></summary>
+<summary><a href="https://github.com/anthropics/skills"><strong>anthropics/skills</strong></a> · <strong>7</strong> skills · skills updated <code>2026-11-16</code> · repo <code>2026-11-16</code></summary>
 
 Official Anthropic skills for Claude/API work, UI design, MCP servers, and office documents. The four Office skills (docx, pptx, xlsx, pdf) are Apache-2.0 since 2026-11-06.
 
@@ -144,7 +144,7 @@ Better Auth setup, scaffolding, and hardening.
 </details>
 
 <details>
-<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-11-14</code> · repo <code>2026-11-14</code></summary>
+<summary><a href="https://github.com/addyosmani/agent-skills"><strong>addyosmani/agent-skills</strong></a> · <strong>4</strong> skills · skills updated <code>2026-11-16</code> · repo <code>2026-11-18</code></summary>
 
 Production quality skills for delivery and runtime health.
 
@@ -155,7 +155,7 @@ Production quality skills for delivery and runtime health.
 </details>
 
 <details>
-<summary><a href="https://github.com/vercel-labs/agent-skills"><strong>vercel-labs/agent-skills</strong></a> · <strong>3</strong> skills · skills updated <code>2026-04-14</code> · repo <code>2026-08-28</code></summary>
+<summary><a href="https://github.com/vercel-labs/agent-skills"><strong>vercel-labs/agent-skills</strong></a> · <strong>3</strong> skills · skills updated <code>2026-11-09</code> · repo <code>2026-11-20</code></summary>
 
 Vercel engineering guidance for React/Next UI quality and performance.
 
@@ -221,7 +221,7 @@ Vue 3 / Composition API guidance.
 </details>
 
 <details>
-<summary><a href="https://github.com/blader/humanizer"><strong>blader/humanizer</strong></a> · <strong>1</strong> skill · skills updated <code>2026-11-10</code> · repo <code>2026-11-10</code></summary>
+<summary><a href="https://github.com/blader/humanizer"><strong>blader/humanizer</strong></a> · <strong>1</strong> skill · skills updated <code>2026-11-19</code> · repo <code>2026-11-19</code></summary>
 
 Rewrite AI-sounding prose so it reads naturally.
 
@@ -232,9 +232,9 @@ Rewrite AI-sounding prose so it reads naturally.
 </details>
 
 <details>
-<summary><a href="https://github.com/BONCOM/bcc-bon-solutions-skills"><strong>BONCOM/bcc-bon-solutions-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-11-12</code> · repo <code>2026-11-12</code></summary>
+<summary><a href="https://github.com/BONCOM/bcc-bon-solutions-skills"><strong>BONCOM/bcc-bon-solutions-skills</strong></a> · <strong>1</strong> skill · skills updated <code>2026-11-18</code> · repo <code>2026-11-18</code></summary>
 
-Solutions R2-D2, the Boncom Solutions team's own toolkit (internal repo, v2.17.2). Installed by symlink from a local clone, not through `skills@…`; since 2.2.1 it updates itself on first use (or `git pull` by hand). Since 2.3.0 the same skill also works in Codex and Synaptic Code, and since 2.17.0 in Antigravity and Gemini CLI.
+Solutions R2-D2, the Boncom Solutions team's own toolkit (internal repo, v2.18.3). Installed by symlink from a local clone, not through `skills@…`; since 2.2.1 it updates itself on first use (or `git pull` by hand). Since 2.3.0 the same skill also works in Codex and Synaptic Code, and since 2.17.0 in Antigravity and Gemini CLI.
 
 **Covers:** new Suite apps (or only the pieces wanted, e.g. a Boncom-styled local app without sign-in), Boncom design system build/check and entry pages, central auth, per-role practice accounts, Cloud Run deploy and ship, doctor health check, security scan, `bcc-bon-` repo naming
 
@@ -254,7 +254,7 @@ Deep Playwright test design and maintenance.
 </details>
 
 <details>
-<summary><a href="https://github.com/fastapi/fastapi"><strong>fastapi/fastapi</strong></a> · <strong>1</strong> skill · skills updated <code>2026-11-14</code> · repo <code>2026-11-14</code></summary>
+<summary><a href="https://github.com/fastapi/fastapi"><strong>fastapi/fastapi</strong></a> · <strong>1</strong> skill · skills updated <code>2026-11-18</code> · repo <code>2026-11-18</code></summary>
 
 Current FastAPI conventions for APIs and review.
 
@@ -309,7 +309,7 @@ Node.js backend patterns (Node 22+).
 </details>
 
 <details>
-<summary><a href="https://github.com/microsoft/playwright-cli"><strong>microsoft/playwright-cli</strong></a> · <strong>1</strong> skill · skills updated <code>2026-11-05</code> · repo <code>2026-11-05</code></summary>
+<summary><a href="https://github.com/microsoft/playwright-cli"><strong>microsoft/playwright-cli</strong></a> · <strong>1</strong> skill · skills updated <code>2026-11-18</code> · repo <code>2026-11-18</code></summary>
 
 Shell-driven browser automation via Playwright CLI.
 
